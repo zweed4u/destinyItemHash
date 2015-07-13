@@ -2,3 +2,5 @@ This is an xml parser that makes use of a sitemap to catalog item number hashes 
 This will be expanded to make use of the item hashes in Bungie's API so that more information can be extracted for each item. 
 
 eg. http://www.bungie.net/platform/Destiny/Manifest/InventoryItem/*
+
+Contact me with any questions: @ZWeed4U
