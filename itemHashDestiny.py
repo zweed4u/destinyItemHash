@@ -14,5 +14,15 @@ for loc_val in loc_values:
 		print (str(item).split('items/'))[1][:(str(item).split('items/'))[1].replace('-', ' ' ,1).index(' ')]+' - '+(str(item).split('items/'))[1][(str(item).split('items/'))[1].replace('-', ' ' ,1).index(' ')+1:].replace("-"," ").title()
 		f.write((str(item).split('items/'))[1][:(str(item).split('items/'))[1].replace('-', ' ' ,1).index(' ')]+' - '+(str(item).split('items/'))[1][(str(item).split('items/'))[1].replace('-', ' ' ,1).index(' ')+1:].replace("-"," ").title()+'\n')
 f.close()
-print '\nComplete! File saved to:\n'+os.getcwd()+'/itemHashCatalog.txt'
+print '\nComplete! File saved to:\n'+os.getcwd()+'/itemHashCatalog.txt\n'
+
+print "For what do you want me to pull info for?"
+item = raw_input('')
+item = item.title()
+with open('itemHashCatalog.txt', 'r') as inF:
+    for line in inF:
+        if str(item) in line:
+		print line
+		
+
 
