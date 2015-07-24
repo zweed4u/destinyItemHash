@@ -1,6 +1,7 @@
 from xml.dom import minidom
 import urllib
 import os
+import sys
 url = 'http://www.destinydb.com/sitemap.xml/items/1'
 xml = urllib.urlopen(url).read()
 xmldoc = minidom.parseString(xml)
@@ -19,10 +20,39 @@ print '\nComplete! File saved to:\n'+os.getcwd()+'/itemHashCatalog.txt\n'
 print "For what do you want me to pull info for?"
 item = raw_input('')
 item = item.title()
+
+#Keep track of multiple matches
+count=0
+
+#Declare array/list with 'null' in index0 for consistency in enumerations
+matchArray=['null']
+
 with open('itemHashCatalog.txt', 'r') as inF:
-    for line in inF:
-        if str(item) in line:
-		print line
+	for line in inF:
+        	if str(item) in line:
+			count+=1		
+			print '\nMatch '+str(count)+":\n"+ line
+			matchArray.append(str(line))
+if count>1:
+	print "Multiple intances found!\n"
+	#sleep here to let user know
+	print "Which match number is desired? (enter number from above)"
+	itemSpecific = raw_input('')
+	print "\n"+matchArray[int(itemSpecific)]	
+
+elif count==1:
+	#Nothing only one match - set index to after 'null'
+	itemSpecific=1
+	pass
+
+#No matches 			
+else:
+	print "\nNo matches found. Please check spelling and rerun.\n"
+	sys.exit()
+
+#matchArray[int(itemSpecific)] used from here
+
+		
 		
 
 
