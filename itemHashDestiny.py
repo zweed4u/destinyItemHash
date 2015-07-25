@@ -38,7 +38,7 @@ if count>1:
 	#sleep here to let user know
 	print "Which match number is desired? (enter number from above)"
 	itemSpecific = raw_input('')
-	print "\n"+matchArray[int(itemSpecific)]	
+	#print "\n"+matchArray[int(itemSpecific)]	
 
 elif count==1:
 	#Nothing only one match - set index to after 'null'
@@ -50,7 +50,13 @@ else:
 	print "\nNo matches found. Please check spelling and rerun.\n"
 	sys.exit()
 
-#matchArray[int(itemSpecific)] used from here
+itemHash=str(matchArray[int(itemSpecific)].split(' - ')[0])
+itemName=str(matchArray[int(itemSpecific)].split(' - ')[1])
+itemUrl="http://www.bungie.net/platform/Destiny/Manifest/InventoryItem/"+itemHash+"/"
+
+print "HASH:\n"+itemHash+"\n"
+print "ITEM:\n"+itemName+"\n"
+print "URL:\n"+itemUrl+"\n"
 
 		
 		
