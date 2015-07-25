@@ -2,6 +2,7 @@ from xml.dom import minidom
 import urllib
 import os
 import sys
+import json
 url = 'http://www.destinydb.com/sitemap.xml/items/1'
 xml = urllib.urlopen(url).read()
 xmldoc = minidom.parseString(xml)
@@ -34,11 +35,11 @@ with open('itemHashCatalog.txt', 'r') as inF:
 			print '\nMatch '+str(count)+":\n"+ line
 			matchArray.append(str(line))
 if count>1:
-	print "Multiple intances found!\n"
+	print "Multiple intances found! ("+str(count)+")\n"
 	#sleep here to let user know
 	print "Which match number is desired? (enter number from above)"
 	itemSpecific = raw_input('')
-	#print "\n"+matchArray[int(itemSpecific)]	
+	#Catch out of bound input here	
 
 elif count==1:
 	#Nothing only one match - set index to after 'null'
@@ -58,7 +59,15 @@ print "HASH:\n"+itemHash+"\n"
 print "ITEM:\n"+itemName+"\n"
 print "URL:\n"+itemUrl+"\n"
 
-		
-		
+response = urllib.urlopen(itemUrl)
+data = json.loads(response.read())
+itemInfoDict = data.values()[4]
+
+print "Name: "+itemInfoDict[u'data'][u'inventoryItem'][u'itemName']
+print "Description: "+itemInfoDict[u'data'][u'inventoryItem'][u'itemDescription']
+print "Type of weapon: "+itemInfoDict[u'data'][u'inventoryItem'][u'itemTypeName']
+print "Tier: " +itemInfoDict[u'data'][u'inventoryItem'][u'tierTypeName']
+print "Icon: http://www.bungie.net"+itemInfoDict[u'data'][u'inventoryItem'][u'icon']
+print "\n"
 
 
