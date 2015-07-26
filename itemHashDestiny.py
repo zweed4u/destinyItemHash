@@ -3,6 +3,7 @@ import urllib
 import os
 import sys
 import json
+print "\nWriting itemHash text file to local disk..."
 url = 'http://www.destinydb.com/sitemap.xml/items/1'
 xml = urllib.urlopen(url).read()
 xmldoc = minidom.parseString(xml)
@@ -55,19 +56,25 @@ itemHash=str(matchArray[int(itemSpecific)].split(' - ')[0])
 itemName=str(matchArray[int(itemSpecific)].split(' - ')[1])
 itemUrl="http://www.bungie.net/platform/Destiny/Manifest/InventoryItem/"+itemHash+"/"
 
-print "HASH:\n"+itemHash+"\n"
-print "ITEM:\n"+itemName+"\n"
+print "\nHASH:\n"+itemHash+"\n"
+print "ITEM:\n"+itemName.split('\n')[0]+"\n"
 print "URL:\n"+itemUrl+"\n"
 
 response = urllib.urlopen(itemUrl)
 data = json.loads(response.read())
 itemInfoDict = data.values()[4]
 
+
+#Text class here for prettiness
 print "Name: "+itemInfoDict[u'data'][u'inventoryItem'][u'itemName']
 print "Description: "+itemInfoDict[u'data'][u'inventoryItem'][u'itemDescription']
 print "Type of weapon: "+itemInfoDict[u'data'][u'inventoryItem'][u'itemTypeName']
 print "Tier: " +itemInfoDict[u'data'][u'inventoryItem'][u'tierTypeName']
-print "Icon: http://www.bungie.net"+itemInfoDict[u'data'][u'inventoryItem'][u'icon']
+iconUrl='http://www.bungie.net'+itemInfoDict[u'data'][u'inventoryItem'][u'icon']
+print "Icon: "+iconUrl
+
+print "\nSaving icon to "+os.path.dirname(os.path.realpath(__file__))+"/icons/" +itemName.split('\n')[0]+".jpg..."
+urllib.urlretrieve(iconUrl, 'icons/'+itemName.split('\n')[0]+".jpg")
 print "\n"
 
 
