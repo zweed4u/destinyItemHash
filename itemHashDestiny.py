@@ -1,4 +1,5 @@
 from xml.dom import minidom
+from PIL import Image                                                                                
 import urllib
 import os
 import sys
@@ -36,6 +37,7 @@ with open('itemHashCatalog.txt', 'r') as inF:
 			print '\nMatch '+str(count)+":\n"+ line
 			matchArray.append(str(line))
 if count>1:
+	#BOLD HERE
 	print "Multiple intances found! ("+str(count)+")\n"
 	#sleep here to let user know
 	print "Which match number is desired? (enter number from above)"
@@ -56,8 +58,8 @@ itemHash=str(matchArray[int(itemSpecific)].split(' - ')[0])
 itemName=str(matchArray[int(itemSpecific)].split(' - ')[1])
 itemUrl="http://www.bungie.net/platform/Destiny/Manifest/InventoryItem/"+itemHash+"/"
 
-print "\nHASH:\n"+itemHash+"\n"
-print "ITEM:\n"+itemName.split('\n')[0]+"\n"
+print "\nITEM:\n"+itemName.split('\n')[0]+"\n"
+print "HASH:\n"+itemHash+"\n"
 print "URL:\n"+itemUrl+"\n"
 
 response = urllib.urlopen(itemUrl)
@@ -73,8 +75,12 @@ print "Tier: " +itemInfoDict[u'data'][u'inventoryItem'][u'tierTypeName']
 iconUrl='http://www.bungie.net'+itemInfoDict[u'data'][u'inventoryItem'][u'icon']
 print "Icon: "+iconUrl
 
-print "\nSaving icon to "+os.path.dirname(os.path.realpath(__file__))+"/icons/" +itemName.split('\n')[0]+".jpg..."
+print "\nSaving icon to "+os.path.dirname(os.path.realpath(__file__))+"/icons/" +itemName.split('\n')[0]+".jpg\n"
 urllib.urlretrieve(iconUrl, 'icons/'+itemName.split('\n')[0]+".jpg")
-print "\n"
+
+print "Opening image...\n"
+img = Image.open(os.path.dirname(os.path.realpath(__file__))+"/icons/" +itemName.split('\n')[0]+".jpg")
+img.show()
+
 
 
