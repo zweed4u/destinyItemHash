@@ -11,4 +11,9 @@ Item search is via substring so "gja" returns:
 
 "1274330687 - Gjallarhorn"  
 
+==================================================
+In the near future, file checking will be implemented and if the hash cataog is already existant then the file creation will be skipped and only parsing the existant document will take place. 
+
+
+
 Contact me with any questions: @ZWeed4U
