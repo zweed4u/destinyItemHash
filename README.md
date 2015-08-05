@@ -13,7 +13,7 @@ Item search is via substring so "gja" returns:
 
 ==================================================  
 
-~~In the near future, file checking will be implemented and if the hash cataog is already existant then the file creation will be skipped and only parsing the existant document will take place.~~  
+~~In the near future, file checking will be implemented and if the hash cataog is already existant then the file creation will be skipped and only parsing the existant document will take place.~~
 
 ==================================================
 Recently, Bungie has required an API Key header to view their '/Manifest/*' path. I migrated to urllib2 to allow header addition in the request. Image download is still available publicly without any headers so I stuck with urllib to download.   
