@@ -1,11 +1,11 @@
 from xml.dom import minidom
 from PIL import Image                                                                                
+import urllib2
 import urllib
 import os
 import sys
 import json
 
-#prompt user for api key
 print "\nChecking local disk in current directory..."
 if (os.path.exists('itemHashCatalog.txt')==False):
 	print "Catalog needed."
@@ -61,6 +61,7 @@ else:
 	print "\nNo matches found. Please check spelling and rerun.\n"
 	sys.exit()
 
+#Last verification with info from hash catalog
 itemHash=str(matchArray[int(itemSpecific)].split(' - ')[0])
 itemName=str(matchArray[int(itemSpecific)].split(' - ')[1])
 itemUrl="http://www.bungie.net/platform/Destiny/Manifest/InventoryItem/"+itemHash+"/"
@@ -69,10 +70,18 @@ print "\nITEM:\n"+itemName.split('\n')[0]+"\n"
 print "HASH:\n"+itemHash+"\n"
 print "URL:\n"+itemUrl+"\n"
 
-response = urllib.urlopen(itemUrl)
-data = json.loads(response.read())
-itemInfoDict = data.values()[4]
+#Exception handling needed for incorrect input
+print "\nPlease enter your API Key: (Retrieved here: https://www.bungie.net/en/User/API)"
+API_Key = raw_input('')
+print "\n"
 
+#Migrated to urllib2 for header capability
+req = urllib2.Request(itemUrl)
+#Bungie making it harder to reference without dev capability -_-
+req.add_header('X-API-Key', str(API_Key))
+resp = urllib2.urlopen(req)
+data = json.loads(resp.read())
+itemInfoDict = data.values()[4]
 
 #Text class here for prettiness
 print "Name: "+itemInfoDict[u'data'][u'inventoryItem'][u'itemName']
@@ -83,11 +92,12 @@ iconUrl='http://www.bungie.net'+itemInfoDict[u'data'][u'inventoryItem'][u'icon']
 print "Icon: "+iconUrl
 
 print "\nSaving icon to "+os.path.dirname(os.path.realpath(__file__))+"/icons/" +itemName.split('\n')[0]+".jpg\n"
+
+#Use requests to download image -- below this comment needs fixing
+#UPDATE_COMMENT: just going to use both libraries - screw it
 urllib.urlretrieve(iconUrl, 'icons/'+itemName.split('\n')[0]+".jpg")
 
 print "Opening image...\n"
 img = Image.open(os.path.dirname(os.path.realpath(__file__))+"/icons/" +itemName.split('\n')[0]+".jpg")
 img.show()
-
-
 
