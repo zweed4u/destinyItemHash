@@ -6,6 +6,8 @@ import os
 import sys
 import json
 
+
+		 
 print "\nChecking local disk in current directory..."
 if (os.path.exists('itemHashCatalog.txt')==False):
 	print "Catalog needed."
@@ -70,13 +72,39 @@ print "\nITEM:\n"+itemName.split('\n')[0]+"\n"
 print "HASH:\n"+itemHash+"\n"
 print "URL:\n"+itemUrl+"\n"
 
-#Exception handling needed for incorrect input
-print "\nPlease enter your API Key: (Retrieved here: https://www.bungie.net/en/User/API)"
-API_Key = raw_input('')
-print "\n"
+############## ADDED
+while 1:
+	if (os.path.exists('myKey.txt')==False):
+		print "***API Key needed!***\nPlease create a text file called 'myKey' containing your API key in the same directory as this file and rerun or press any key to enter manually."
+
+		#Any Key press to continue here.
+		raw_input('')
+		
+		#Exception handling needed for incorrect input
+		print "\nPlease enter your API Key: (Retrieved here: https://www.bungie.net/en/User/API)"
+		API_Key = raw_input('')
+		print "\n"
+		break;
+
+	else:
+		print "API key txt file found! Parsing..."
+		f=open('myKey.txt','r')
+		textContents=f.read()
+
+		#Omitting spaces and newlines
+		#Also check string length - might be fixed number of characters - verify with another key
+		#Going to have to parse txt file for spaces at end (Only take the 30+ alphanumeric string)
+		#Also omit myKey.txt from gitignore
+		API_Key=textContents.replace(' ','').replace('\n','')
+		print "Your API_KEY: " + str(API_Key)
+		print "\n"
+
+		#Chance to correct/man enter here
+		break;
 
 #Migrated to urllib2 for header capability
 req = urllib2.Request(itemUrl)
+
 #Bungie making it harder to reference without dev capability -_-
 req.add_header('X-API-Key', str(API_Key))
 resp = urllib2.urlopen(req)
@@ -100,4 +128,6 @@ urllib.urlretrieve(iconUrl, 'icons/'+itemName.split('\n')[0]+".jpg")
 print "Opening image...\n"
 img = Image.open(os.path.dirname(os.path.realpath(__file__))+"/icons/" +itemName.split('\n')[0]+".jpg")
 img.show()
+
+#If myKey.txt path = false Write entered API to a created file...
 
