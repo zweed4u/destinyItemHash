@@ -17,6 +17,8 @@ Item search is via substring so "gja" returns:
 
 ==================================================
 Recently, Bungie has required an API Key header to view their '/Manifest/*' path. I migrated to urllib2 to allow header addition in the request. Image download is still available publicly without any headers so I stuck with urllib to download.   
+-UPDATE-  
+API Key is no longer needed in the request. API Key will still be implemented to ensure proper functionality.  
 On the fly API Key generating maybe something to come in the future.  
 
 
