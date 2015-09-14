@@ -1,19 +1,46 @@
+19464 - Thanatonauts Bond
+19465 - Bond Of Veils
+19466 - Wellspring Bond
+19467 - Seraph Bond
+19468 - Praxic Vim
+19469 - Praxic Thunder
 1505920 - Prime Target
+1630458 - Guns Blazing
+1799010 - Coded Engram
 3509787 - Kellhunters Hood
 6252344 - Manifold Seeker Ii
 6252345 - Manifold Seeker I
-9617303 - Bounty Lead
+10673376 - Winged Sun Gauntlets
+10673377 - Blindsight Gauntlets
+10895374 - Equip Armor
 11037811 - Immanent War Greaves
+12469152 - Nox Praeli Iii
+12469153 - Nox Astur Iii
+12469154 - Heath Fr3
+12469155 - Tundra Fr3
+12873460 - Legacy Engram
 13050290 - Unity Clade
 13050291 - Apex Harmonic
 15845168 - Chroma Vow
 15845169 - Chroma Vow Iii
+16570668 - Encrypted Engram
+18327078 - Hesperonaut Mark
+18327079 - Pioneer Mark
 18576972 - Eclipse Maw Vi
 18576973 - Nerigal Savant Iii
 19100547 - Hadronic Essence
-21178484 - Wanted Tracer Shanks
+21395672 - Sunbreaker
+21395673 - Sunbreaker
+22458588 - Tenebrous Tunnels
 23851077 - The Infinite Theorem
 27147831 - Exotic Engram
+27411484 - Dead Orbit
+27771120 - Wax Sealed Case
+27771121 - Thrice Wrapped Thing
+27771122 - Filament Hex
+27771123 - Dredgen Yors Rose
+27771124 - Ankh Of Sai Mota
+27771125 - Blood Soaked Charm
 27863601 - Trax Callum I
 29183756 - Reforge Weapon
 31629780 - Reforge Weapon
@@ -28,12 +55,19 @@
 38310101 - Kali Gnt Scout Rig
 42867523 - Iron Breed Sleeves
 42955693 - Decoherent Engram
+46626822 - Stand Against The Shield Brothers
 46660196 - Admonisher Iii
 46721743 - The Scholar
 47534634 - Reforge Weapon
+48423572 - Reflection Sum
+48423573 - Reflection Sum Adept
+49392834 - Talk To Eris
+50307240 - Hakke Test A
 51034763 - Royal Amethyst
 53631280 - New Monarchy
 57342908 - Never See You Coming
+57660787 - Thunderlord
+58181276 - Talk To Executor Hideo
 60040896 - Toutatis Type 0
 60040897 - Toutatis Type 1
 60040898 - Toutatis Type 2
@@ -42,30 +76,40 @@
 60040901 - Toutatis Type 5
 60573262 - Gloves Of The Exile
 60573263 - Watchers Gloves
+61473018 - Quest Item
+64678640 - Sharpshooter
 65908013 - Red Hand Ix
 67230518 - Payment Vi
 67667123 - Legendary Engram
 68047063 - Target Banuk Ur Prince
 68914963 - Encrypted Engram
+70035233 - Pride Of Nepal
 73994448 - Tomorrows Answer
 74042164 - Code Fire I
 74042165 - Code Fire
 74042166 - Code Fire Iii
 74042167 - Code Fire Ii
+76297077 - Last Extremity
 76567253 - Longshot
 78421062 - Young Ahamkaras Spine
 79021170 - Sanction Six
 79021171 - Fear Eater
+80336626 - Early Days
 80721892 - Prism Schism
 80721893 - Futile Gesture
 80721894 - Angelic Acid
 80721895 - Spindevil 3Aa
-81441169 - Bounty Lead
-81590055 - The Rise Of Crota
 81603307 - Knight Type 1
 82196036 - Decoherent Engram
+82944038 - Iron Companion Plate
 88964023 - The Conduit
+90224050 - Talk To Amanda
 90237898 - Exotic Engram
+93647184 - Questing Beast
+93647185 - An Answering Chord
+93740664 - Talk To Ikora
+93740665 - Talk To Ikora
+93850354 - Kallipolis Crown
 94503888 - Aos Al Suhail I
 94503889 - Aos Al Suhail Ii
 94503890 - Aos Al Suhail Iii
@@ -73,8 +117,12 @@
 94503892 - Aos Al Suhail V
 94503893 - Aos Al Suhail Vi
 94883184 - Ats 8 Arachnid
+95503046 - Talk To Lord Shaxx
 96763138 - Aos Cryptid Cloak
 96763139 - H_Ld Starwinder Cloak
+96885368 - Quest Item
+99462852 - Invective
+99462854 - The 4Th Horseman
 99926221 - House Of Wolves
 99926222 - House Of Devils
 99926223 - House Of Kings
@@ -84,15 +132,21 @@
 100134277 - Strange Trinket
 100134278 - Archival Files
 104781337 - Mk 44 Stand Asides
+105485105 - Ats 8 Tarantella
 105903490 - Eclipse Maw Vi
 105903491 - Nerigal Savant Iii
+106004904 - Samsara I
+106004905 - Bindcaster I
 106426948 - Techeun Force
 106426949 - Techeun Force
 107132052 - Thats How I Roll
 107178591 - Decoherent Engram
+107282797 - Backstabber
 107909047 - Throw Down
+108356090 - The Future War Cult
 108485082 - I Protest
 108485083 - Crash Casket 81
+109810446 - Omolon Cocytus Sr4
 111260720 - 0A0X Nightmask V1 1 5
 111260722 - 0A0X Nightmask
 111260723 - 0A0X Nightmask V1 1 4
@@ -104,47 +158,90 @@
 114347509 - Locus Watcher Iii
 114347510 - Locus Watcher Ii
 114347511 - Locus Watcher I
+114907886 - Take Them Out
 119482464 - Hard Light
 119482465 - Suros Regime
 119482466 - Monte Carlo
-119717243 - Gone To Ground
 120524974 - Jewel Of Osiris
 120524975 - Jewel Of Osiris Adept
+124359893 - Be Brave
+125491408 - A Heros Return
+125526441 - Ishtar Collective
+125526442 - A Strangers Call
+125526444 - Eye Of A Gatelord
+126015410 - Just A Game
 126428429 - Vehicle Shader Template
+127498784 - Erupting Void
+128807491 - Zhurong Type 0
+128807492 - Ithacan Type 1
+128807493 - Ithacan Type 0
+128807494 - Taroudant Type 1
+128807495 - Taroudant Type 0
+129270332 - Slay Enemies
+130578780 - War Numens Mark
+130578781 - Mark Of The Old Challenge
 131566886 - Reforge Weapon
+133098253 - Hakke Test A
 133528858 - Mark Of Chaos
 133528859 - Mark Of No Tomorrow
 135862170 - Bad Juju
 135862171 - Red Death
 136148814 - Jolders Hammer
-138914750 - Bounty Lead
-140682358 - Shine A Light
+136593375 - Suros Wsc 17
+139269491 - Talk To Ikora
+139269492 - Talk To Ikora
+139269493 - Talk To Ikora
+139269494 - Talk To Ikora
+139269495 - Talk To Ikora
+142571568 - Hesperos Type 0
+142571569 - Hesperos Type 1
 142694124 - Treasure Key
 144553853 - Mask Of The Third Man
 144553854 - Achlyophage Symbiote
 144553855 - Knucklehead Radar
+146238714 - Gather Weapon Data
 148636324 - Cloak Of The Justicars
 148636325 - Cloak Of Order
 149649367 - The Messenger
 150661683 - Regulus Class 99 Schematic
+151277314 - Exotic Engram
 152628833 - Corrective Measure
-155058876 - The Elder Cipher
+155374076 - Thagomizers
+155374077 - Immolation Fists
 156578464 - Target Practice
+156707608 - The Ishtar Dilemma
+156707609 - Ones And Zeroes
+156707610 - Highest Squidder
+156707611 - Squid Pro Quo
+156707612 - Harbinger Hood
+156707613 - Queens Arrow
+158587848 - Taroudant Type 0
+158587849 - Taroudant Type 1
+158587850 - Ithacan Type 0
+158587851 - Ithacan Type 1
+158587852 - Zhurong Type 0
+158728968 - Kill Taken Champions
+158816240 - The Devils Lair
 159888429 - Exotic Engram
 160095218 - Felwinters Lie
 162157029 - Cloak Of The Rising
 162157030 - Cloak Of Order
 162157031 - Cloak Of The Justicars
+162980314 - Classified
+164905399 - Team Player
+165221410 - Iron Pride
+165221411 - The Ironwood Tree
 165822953 - Queens Guard Gauntlets
-169959541 - Bounty Lead
 169988218 - Sepiks Prime
-170188079 - Wanted Wolves Guard
-173549086 - Wanted Wolf Enforcer
+174825552 - Salvage Custom Parts
 179288772 - Lightmail
+179406539 - Bank Test
 181829154 - Kestrel Class Ex Schematic
 184047084 - Exotic Engram
 186143053 - Tireless Striders
+186301954 - Exotic Engram
 186520644 - Dead Light Grips
+187864721 - Full Auto Expert
 189873545 - Jolders Iron Sash
 190731588 - Shadow Of Veils
 191110339 - Afv1 Octavian Schematic
@@ -161,11 +258,18 @@
 194424270 - Amber Hoplite
 194424271 - Walkabout
 195340509 - Golden Age Shotgun Magazine
+197430987 - Legendary Engram
 198836010 - Immanent War Gloves
 199830403 - Spent Displacer
 201740456 - Atlass Burden
 201740457 - The Mandate
 202210218 - Deadshot Luna Sr1
+202245944 - Feud Unfading
+202245945 - Beltane
+202245946 - Yesternight
+202245947 - Chalcedony
+202245948 - Kingspyre
+202245949 - Chanson De Geste
 203169782 - Blood And Mortar
 203169783 - Ultimateless
 204520812 - Harbinger
@@ -173,6 +277,7 @@
 205776169 - Scalpel Wing Iii
 205776170 - Scalpel Wing I
 205776171 - Scalpel Wing
+206316291 - Alpha Strike
 206531082 - Reforge Weapon
 207736056 - Astrolord Gloves
 207736057 - Gloves Of No Tomorrow
@@ -183,26 +288,41 @@
 211406994 - Mark Of The Chain
 211406995 - Mark Of Command
 211861343 - Heavy Ammo Synthesis
-212148002 - Bounty Lead
 214196697 - Exotic Engram
 214611822 - Scalpel Wing
 214611823 - Scalpel Wing Iii
+217447094 - Harrowed War Numens Fist
+217447095 - War Numens Fist
 218050499 - Decoherent Engram
 218490690 - Relic Harvest Venus
+219031984 - Cant Touch Us
+220900582 - Legacy Engram
 227613518 - No Riding Zone
 230566398 - Dominion
+230678655 - Speak To Cayde 6
+231278440 - Corsairs Revenge 2 0
+231278441 - Corsairs Revenge 1 0
+231278444 - Wolf Pelt Weave 1 0
+231278445 - Wolf Pelt Weave Zed
+231278446 - Wolf Pelt Weave 3 0
+231278447 - Wolf Pelt Weave 2 0
 235950011 - An Enthusiastic Gun
-235950012 - A Pleased Machine Gun Frame
-235950013 - A Mournful Gun
-235950014 - A Recalcitrant Gun
-235950015 - A Voice In The Wilderness
+235950012 - An Enthusiastic Gun
+235950013 - An Enthusiastic Gun
+235950014 - An Enthusiastic Gun
+235950015 - An Enthusiastic Gun
 236238068 - Raku Fulcrum Type 2
 236238070 - Raku Fulcrum Type 0
 236238071 - Raku Fulcrum Type 1
 240007508 - Venus Target
+240857709 - Take The Middle
 242182461 - Stopping Power
+244570843 - Requisition A New Weapon
+244633397 - Kallipolis Plate
 245482379 - Helium Filaments
 245482398 - Helium Filaments
+246318587 - Armor Supplies Donation
+248392408 - Kings Fall
 248874957 - Scoutmail Type 3
 248874958 - Scoutmail Type 2
 248874959 - Scoutmail
@@ -217,10 +337,10 @@
 252747642 - Scoutmail Type 3
 252747643 - Scoutmail Type 4
 254918725 - Bond Of The Exile
+255654879 - Zhalo Supercell
 256073900 - Code Fire Ii
 256073902 - Code Fire
 256073903 - Code Fire I
-257751849 - Wanted Wolf Scavengers
 258181985 - Ascendant Shard
 260216313 - Vanquisher Viii
 260913268 - Techeun Force
@@ -228,6 +348,8 @@
 261026955 - Manifold Seeker Ii
 261056795 - Face Your Fears
 261727865 - The Strangers Rifle
+262854458 - Kallipolis Mantle
+263993300 - Spare Change 25
 264407399 - Omit The Legend
 265815054 - Legendary Engram
 267584354 - Reforge Weapon
@@ -239,8 +361,8 @@
 268122075 - Ns22 High Water
 268122076 - Ns44 High Water
 268122077 - Ns66 High Water
+268614138 - Talk To Arcite 99 40
 269776572 - House Banners
-269998270 - Grips Of The Exile
 270274954 - Vector Oath Iv
 270274955 - Vector Oath
 270602882 - Decoherent Engram
@@ -254,7 +376,6 @@
 272343900 - Baron Rs 2A
 272439128 - Mangala Skin 1 3B
 272439129 - Mangala Skin 1 3
-274053155 - Bounty Lead
 275846864 - Mark Of The Exile
 275846865 - Watchers Mark
 277550112 - Exotic Engram
@@ -263,6 +384,8 @@
 278190542 - Justicars Boots
 278190543 - Orders Boots
 278203778 - Public Event Completed
+279670352 - Heavy Ammo Donation
+280603403 - Exotic Engram
 281640922 - Carnivore Match
 281640923 - Sanction Custom
 282302544 - Upgraded S 31C
@@ -271,23 +394,37 @@
 282302547 - Upgraded S 31C
 283184562 - Watchers Bond
 283184563 - Bond Of The Exile
-283959138 - Bounty Lead
 287395896 - Starfire Protocol
+290931251 - Omnigul Bond
 291590811 - Encrypted Engram
 295124230 - Special Delivery
-296479218 - The Cleansing
+298210614 - Diligent
+298904231 - Gather Weapon Data
 299288132 - Mark Of Favor
 299288133 - Formation Mark
 301396748 - Tooth And Claw
 301396749 - Red Eternal
 302474178 - Fallen Leaders
-305333441 - Wanted Wolf Scavengers
+303039384 - Mycenae Type 1
+303039385 - Mycenae Type 0
+303039386 - Visigoth Type 1
+303039387 - Visigoth Type 0
 306642785 - Off With Their Heads
+311226466 - Corsairs Revenge 1 0
+311226467 - Corsairs Revenge 2 0
+311226468 - Wolf Pelt Weave 2 0
+311226469 - Wolf Pelt Weave 3 0
+311226470 - Wolf Pelt Weave Zed
+311226471 - Wolf Pelt Weave 1 0
+312832758 - Featured Matches
 313487310 - Exotic Engram
+316040702 - The Wakening
+316200115 - Exotic Engram
+317533173 - Infinite Lines Legs
 320500720 - Never See You Coming
+321773883 - Special Delivery
 322876326 - Potential Bond
 323001479 - Dead Light Vest
-323014246 - Hand Of Crota
 323247609 - Decoherent Engram
 323927027 - Scout Rifle Telemetry
 324306190 - Coiled Hiss 1919
@@ -296,10 +433,16 @@
 327458265 - Sargon B2
 327458266 - Cyrus B
 327458267 - Tamerlane B
+327933420 - Numinous Web
+327933421 - Broken Crown
+327933423 - Leaf Of The Bleeding Tree
+330099586 - Down And Doubt 00 0
 330109185 - Born Spark
 331907412 - Glass Minuet
 333467661 - Iron Breed Vest
-334372315 - Bounty Lead
+333480708 - Suros Min 15
+333480709 - Antapex Msc
+333480710 - Raskova A
 334648464 - Knight Type 1
 334648465 - Knight Type 2
 334648466 - Knight Type 3
@@ -311,22 +454,32 @@
 337037804 - Timurs Lash
 338881979 - Runed Core
 339830484 - Exotic Engram
-340337155 - Cloak Of The Exile
+341708370 - The Water Star Adept
+341708371 - The Water Star
+342707700 - Stolen Rune
+342707701 - Reciprocal Rune
+342707703 - Antiquated Rune
 345888847 - Legendary Engram
 346443849 - Vex Mythoclast
 346443850 - Pocket Infinity
 346443851 - Plan C
-347898590 - One Of Us
+348512482 - Pacorus Type 0
+348512483 - Pacorus Type 1
+348512484 - Garuda Type 0
+348512485 - Garuda Type 1
+348512486 - Brontios Type 0
+348512487 - Brontios Type 1
 348972829 - Reforge Weapon
 349409405 - Mark Of The Queens Guard
+353250673 - Stolen Rune
 353755051 - Encoded Engram
 354953765 - Reforge Weapon
-356552213 - Bounty Lead
 357856943 - Reforge Weapon
-360039952 - Gone To Ground
 366068517 - Reforge Weapon
 367695658 - Efrideets Spear
 368451173 - C Drive Array Order
+372855004 - Chasm Of Yuul
+372855005 - Harrowed Chasm Of Yuul
 372870450 - Cloak Of Immanent War
 373726600 - Raku Vindicator
 373726601 - Kali Gnt Scout Rig
@@ -334,28 +487,40 @@
 376222728 - Mark Of Unity
 376222730 - Mark Of The Lost
 376222731 - Mark Of The Keeper
+376479882 - Talk To Eris
 379685987 - Decoherent Engram
-382130833 - Gather Their Suffering
 382889452 - Weapon Kit
 383089968 - Lock_Arete
 383089969 - Sir Isaac
 383089970 - A Little Voice
 383089971 - Nifty_Biscuit
+384638314 - Requisition A New Weapon
 384657340 - Astrolord Boots
 384657341 - Boots Of No Tomorrow
+386582621 - Retrieve Your Ship
+388328049 - Classified
 391452304 - Wolfborne Oath
 391890850 - Iron Regalia Gloves
 391890851 - Gloves Of The Seven
 392274741 - The Exiles Curse
+392830824 - Ring Of Living Stone
+392830825 - Silent Oracle
+392830828 - Skorris Dirge
+392830829 - Techeun Bangle
+392830830 - Segoths Head
+392830831 - Spectral Dust
 393928834 - Exotic Engram
 395266917 - Decoherent Engram
 396000457 - Encoded Engram
 397406333 - Vacuum Diagram
+397838153 - Talk To Variks
 398090372 - Of Iron Made
 398096866 - Death Of Fate
 398096867 - Willful Exodus
 398517732 - Embalming Orb
 398517733 - Crux Of Crota
+399181517 - Ballistic Trauma Expert
+399745591 - Slay Enemies
 400969658 - Heart Of The Justicar
 400969659 - Heart Of Order
 403844140 - Etheric Light
@@ -363,54 +528,75 @@
 407626698 - Chatterwhite
 407626699 - Eye Of The Mad God
 416889369 - Boon Of Osiris
+417308266 - Three Of Coins
 417729562 - Golden Hour Mark
 417729563 - Lightning Mark
+419895462 - Pandion Type 0
+419895463 - Pandion Type 1
 419995281 - Astral Horizon
 420519466 - Token Of Flight
 421254172 - Armada Type 3
 421254173 - Monitor Type 2
 421254175 - Agema White
 422175840 - Zombie Apocalypse Wf47
+424013490 - Familiar Iron
 424355124 - Ex10 Slipper Misfit Schematic
 430561413 - Cryptid 4 6 2
 430561414 - Cryptid 4 6C
 430561415 - Cryptid 4 6
 431697412 - Grayliks Winter Baron
 432143692 - Stay Golden
+432530655 - Matter Engram
 433764973 - Death Or Glory
-435950544 - Hand Of Crota
-435950545 - Eyes Of Crota
-435950546 - Will Of Crota
-435950547 - Heart Of Crota
+434054402 - Exotic Engram
 437131613 - Ship Shader Template
 437329200 - Word Of Crota
 438374819 - Exotic Engram
 442631768 - Reforge Weapon
 443167977 - Off With Their Heads
 443208337 - Iron Breed Plate
+444451422 - Pandion Type 1
+444451423 - Pandion Type 0
 446256190 - Molniya Type 0
 446256191 - Holdfast Type 1
 449391507 - Dead Light Plate
+451926121 - Winning Team
 452298677 - Titans Field Issue
 452597397 - Exotic Shard
-452721036 - Bounty Lead
+454249082 - Infinite Lines Hood
 454508278 - Monarchs Gauntlet
 454508279 - Orders Gauntlet
 454534839 - Mark Of A Kellslayer
 457764795 - Queens Guard Greaves
 458051526 - Legendary Engram
+460446837 - Halt
+462173982 - Return To Arach Jalaal
 470251150 - Legendary Engram
 470251151 - Decoherent Engram
-470251650 - Bounty Lead
-472106712 - The Shadow Thief
-473072978 - The Cleansing
+472369264 - Thalors Golden Maul
+472369265 - Spirit Of Saturn
+472369266 - Freeholders Memory
+472369267 - Year 1993
+472369268 - Honor Of Cormorant
+472369269 - Moctezuma Polyphonic
+472369270 - Season Of Ages Xii
+472369271 - Deep Stone Crypt
+476652673 - Talk To Ikora
+476652674 - Talk To Ikora
+476652675 - Talk To Ikora
+478378119 - Heliopause Mark
 478572155 - Public Event Completed
+479434226 - New Monarchy Relic Seeker
 481987224 - Khvostov 7G 02
 483542685 - Welcome
+485600414 - Omolon Eirene Rr4
+486279087 - Conspiracy Theory D
 488162542 - Queens Guard Robes
 488703544 - Cloak Of The Hidden
 488703545 - Hood Of The Spawn
 488703547 - Cloak Of The Dusktorn
+489206427 - Suros Ari 41
+491180618 - Trials Passage
 491878348 - Talion Grace
 491878349 - Extropy Morph
 492249178 - Paskin King Baron
@@ -421,9 +607,13 @@
 499191786 - Crest Of Alpha Lupi
 499191787 - Lucky Raspberry
 500159054 - Equuleus
+501170912 - Suros Special
 503662095 - Decoherent Engram
+504918462 - Exotic Engram
+505852146 - The Portable Sun
 506100014 - Ursus Tactical
 506100015 - Commando Custom
+506341017 - Retrieve Your Ship
 507650002 - Decoherent Engram
 507689216 - Cryptid 4 6 3
 507689217 - Cryptid 4 6R3
@@ -431,8 +621,10 @@
 507689221 - Cryptid 4 6
 507689222 - Cryptid 4 6D
 507689223 - Cryptid 4 6C
-509229486 - Hand Of Crota
+509065042 - Haliaetus Bond
+509065043 - Bond Of The Tilt
 509988685 - Exotic Engram
+512022568 - Future Rumble Cult
 513786349 - Extermination Protocol
 514046864 - Cloak Of Order
 514046865 - Cloak Of The Justicars
@@ -441,12 +633,16 @@
 516386653 - Encrypted Engram
 516735544 - Plasteel Hull Plating
 516735545 - Magweld Wire
+516908442 - Infinite Lines Vest
 517324839 - Admonisher Iii
 517625051 - Baron Rs 1
+518626779 - Kallipolis Gauntlets
 519912874 - Justicars Grip
 519912875 - Orders Grip
 521376834 - Firebreak
 521376835 - Firebreak Type 2
+521951204 - Grasp Of Eir
+521951205 - Harrowed Grasp Of Eir
 523254923 - Exotic Engram
 526316384 - Quite Content Damsel
 526316385 - Laughing Behind Your Back
@@ -458,6 +654,7 @@
 526316391 - Eon Trespass
 526316395 - Outrageous Fortune
 526761156 - Infusion Of Light
+530138211 - Create Orbs Of Light
 530352838 - Extropy Morph
 530352839 - Talion Grace
 531193794 - Rustburner 1 5R2
@@ -468,57 +665,79 @@
 531193799 - Rustburner 1 5
 532325552 - Born Spark
 534017969 - Ritual Expansion
+536304804 - Imprecation
+536304806 - Hakke Test A
+536304807 - Omolon Test Hc1
+536491215 - Last Rites
 537148029 - Ns44 Cloud Errant Schematic
 537606594 - Vanir Type 1
 537606595 - Vanir Type 0
+538047431 - Return To Lakshmi 2
 539209176 - Encoded Engram
 541785999 - Iron Regalia Gloves
+541963778 - Kell Rising
 544000255 - Trials Passage
 545291744 - First Rule Dhyb
 545291746 - Ar760 Truth Serum
 545291747 - Dispatch I11
+546455372 - Vermilion Stripe 1 0
+546455373 - Bog Wild 1 0
+546602074 - Encrypted Engram
 547800348 - Mangala Skin 1 3 3
 547800349 - Mangala Skin 1 3 2
 547800350 - Mangala Skin 1 3B
 547800351 - Mangala Skin 1 3
-549839723 - Out Of Sight
 552188860 - Encrypted Engram
+552354419 - Ace Of Spades
 553856042 - Fatekiller Grips
 553856043 - Exodus Grips
 553953696 - Iron Wrath
+554244708 - Iron Companion Vest
+554882219 - Kallipolis Hood
 555160936 - Axiom Coven Iv
 555160937 - Axiom Coven V
 555160938 - Axiom Coven
 555160939 - Axiom Coven Ii
 556367198 - Her Willful Gaze
-557071038 - Shine A Light
 557229688 - S 31V
 557229689 - S 31V
 557229690 - S 31V
 557229691 - S 31V
+557965524 - Kallipolis Legs
 557980714 - Encrypted Engram
+558220466 - Iron Marathon
 560601823 - Black Hammer
 560974152 - Rustburner 1 5
 560974153 - Rustburner 1 5 1
 560974154 - Rustburner 1 5C
 561161382 - Kestrel Class Ex0
-561208274 - Wanted Weksis The Meek
 561587767 - The Majestic
 561917151 - Exotic Engram
+566936480 - Flow Of Knowledge
+566936481 - Spectrum Theory
+568506537 - Hakke Tamar D
 568931208 - Legendary Engram
+568981079 - Stonewall
+573162233 - Withstand The Elements
+573162234 - Reforging The Blade
+573162235 - Shard Of Darkness
 574977453 - Duke Mk 20
+575507278 - Prove Yourself In Rasputins Bunker
+575910963 - Withering Strike
 580107253 - First Blood
 580340335 - Relic Iron
 581673780 - Encoded Engram
-581997334 - The Will Of Crota
 582029658 - Queens Guard Hood
+583722351 - Secrets Of The Fallen
 584130857 - Vex Raid Rare
 586090568 - Encoded Engram
 587560736 - Divisive Mind
+588018688 - Top Rifter
 590789571 - Target Corrective Mind
 590944734 - Watchers Greaves
 590944735 - Greaves Of The Exile
-592023912 - Bounty Lead
+591060260 - Empyrean Bellicose
+591060261 - The Taikonaut
 594415800 - Electors Hood
 594938644 - The Eye
 594938645 - August Seraph
@@ -530,13 +749,27 @@
 600957312 - Fieldplate Type 1
 600957313 - Fieldplate
 600957315 - Fieldplate Type 2
-601974953 - Hard Fall
-604525125 - Bounty Lead
+602418012 - Talk To Banshee 44
+602418013 - Talk To Banshee 44
+602542428 - Ebonthorn Bond
+602542429 - Subterranean Bond
+602786655 - Ruin Wake
+603533130 - Pandion Type 0
+603533131 - Pandion Type 1
+603681238 - Lightbringer
 605475555 - Passage Coin
 606972675 - Fusion Rifle Energy
 609673817 - Legendary Engram
+610275511 - Matter Engram
 612758729 - Overcharge
+613488576 - Battuta 1 0
+613488580 - Brusilov 1 0
+613488581 - Brusilov 1 1
+613488582 - Vaquero 1 0
+613488583 - Vaquero 1 1
 615137338 - Final Rest Ii
+616180714 - Sunlit Shell
+616701191 - Vanguard Shell
 616706469 - Radiant Energy
 616878404 - Astrolord Boots
 616878405 - Boots Of No Tomorrow
@@ -545,17 +778,16 @@
 619241015 - Fatekiller Boots
 622635648 - Phaeton Class V2 Schematic
 622724588 - Exacting Measures
-623051046 - Greaves Of The Exile
 623666865 - Rustburner 1 5
 624069029 - Legendary Engram
-625154752 - Fusion Rifle Schematics
-625154753 - Restored Ghost
-625154754 - Damaged Ghost
-625154755 - Shattered Memory Fragment
+625154752 - Stabilized Prototype
+625154753 - Stabilized Prototype
+625154754 - Stabilized Prototype
+625154755 - Stabilized Prototype
 625154756 - Stabilized Prototype
-625154757 - Unstable Prototype Fusion Rifle Frame
-625154758 - Charged Exotic Weapon Core
-625154759 - Depleted Exotic Weapon Core
+625154757 - Stabilized Prototype
+625154758 - Stabilized Prototype
+625154759 - Stabilized Prototype
 625864985 - Mark Of The Initiative
 626593973 - Psi Umbra Ii A
 627312995 - Cryptarch
@@ -564,20 +796,36 @@
 633658633 - Electors Gloves
 634731106 - Robe Of The Exile
 634731107 - Watchers Robe
+636696262 - Rifles And Cannons
+638473393 - Beryl Cometary
+638473396 - Lost And Foundries
+638473397 - Exomoon
+638473398 - Frames Of Mind
+638473399 - Sunset City
 639554740 - Wolves Curse
 639554741 - Wolves Bane
+640128088 - Luna Vallar Iv
+640128089 - Equiprobable Lsc
+640128090 - Deianeira D
+640128091 - Matuta Rr4
 641937537 - Reforge Weapon
+644133142 - Classified
+645809229 - Salvage Custom Parts
 646529657 - Bronzed Chasma Esc
+646667620 - Classified
 648116324 - Target Primus Shaaull
 648756287 - Preacher Mk 22
 649076661 - The Chance
 651478697 - Iron Breed Greaves
-651641722 - Bounty Lead
 651681368 - Bloodpact
 651681369 - Lunar Elegy
 651681370 - Cytherean Bloom
 651681371 - Refraction Melt
 653486904 - Exotic Engram
+653809104 - Sinaa Lamprey 1 1
+653809105 - Sinaa Lamprey 1 0
+653809106 - Takanome Ranger 1 1
+653809107 - Takanome Ranger 1 0
 654503756 - Fieldplate Type 2
 654503757 - Fieldplate Type 3
 654503758 - Fieldplate
@@ -591,6 +839,9 @@
 656915331 - Agema Type 3
 656941832 - Target Grayliks Winter Baron
 659885446 - Exotic Engram
+661390093 - Scattered Pack
+664737060 - Hic Jacet
+664737061 - Scarab Heart
 665587628 - Crypt Hammer
 666207482 - Objekt 959 Greaves
 666207483 - Molniya Custom T2
@@ -604,18 +855,35 @@
 668012631 - Abraxas Ii
 668012632 - Bomb Squad Ii
 668012633 - Command Ii
+671267380 - Matter Engram
 671526060 - Glass Minuet
 671526061 - Aspect Of Glass
+676796964 - Knuckle Branding
+677734480 - Omolon Test Fr1
+678497672 - Weregilt
+678497673 - Light Of Moths
+678497674 - Sins Of Kharad Tan
+678497675 - Tome Of Nothing
+678497676 - The Damned Lute
+678497677 - The Traitors Die
 681005629 - The Conduit
 683111004 - Relic Harvest Cosmodrome
+687119876 - Strikers Mark
+687119877 - Defenders Mark
+687119878 - Sunbreakers Mark
+687119879 - Mark Of The Queens Guard
 687225130 - Sargon B1
-689380632 - Boots Of The Exile
 692958876 - Decoherent Engram
 692958877 - Legendary Engram
 693283816 - Knight Type 3
 693283818 - Knight Type 1
 693283819 - Knight Type 2
+693391495 - Support Network
+693471476 - Talk To Ikora
+693471477 - Talk To Ikora
+693471479 - Talk To Ikora
 694579350 - Iron Breed Great Helm
+695158284 - Gather Taken Chronoshards
 696165795 - Reforge Weapon
 701182406 - Karuna Falling
 703516376 - Raku Fulcrum Type 5
@@ -626,6 +894,7 @@
 703516383 - Raku Fulcrum Type 2
 703970428 - Encoded Engram
 704175501 - Ax10 Spindle Demon Schematic
+705234570 - Primary Telemetry
 706456944 - Vanir Type 1
 706456945 - Vanir Type 0
 706892684 - Illyrian Type 3
@@ -633,17 +902,19 @@
 706892686 - Illyrian Type 1
 706892687 - Illyrian Type 0
 708578174 - Silvered Warmonger Sa 4
+711081422 - Control Freak
 712184834 - Dusk Tread Iv
 712184835 - Viper Spine Ii
 713097484 - Vestian Dynasty
 714364949 - Encoded Engram
 715838722 - Wetwork Cloak
 715838723 - Fixer Cloak
-715840188 - Fist Of Crota
+716349555 - Speak To Zavala
 716551112 - Scoutmail Type 1
 716551113 - Scoutmail
 716551114 - Scoutmail Type 4
 716551115 - Scoutmail Type 3
+717846727 - Escape The Cosmodrome
 718007268 - Venation Iii
 718345504 - Nadir
 718345505 - Tex Mechanica
@@ -655,101 +926,152 @@
 718345517 - Cassoid
 718345518 - Suros
 718345519 - Crux Lomar
-726149066 - Wanted Queenbreaker Captain
+718379268 - Omolon Test Rr1
+718379269 - Hakke Test A
+721633864 - Gather Weapon Data
 726513090 - Relic Harvest Venus
 727840013 - Marshal A
+728377844 - Winged Sun Legs
+728377845 - Blindsight Legs
+728537745 - Gather Weapon Data
 729893597 - Fusion Rifle Telemetry
 731352403 - Give Take Equation
+731357996 - Heavyweight
+732060357 - The Silent Fang
+733571933 - Meet With Dead Orbit
 734733349 - Phaeton Class V2 1 Schematic
+736930153 - Talk To Ikora Rey
 737943027 - Helium Filaments
 738109042 - Queens Guard Vest
+738642122 - Sublime Engram
+738642123 - Legendary Engram
+741413122 - Samsara I
+741413123 - Bindcaster I
 742670106 - Komarov 3 1 2
 742670107 - Komarov 3 1
-750553124 - Bounty Lead
+744129594 - Skirmisher
+752422484 - Create Orbs Of Light
 753283067 - Special Requisition
 753391730 - The Culling
-754435213 - Bounty Lead
 757040550 - Tomorrows Answer
 760676800 - Silvered Maverick Mk 41
 760676801 - Painted Big Chief Mk 45
+763134606 - Overachiever
+764757871 - Classified
 766278524 - Aos Cryptid
 766278525 - H_Ld Starwinder
 769494212 - Logic Singer I
 769494213 - Logic Singer
 769865458 - Radiant Shard
+771761354 - Heliopause Gauntlets
+772002644 - Talk To Banshee 44
+772002645 - Talk To Banshee 44
+772691108 - Talk To Variks
+774316634 - Mark Of The Arena
+774316635 - Pandion Mark
 774955732 - Decoherent Engram
 774963972 - Order Of The Lost Saint
 774963973 - Light Of The Great Prism
 775290250 - Encrypted Engram
+775466416 - Spark Of Light
+775620830 - Soliton Flare
 776529032 - Rune Of The Disciple
 776529033 - Rune Of The Adept
 776529034 - Rune Of The Oracle
 777570449 - Locus Watcher Iii
 777570450 - Locus Watcher Ii
 777570451 - Locus Watcher I
+777856833 - Physician
 778892992 - Heavy Ammo Synthesis
+779347562 - Legendary Engram
+779347563 - Sublime Engram
 783238808 - Robe Of No Tomorrow
 783238809 - Astrolord Robe
-784587785 - Bounty Lead
 785527239 - Reforge Weapon
+785702876 - Siphoning Strike
 785760358 - Queens Guard Plate
 786772541 - Reforge Weapon
+786978913 - Exotic Engram
+788138260 - The Vacancy
+788138261 - The Vortex
 788203480 - Song Of Ir Yut
 788620743 - Exotic Engram
-788894603 - Wanted Peekis The Disavowed
+788773832 - Talk To Zavala
+788816546 - Paleocontact Jpk 43
+790630350 - Theosyion Vibrissae
+790695758 - Started With A Spark
 790953182 - Heart Of The Justicar
 790953183 - Heart Of The Order
 791573149 - Vulpecula
+792191640 - Kings Of Decay
 795669148 - Exotic Engram
 797518015 - Tengoku Fr1
+803312564 - Tlaloc
 805224273 - Radegasts Fury
 806143008 - Judgment Vi
+807600833 - Special Ammo Donation
+808079384 - Legendary Engram
+808079385 - Sublime Engram
 808098467 - Dead Light Boots
 808423034 - Exotic Engram
 811663328 - Graviton Esm
 811663329 - Suros Mkb 33
 811663330 - Copperhead Mk 32
 811663331 - Outlander Mk 38
-812703637 - Sullen Heart
 813361818 - The Ram
 814122586 - Exodus Vest
 814122587 - Sojourn Vest
+814931142 - Vanguard
+814931155 - Vanguard
 815653400 - Nemesis Plane Ix
 815653401 - Nemesis Plane Vii
 815653404 - Nemesis Plane Ii
 815653405 - Nemesis Plane I
 815653406 - Nemesis Plane V
 815653407 - Nemesis Plane Iv
-818000511 - Turn In At The Bounty Tracker To Collect Your Reward
+818000511 - A Shared Fate
 818604397 - Electors Casque
-821767461 - The Extermination
 823763462 - Horologium
+823930634 - Restoration
+823930638 - The Last Array
 824273149 - Manus Celer Dei Schematic
+825392783 - Wolfswood Mark
+827694779 - Classified
+827776539 - Hakke Herja D
 828916643 - Merok Eir Prince
 829469739 - By Thy Hand
+829471534 - Live Fire Exercise
 830705927 - Prototype 0 9R3
+837448826 - Sharpshooter
 837970936 - Allowance V C4
 837970937 - Andacht 81
 837970938 - Avenue A
 837970939 - Doom Echo Xi
 838428205 - Purifier Robes
+838904328 - Sublime Engram
+838904329 - Legendary Engram
 838933125 - Celestial Nighthawk
 839696362 - Antique Camera
 841040453 - Iron Embrace
 841191396 - Lrv1 Javelin Schematic
-841896289 - Gather Their Faith
+842054623 - Accept The Warlocks Cache
 842432253 - Reforge Weapon
+842926849 - Matter Engram
+844800270 - Signal Cancelled
 845577225 - S 13 Graverobber
 846470091 - Hand Cannon Telemetry
 849545090 - Queens Guard Gauntlets
 851607551 - Corrective Mind
+851941888 - Talk To Cayde 6
 853548019 - The Harder They Fall
+853718322 - Shindig In The Crucible
 855333069 - Aspect Of Shadow
 855333070 - Aspect Of Dust
 855333071 - Aspect Of Blood
 855740583 - Baron Rs 2
 855958098 - The Majestic
 855958099 - The Supremacy
+856323091 - Sheathed In Flame
 860021733 - Decoherent Engram
 860401768 - Hood Of No Tomorrow
 860401769 - Astrolord Hood
@@ -757,12 +1079,15 @@
 861576217 - Nineveh 8611
 861576218 - Tyre 4770
 861576219 - Carthage 0100
+861627836 - Talk To Eris
+862638379 - Quest Item
 862863384 - Knight Type 2
 862863385 - Knight Type 1
 862863386 - Knight Type 4
 862863387 - Knight Type 3
 862863388 - Knight Type 6
 862863389 - Knight Type 5
+863443278 - Classified
 868458816 - Nemesis Plane Vii
 868458817 - Nemesis Plane Ix
 868458820 - Nemesis Plane
@@ -771,6 +1096,8 @@
 868458823 - Nemesis Plane Vi
 868574327 - Oversoul Edict
 869771221 - Queens Guard Boots
+870077908 - Iron Companion Hood
+870447716 - Be Brave
 876363304 - Cultists Cover
 876363306 - Cover Of No Tomorrows
 876363307 - Astrolord Cover
@@ -780,24 +1107,35 @@
 882909349 - Encrypted Engram
 883472904 - Iron Breed Gloves
 884126939 - Electors Boots
-884824927 - Wanted Drevis Wolf Baroness
 885065416 - Queens Blessing
+885685675 - Agonarch Karve
 888762562 - Crusader I
+889710577 - Support Network
 889950470 - Mark Of The Dauntless
 889950471 - Holborns Host Mark
-891830395 - Bounty Lead
 892062222 - Gheleons Demise
 892741686 - Found Verdict
+895412665 - Talk To Petra
 896733964 - Kestrel Class Ax0 Schematic
-897975625 - Bounty Lead
 898552422 - Electors Greaves
+904176962 - Yzozs Pendulum
+904176963 - Intact Warmind Core
+904176964 - Incubation Shell
+904176965 - Judgment Of Mars
+904176966 - Firebreak Eternal
+904176967 - Stoneborn Relic
 904421510 - Encrypted Engram
+904822477 - Hakke Jingukogo D
+905763628 - Fears Embrace
 906167852 - Exodus Plan Rs 1
+907343237 - Rainbow Blade
+907343238 - Hezen Totem
+907343239 - Prismatic Heart
 909225554 - Peregrine Greaves
 910389904 - Wolves Bane
 910608746 - Sardok Eye Of Oryx
-917729611 - Urn Of Sacrifice
-921219734 - The Kell Of Kells
+910913110 - Infinite Lines Grips
+915115332 - Hakke Strongbow D
 921478195 - Radiant Dance Machines
 922790894 - Patrol Venus
 923499578 - Ceres Galliot
@@ -822,13 +1160,24 @@
 929939161 - Cryptid 4 6R2
 929939162 - Cryptid 4 6C
 929939163 - Cryptid 4 6
+930875533 - Talk To Eris Morn
 932133272 - Special Delivery
 932133273 - Special Delivery
 932133274 - Special Delivery
+933965333 - Shock And Awe
+934570366 - Talk To Arach Jalaal
 935175009 - Overcharge
 935317314 - Y 09 Longbow Synthesis
 937555249 - Mote Of Light
-944120022 - The Hunt For Skolas
+941890987 - Eternal Warrior
+941890988 - The Glasshouse
+941890989 - An Insurmountable Skullfort
+941890990 - Helm Of Inmost Light
+941890991 - Helm Of Saint 14
+943027708 - Classified
+943027709 - Classified
+943027710 - Classified
+943027711 - Classified
 944861412 - Trackers Wrap
 944861413 - Cloak Of Solitude
 944861414 - Drifters Cloak
@@ -838,35 +1187,82 @@
 950582872 - Dustwalker
 950582873 - Ghost Angel
 950960106 - Reforge Weapon
+951196643 - Classified
+951286722 - Taken Assault Earth
+951387322 - Classified
+955611616 - Hand Of Thunder
+955611617 - Mars Reconnaissance
+955611618 - Lunar Reconnaissance
+955611619 - Venus Reconnaissance
+955611620 - Into The Void
+955611621 - Font Of Light
+955611622 - Completionist
+955611623 - Enemy In Every Corner
+955611628 - Cosmodrome Reconnaissance
 957060661 - Existential Threats
 957060662 - Blind Evoke
 957060663 - The Calming
+962497238 - Zaoulis Bane
+962497239 - Harrowed Zaoulis Bane
 962675601 - Aos Al Suhail Iii
 962675602 - Aos Al Suhail Ii
 962675603 - Aos Al Suhail I
-967457325 - Helm Of The Exile
+962768437 - Exotic Engram
+969832704 - Future War Cult
 973554318 - Orders Grip
 973554319 - Justicars Grip
+974721182 - Legacy Engram
+974754712 - Summersong
+974754714 - Dragoon
+974754715 - Wolfsgrin
 976743008 - Chasing Infinity
 976948689 - Dead Light Grips
+977331732 - Special Delivery
+977331733 - Special Delivery
+977331734 - Special Delivery
+977331735 - Special Delivery
+978064231 - Classified
+981150659 - Kallipolis Vest
 985488305 - Unwilling Soul 09
+987423912 - The First Curse
+990003460 - Azoth Bend Ii
+990003461 - Azoth Bend I
+990400702 - Ikoras Challenge
+990970947 - Regicide
+991220580 - Lantern Bond
+991220581 - Bond Of The Fen
+991220582 - Bond Of Credulity
+991220583 - Bond Of Wonders
 991704636 - Fragment Of The Prime
 991704637 - Captured Solar Remnant
 993675438 - The Dark Below
 995445504 - Exacting Measures
-995543065 - Bounty Lead
 995864459 - Encoded Engram
-996035625 - Boneshaker
 996787434 - Radegasts Fury
+1001165345 - Matter Engram
 1002106737 - Reforge Weapon
+1002359072 - Order Of Guardians Bond
+1002359073 - Bond Of Guardians
+1005944500 - Kill It With Fire
+1005944501 - Specialized Rampage
+1005944504 - Horseshoes And Hand Grenades
+1005944505 - Exploding Light
+1005944506 - Primary Precision
+1005944507 - Heavyweight
+1005944508 - Shining Light
+1005944509 - A Kells Hand
+1005944510 - Invincible
+1005944511 - Fast Striker
 1005986549 - Decoherent Engram
 1006775966 - Dreads Enmity
-1008448203 - Bounty Lead
+1007499551 - Talk To Amanda
+1008044808 - Classified
 1008492953 - Scoutmail Type 2
 1008492954 - Scoutmail Type 1
 1008492955 - Scoutmail
 1011266580 - 123 Syzygy
 1011266581 - Three Little Words
+1011408890 - Search The Court
 1012256480 - Bond Of The Queens Guard
 1012477903 - Payment Vi
 1012671120 - Exodus Vest
@@ -876,12 +1272,15 @@
 1013852374 - Trajan B
 1013852375 - Hieracon Lr2
 1017843831 - Reforge Weapon
+1019992295 - Salvage Custom Parts
 1022532075 - Sagitta
-1027105630 - Wanted Silent Fang
+1023740504 - Iron Workhorse
+1025640706 - Omolon Thesan Fr4
+1027379218 - Skyburners Deployment Codes
 1027468304 - Electors Heart
-1030075873 - Bounty Lead
-1030396854 - Wanted Twisted Claws
+1029561057 - Burst Of Bullets
 1031409676 - Venus Target
+1035839472 - Distinguished Rumbler
 1037486570 - Legendary Engram
 1037486571 - Decoherent Engram
 1037965300 - Calcutta Lr2
@@ -898,11 +1297,15 @@
 1041543519 - Completed Trials Passage
 1041735690 - Encrypted Engram
 1043138475 - Black Wax Idol
+1046929490 - Slay Enemies
 1048179373 - Death Or Glory
 1050422086 - Monolith Bleed Iv
 1050422087 - Symmetry Fang Ii
-1050940547 - Purifier
+1051938475 - Spoils To The Victor
 1053112404 - Bone Trinkets
+1054763958 - Skyburners Annex
+1054763959 - Graviton Forfeit
+1054868153 - Talk To Cayde 6
 1054959828 - Matador 64
 1054959830 - Party Crasher 1
 1054959831 - Dry Rot 32
@@ -917,9 +1320,12 @@
 1059206131 - Bond Of Focus
 1060893885 - Afv3 Octavian Schematic
 1062647584 - Crucible
-1063017815 - Bounty Lead
+1062853750 - The Impossible Machines
+1062853751 - Ophidian Aspect
 1063666590 - Boots Of The Iron Lords
 1063666591 - Iron Regalia Boots
+1064341956 - Hotspur A
+1064341957 - Suros Bns 13
 1066225282 - Exotic Engram
 1068518400 - Phaeton Class V3 1
 1068518401 - Phaeton Class V2 1
@@ -929,11 +1335,27 @@
 1068518405 - Regulus Class 66C
 1068518406 - Kestrel Class Ex0
 1068518407 - Kestrel Class Cx0
+1069694698 - Classified
+1074597784 - Quest Item
+1075814377 - Talk To Amanda
+1077326550 - Suros Jlb 42
 1081071504 - Sojourn Helm
 1081071506 - Oblivion Helm
 1081071507 - Exodus Helm
+1082590945 - Encrypted Engram
 1084813924 - Reforge Weapon
+1085158268 - A Spark In Shadow
+1085199265 - Quest Item
+1085766065 - Spheres Of Destruction
+1087417394 - Special Delivery
+1088848136 - Aura Purge I
+1088848137 - Aura Purge
+1088848138 - Solo Clade I
+1088848139 - Solo Clade
+1088848141 - Terra Bide
 1089438744 - Encoded Engram
+1089782651 - Classified
+1092504904 - Crucible Master
 1094262007 - The Crash
 1094968037 - Heavy Metal
 1096028868 - Mantic Zealot Helm
@@ -952,42 +1374,69 @@
 1097380653 - Highlander Type 0
 1097380654 - Highlander Type 3
 1097380655 - Highlander Type 2
+1098503568 - Flame Touched
 1100012702 - Faceless Demise
-1102862004 - Bounty Lead
 1103394591 - The Chosen
 1103854799 - Mark Of The Queens Guard
+1105637488 - Talk To Amanda
 1107880514 - Encoded Engram
-1109453810 - Bounty Lead
+1108739932 - Heliopause Bond
 1111479100 - Cold Mantis 1 9C
 1111479101 - Cold Mantis 2 1R2
 1111479102 - Cold Mantis 2 1R3
 1111479103 - Cold Mantis 2 3 0
+1112323022 - Exemplary
+1116480154 - Quest Item
 1121292911 - Exotic Engram
 1122458078 - Legendary Engram
 1122458079 - Decoherent Engram
 1125562144 - Encrypted Engram
 1126328036 - Astrolord Vest
 1126328037 - Vest Of No Tomorrow
+1126665152 - Classified
+1126665153 - Classified
+1126665154 - Classified
+1126665155 - Classified
+1126665156 - Classified
+1126665157 - Classified
 1126787354 - Encrypted Engram
 1128241783 - Techeun Force
 1128937497 - Reforge Weapon
+1129051958 - Omolon Kumakatok Hc4
 1130638095 - Sargon B
 1131808636 - No End Theory
+1132793057 - Eyasluna
+1132793059 - The Revelator
+1133804624 - Suros Dis 43
 1135922722 - Molniya Type 1
 1135922723 - Holdfast Type 2
 1138364342 - Medallion Redeemed
 1139076902 - Queens Guard Boots
+1142792572 - Objection Iv
 1143728002 - Judgment Vi
 1144034779 - Encrypted Engram
 1144544188 - Extropy Morph
 1144544189 - Talion Grace
+1145044616 - Garuda Type 0
+1145044617 - Garuda Type 1
+1145044618 - Brontios Type 0
+1145044619 - Brontios Type 1
+1145044622 - Pacorus Type 0
+1145044623 - Pacorus Type 1
 1145847161 - Legendary Engram
 1146059646 - Hex Caster Arc
 1146059647 - Grim Citizen Iii
+1148751102 - Heliopause Plate
 1148771130 - Exotic Engram
+1149751883 - Burning Eye Mask
 1155155844 - Payment Vi
 1155155845 - The Ninth Edict
+1156724090 - Sun Slinger
 1157862961 - Iron Regalia Boots
+1158121100 - Vallsgarde
+1158121101 - Lion Dancer
+1158121102 - Antique Land
+1158121103 - Surfbreaker
 1158943716 - Snakeline 4 5 3
 1158943717 - Snakeline 4 5
 1158943718 - Snakeline 4 5D
@@ -995,36 +1444,68 @@
 1160431986 - Decoherent Engram
 1163110499 - The Dreamwaker
 1165567642 - Kellslayers Grips
+1165578190 - Cover Of Night
 1166348857 - Exotic Engram
 1167986359 - Reclamation
+1168832349 - Burn In Light
 1169384430 - Gravebreaker 2 1
 1169384431 - Jackknife 3 2
 1173232538 - Spearhead Type 0
 1173232539 - Commando Type 0
+1173766590 - Doctrine Of Passing
+1173766591 - Doctrine Of Passing Adept
 1176774397 - Watchers Of Crota
 1181701428 - Reforge Weapon
 1183877541 - Reforge Weapon
+1184912345 - Talk To Zavala
+1185031952 - The Black Garden
+1185031954 - The Gardens Spire
+1185031958 - Exclusion Zone
 1188299722 - Decoherent Engram
 1191155383 - Regulus Class 22A Schematic
+1192364267 - Gather Weapon Data
 1192453324 - Mark Of The Kings
 1192453325 - Mark Of The Devils
 1192453326 - Mark Of The Wolves
 1192888947 - Decoherent Engram
-1196484151 - Cover Of The Exile
+1199020216 - Battuta 1 0
+1199020220 - Brusilov 1 0
+1199020221 - Brusilov 1 1
+1199020222 - Vaquero 1 0
+1199020223 - Vaquero 1 1
+1201310194 - Hawksaw
 1201482340 - Exotic Engram
 1201972060 - Shroud Of The Justicar
 1201972061 - Shroud Of The Order
+1202047000 - Silent Scream
+1202047001 - Little Light
+1202047003 - Off To The Races
 1202967480 - Xv0 Timebreaker
 1204023325 - Prestige Iv
+1209869504 - Heavy Duty Models
+1209869505 - Aim For The Juicebox
+1209869506 - Hunting The Exalted
+1209869507 - Hive Hunting
+1209869508 - Elite Breaker
+1209869509 - Armor Breaker
+1209869510 - House Breaking
+1209869511 - Eliksni Hunting
+1209869516 - Taken Hunting
+1209869517 - Oryxs Horde
 1210308320 - Warlocks Initiation
+1210371525 - Coded Engram
 1210967904 - Oblivion Gauntlets
 1210967905 - Exodus Gauntlets
+1212068371 - Iron Companion Vestments
 1216239293 - Felwinters Iron Bond
+1217254414 - Vermilion Stripe 1 0
+1217254415 - Bog Wild 1 0
 1218412495 - Transmat Relay Order
 1220059831 - Encoded Engram
+1220331761 - Cryptarch
 1221909933 - Peruns Fire
+1223343530 - Salvager
 1223604297 - Encoded Engram
-1224276435 - Wanted Wolves Guard
 1225126060 - Ghost Angel Cloak
 1225126061 - Dustwalker Cloak
 1227631800 - Chasma Esc
@@ -1033,15 +1514,21 @@
 1227631803 - Sidewinder Mk 53
 1227631806 - Vector Esc
 1228933223 - Face Your Fears
-1229056428 - Blades Of Crota
+1229272751 - Blade Of Night
 1230443376 - Victory Eagle Ii
 1230443377 - Crest Of The Gravesinger
 1230443378 - Honor Of Blades
 1230443379 - Dead Zone Memento
 1230443380 - Echo Of Shattered Suns
 1230611383 - Bond Of The Queens Guard
+1232057958 - Gather Weapon Data
 1232631722 - Hard Forged
+1233129211 - Encrypted Engram
 1233219281 - Speakers Writ
+1235765600 - Steppe Ar3
+1235765601 - Veldt Ar3
+1235765602 - Suros Arn 39
+1235765603 - Suros Arn 33
 1236370974 - Predator And Prey
 1236629912 - Merciless
 1238073568 - 0A0X Nightmask 1 1R2
@@ -1051,50 +1538,63 @@
 1238073572 - 0A0X Nightmask 1 4
 1238073573 - 0A0X Nightmask 1 3R4
 1238472345 - Focused Aggression
+1239950791 - Requisition A New Weapon
 1240595396 - Vest Of No Tomorrow
 1240595397 - Astrolord Vest
 1240693320 - The Crash
+1242830876 - Mark Of The Undying Mind
+1243096562 - Talk To Ikora
 1244086868 - Kestrel Class Ax Schematic
 1244530683 - Efrideets Spear
-1245748852 - Will Of Crota
+1245063910 - War Numens Crown
+1245063911 - Harrowed War Numens Crown
+1249604201 - Attack And Defend
 1252473198 - Tempering
 1254347838 - One Way Ticket 000
 1254374620 - Exotic Engram
 1254481871 - Encrypted Engram
 1254996379 - The Chaos And The Calm
+1255203008 - Talk To Banshee 44
+1255203009 - Talk To Banshee 44
+1255613846 - Practical Shooting
 1255976967 - Exotic Engram
 1256226942 - Kali Gnt Scout Rig
 1256226943 - Raku Vindicator
+1256644900 - Stormcaller
+1256644901 - Stormcaller
+1258012244 - Red Spectre
 1260068415 - Phaeton Class V2 Schematic
 1260941326 - Raven Sheath I
 1260941327 - Raven Sheath
-1261124127 - Bounty Lead
 1261228341 - Relentless Harness
+1264422556 - Weylorans March
 1264686852 - Encrypted Engram
 1265320643 - Unwilling Soul 09
 1266513464 - Enigma Burn Iv
 1266513465 - Enigma Burn
 1267053937 - Praetorian Foil
 1267147308 - Light Of The Abyss
+1268627398 - Prove Yourself In The Sunless Cell
 1270461605 - Zydron Gate Lord
+1270563023 - Encrypted Engram
 1271438087 - Encoded Engram
-1272042598 - Never See You Coming
-1272042599 - Throw Down
-1272042600 - Forged In Fire
-1272042601 - Back Scratcher
-1272042602 - In The Zone
-1272042603 - Relic Hunter
-1272042604 - Broken Scholar
-1272042605 - First Blood
-1272042606 - Shake The Pillars
-1272042607 - The Wild Hunt
+1272117630 - Iron Domination
+1272584464 - The Front Lines
+1272584469 - Dark Places
+1272989272 - Deidriss Retort
 1274330686 - Truth
 1274330687 - Gjallarhorn
 1274898819 - Exotic Engram
+1275480032 - Claws Of Ahamkara
+1275480033 - Sunbreakers
+1275480035 - Nothing Manacles
+1276929916 - Caught In The Crossfire
 1277665684 - Shroud Of The Order
 1277665685 - Shroud Of The Justicar
 1277703934 - Commando Custom
 1277703935 - Ursus Tactical
+1278603962 - Blind Jackal Mask
+1281917992 - Heuristic Light
 1283021732 - The Summoner Adept
 1283021733 - The Summoner
 1284289560 - Psi Tempus Ii
@@ -1103,41 +1603,69 @@
 1284289563 - Psi Volo Ii
 1285470659 - Tengoku Fr2
 1286476711 - Vanguard
+1287343924 - In Times Of Need
+1287343925 - Party Crasher 1
 1287916532 - Rising Tide Ar0
 1287916533 - Clean Sweep Xi
 1287916535 - Alr96 40 Overkill
+1288290219 - Exotic Engram
+1288345628 - Complete The Path
 1288669024 - A Perfect Strike
 1288845412 - Commando Type 0
 1288845413 - Spearhead Type 0
 1289853894 - Exotic Engram
-1292206133 - Ritual Of The Forsaken
+1296286208 - Talk To Cayde 6
+1296286209 - Talk To Cayde 6
+1296286211 - Talk To Cayde 6
+1298784603 - Weapon Supplies Donation
+1300297405 - Talk To Zavala
+1300297406 - Talk To Zavala
+1300297407 - Talk To Zavala
 1301423374 - Up For Anything
 1301423375 - Payback Sos
 1302359194 - Hard Forged
+1302424880 - Cormorant Line Ii
+1302424881 - Cormorant Line I
+1302424884 - Seraph Ii
+1302424885 - Seraph I
+1302424886 - Seraph Reform Ii
+1302424887 - Seraph Reform I
 1302458343 - Prototype 0 9C
 1304551379 - Tfwpky 1969
+1305525274 - Binary Dawn
+1306139766 - Against The Darkness
+1310192253 - Shield Brothers
 1310572989 - Purifier Vii
 1310921483 - Encoded Engram
 1311326450 - Unyielding Casque
+1311569433 - Most Valuable
 1312172922 - Mantle Of Gheleon
 1312172923 - Mantle Of Efrideet
+1313973808 - Mark Of The Far Flung
+1313973809 - Ithacan Mark
+1313973810 - Mark Of The Oasis
+1313973811 - Mark Of Passage
+1313973815 - Mark Of The Gatekeepers
+1314217221 - Wormfeeder Rune
 1315622592 - Invective Charged
-1315622593 - Invective Uncharged
-1315622594 - A Clot Of Darkness
-1315622595 - A Request From Ikora Part Iii
-1315622596 - A Request From Ikora Ii Completed
-1315622597 - A Request From Ikora Part Ii
-1315622598 - A Request From Ikora Completed
-1315622599 - A Request From Ikora Part I
-1317402464 - Fist Of Crota
+1315622593 - Invective Charged
+1315622594 - Invective Charged
+1315622595 - Invective Charged
+1315622596 - Invective Charged
+1315622597 - Invective Charged
+1315622598 - Invective Charged
+1315622599 - Invective Charged
+1317912046 - Kallipolis Robes
 1318694250 - Vanth Orcus 0A0X
 1318694251 - Istanu Gnt Razor
 1321101846 - Unity Clade
 1321101847 - Apex Harmonic
 1322081400 - Token Of Judgment
+1322917353 - Beyond The Sky
 1323189778 - Heart Of Order
 1323189779 - Heart Of The Justicar
 1323306343 - Legendary Engram
+1324140009 - Exotic Engram
 1325965968 - Sign Of The Battleborn
 1325965969 - Union Of Light
 1325965970 - Hunger
@@ -1149,10 +1677,12 @@
 1325965976 - Hexacon 4
 1325965977 - Earthborn
 1325979471 - Rude Awakening Doa
-1327350499 - Bounty Lead
+1327558578 - Talk To Zavala
 1328380234 - Argus Deimatic 1 2 8
 1328380235 - Argus Deimatic 1 2
 1329086406 - Reforge Weapon
+1329166757 - Apple Of Discord
+1330572636 - Hard Fought
 1331092408 - Knight Type 1
 1331092409 - Knight Type 2
 1331092410 - Knight Type 3
@@ -1163,19 +1693,31 @@
 1332690663 - Mark Of The Stoneborn
 1335315717 - Longshot
 1335966234 - Frigoris Exiled Baron
+1338294737 - Zavalas Challenge
 1338746190 - Shadow Price
 1338746191 - Doctor Nope
 1342743553 - Resurrectionist
 1342743554 - Archers Hope
 1342743555 - The Inner Circle
-1343234714 - Sleight Of Hand
+1347062897 - Classified
+1349024845 - Talk To The Speaker
 1349707258 - Mark Of The Pit
+1349978328 - Corsairs Revenge 1 0
+1349978329 - Corsairs Revenge 2 0
+1349978332 - Wolf Pelt Weave Zed
+1349978333 - Wolf Pelt Weave 1 0
+1349978334 - Wolf Pelt Weave 2 0
+1349978335 - Wolf Pelt Weave 3 0
+1351492852 - Take Them Out
 1353391432 - Cryptid 4 6R2
 1353391433 - Cryptid 4 6 3
 1353391436 - Cryptid 4 6
 1353391437 - Cryptid 4 6 2
 1353391438 - Cryptid 4 6C
 1353391439 - Cryptid 4 6E
+1355112477 - Suros Bvv 13
+1355112478 - Garmr Sr1
+1355112479 - Shinigami Sr1
 1356058856 - Her Benevolence
 1357063018 - H_Ld Starwinder
 1357063019 - Aos Cryptid
@@ -1185,13 +1727,17 @@
 1364624197 - Cold Mantis 2 0
 1364624198 - Cold Mantis 2 0 2
 1364624199 - Cold Mantis 2 2R5
+1364640840 - Lucky Number Seven
+1365438446 - Deceptive Engram
 1369222376 - Vanguard
+1372403405 - Vanguard Nightfall Strikes
 1373365670 - Vanir Type 1
 1373365671 - Vanir Type 0
 1374411924 - Decoherent Engram
 1374411925 - Legendary Engram
 1374926595 - Cloak Of The Sixth Reign
 1375158428 - Deviant Gravity A
+1375589548 - Talk To Eris
 1376262198 - Knightbone Guard
 1380375576 - Special Delivery
 1380375577 - Special Delivery
@@ -1203,30 +1749,38 @@
 1380667988 - Argus Deimatic 1 1R3
 1380667989 - Argus Deimatic 1 1
 1382627864 - The Culling
-1383019577 - Eyes Of Crota
+1383912955 - Classified
 1384559498 - Encoded Engram
 1384916859 - Reforge Weapon
+1386707186 - Vermilion Stripe 1 0
+1386707187 - Bog Wild 1 0
 1388583990 - Ticktock Inquisitor
 1388583991 - Scorpio Miracle
 1389842216 - Invective
 1389842217 - Universal Remote
+1392201709 - Talk To Cayde 6
 1392593764 - Justicars Gloves
 1392593765 - Orders Gloves
+1393573526 - Patch A
 1394184711 - Welcome Titan
+1394543945 - Fr0St Ee5
 1394831599 - Reforge Weapon
 1396371287 - Knight Type 1
+1397524040 - Elulims Frenzy
+1397524041 - Harrowed Elulims Frenzy
 1398023010 - Voidfang Vestments
 1398023011 - Heart Of The Praxic Fire
 1398682308 - Lockjaw
 1398682309 - Double Nickel
 1398682310 - Two For The Road
 1398682311 - Agnes Iii
-1401049009 - Siege Of The Warmind
+1400261164 - Sv7 Morrows Gait
 1402638106 - Exotic Engram
 1405547124 - Baryon Msc
 1405547125 - Suros Jps 55
 1405547126 - Corona Msc
 1405547127 - Catena Msc
+1406924202 - Precision In Tandem
 1409222508 - Upgraded S 32C
 1409222509 - Upgraded S 32C
 1409222510 - Upgraded S 32C
@@ -1243,23 +1797,14 @@
 1409854030 - The Inner Chamber
 1409854031 - The Convergence
 1413443073 - Aspect Of Glass
-1413857001 - Bounty Lead
-1414160913 - Wanted Grayor Wolf Assassin
-1414160914 - Wanted Drevis Wolf Baroness
-1414160915 - Wanted Pirsis Pallas Bane
-1414160916 - Wanted Kaliks 12
-1414160917 - Wanted Veliniks The Ravenous
-1414160918 - Wanted Peekis The Disavowed
-1414160919 - Wanted Beltrik The Veiled
-1414160920 - Wanted Mecher Orbiks 11
-1414160921 - Wanted Saviks Queenbreaker
-1414969940 - Illuminator
 1415224434 - Exodus Plan Rs 1
 1415355173 - Vanguard Marks
 1415355184 - Crucible Marks
+1416280629 - Killing Wind
 1417767009 - Marshal A1
+1417979331 - Classified
+1421344588 - Matter Engram
 1422254016 - Queens Guard Plate
-1425738534 - Wanted Veliniks The Ravenous
 1426631712 - Scholars Quest
 1426631713 - Rising Light
 1426631714 - From Here The Stars
@@ -1279,8 +1824,10 @@
 1428782718 - Royal Amethyst
 1432796226 - Nycor Reborn
 1435154085 - Light Beware
+1435200754 - Hesperos Type 1
+1435200755 - Hesperos Type 0
 1436627049 - Reforge Weapon
-1442247824 - Wanted Queenbreaker Vandals
+1438171025 - Buckshot Bruiser
 1442286783 - Dead Orbit Vote
 1443409296 - Sign Of Opposing Will
 1443409297 - Sign Of Containment
@@ -1292,12 +1839,15 @@
 1443409303 - The Unimagined Plane
 1443409308 - The Undying Light
 1443409309 - Sign Of Unity
-1445696767 - Bounty Lead
+1447876560 - Bindcaster I
+1447876561 - Samsara I
 1448055470 - Plate Of The Seven
 1448055471 - Iron Regalia Plate
 1448697668 - Exotic Weapon Core
 1449737300 - Black Chasma Esc
+1450166845 - Kallipolis Grips
 1451036562 - Decoherent Engram
+1451118819 - Hakke Test A
 1451703869 - Felwinters Lie
 1455055448 - Warping Claws
 1455055453 - Ancient Recording
@@ -1306,14 +1856,27 @@
 1455279158 - Primed Starfall Msc
 1455279159 - Painted Suros Bzl 45
 1456354545 - Legendary Engram
+1457207756 - Harrowed Anguish Of Drystan
+1457207757 - Anguish Of Drystan
+1458254032 - Young Ahamkaras Spine
+1458254033 - Dont Touch Me
+1458254034 - Khepris Sting
 1459499349 - Wolfhunter
 1460033860 - The Cure
 1461040326 - Caelum
 1462595581 - Willbreakers Fists
 1464458639 - Cosmodrome Target
-1480601671 - Wanted Peekis The Disavowed
+1465403431 - Wolfship Display
+1475134443 - Hung Jury Sr4
+1477895659 - No Guns Barred
+1482492516 - Lampad Sr4
+1482492517 - Trax Elan Iv
+1482492518 - Suros Sco 43
+1482492519 - Orphne Sr4
 1483483181 - Queens Guard Mask
+1485364108 - Entropys Pinnacle
 1485751393 - Machine Gun Telemetry
+1486079152 - Scour The Dreadnaught
 1487387187 - Skorris Revenge
 1487529176 - Sinaa Jaguar 2 1R2
 1487529177 - Sinaa Jaguar 2 1 1
@@ -1322,42 +1885,75 @@
 1488311144 - Peruns Fire
 1488551072 - Sojourn Boots
 1488551073 - Exodus Boots
+1488722688 - Coded Engram
 1488819370 - The Chance
+1490419239 - Iron Hued
 1491990344 - Cx20 Spindle Demon
 1491990345 - Ax19 Spindle Demon
 1491990346 - Ax19 Slipper Misfit
 1491990347 - Ex21 Spindle Demon
 1491990348 - Ex21 Slipper Misfit
 1491990349 - Cx20 Slipper Misfit
+1492343609 - Quest Item
 1492814756 - Ns44 High Water Schematic
 1495098628 - Decoherent Engram
 1496233587 - Liksor Wolf Blade
 1496298834 - Duke Mk 21
 1496660238 - Watchers Vest
 1496660239 - Vest Of The Exile
+1501850184 - Suros Tsp 10
+1501850185 - Hakke Test A
+1502972260 - Kallipolis Mask
 1503445621 - Lightmail
+1503830964 - Legacy Engram
+1504414443 - Lifeline
 1504430230 - Dead Light Cloak
 1505232082 - Exotic Engram
+1505957929 - The Tamarind
 1506281094 - Born Spark
 1507063877 - Exotic Engram
 1507194302 - Fair And Square
 1507194303 - Strange Suspect
 1510677493 - Dead Light Hood
 1515795123 - Glass Shards
-1516864042 - Sleight Of Hand
 1517489904 - Lacerta
 1518110335 - Decoherent Engram
+1519144216 - Mos Azoth Iv
+1519144217 - Vortimer D
+1519144218 - Threnody Hc4
+1519144219 - Rience D
+1519376144 - Skull Of Dire Ahamkara
+1519376145 - Apotheosis Veil
+1519376146 - Light Beyond Nemesis
+1519376147 - Obsidian Mind
+1519376148 - The Ram
 1519653029 - Encoded Engram
-1519948431 - The Kell Of Kells
-1524919448 - The Wakening
-1524919450 - Fist Of Crota
-1524919451 - Siege Of The Warmind
+1520434776 - Achlyophage Symbiote
+1520434777 - Knucklehead Radar
+1520434778 - Ats 8 Arachnid
+1520434779 - Mask Of The Third Man
+1520434781 - Celestial Nighthawk
+1523179858 - Dawn Breaker
+1523858862 - Classified
+1527273552 - The Entertainer
+1527273553 - The Perfect Shot
+1527273554 - Speak In Riddles
+1527273555 - The Pitiless Bargain
+1527273556 - The Living Wall
+1527273557 - The Inexorable
+1527273558 - Might Of Vulcan
+1527273559 - On The Edge
+1527273562 - Eye Of The Storm
+1527273563 - Paean Of Resplendence
 1527467938 - The Calling
+1527897487 - Free For All
+1529816147 - Return To Executor Hideo
 1536412564 - The Bigger They Are
 1539265113 - Manus Celer Dei
 1539265118 - Valkyrie O5X
 1540295456 - Jackknife 1 3
 1540295457 - Gravebreaker 1 3
+1542293174 - Armor Materials
 1544803791 - Hard Luck Charm
 1547527930 - Exodus Gauntlets
 1547527931 - Oblivion Gauntlets
@@ -1369,13 +1965,22 @@
 1550472824 - Encoded Engram
 1550781862 - The Scholar
 1550781863 - The Scholar Adept
+1551744702 - Qullims Terminus
+1551744703 - Harrowed Qullims Terminus
+1554317120 - Legacy Engram
 1556318808 - Iron Regalia Great Helm
 1556318809 - Helm Of The Seven
-1556346756 - Plate Of The Exile
+1556533319 - Wormsinger Rune
 1557422751 - Dregs Promise
 1560323454 - Commando Type 0
 1560323455 - Spearhead Type 0
 1562047429 - Target Telthor Unborn
+1563332128 - Certified Clasher
+1565194903 - Agonarch Rune
+1565353202 - Taken Assault Mars
+1566257209 - Hakke Test A
+1566345524 - Blindsight Boots
+1566345525 - Winged Sun Boots
 1566869545 - Nl Shadow 701X
 1566869546 - Na3D1 Salvation State
 1566869547 - High Road Soldier
@@ -1385,7 +1990,6 @@
 1570484371 - Evergreen Ii I
 1571566214 - Iron Regalia Vestments
 1571566215 - Vestments Of The Seven
-1572027939 - Wanted Drevis Wolf Baroness
 1576654972 - Arihant Type 2
 1576654973 - Arihant Type 1
 1576654974 - Arihant Type 4
@@ -1394,14 +1998,20 @@
 1577503265 - Searcher Mk 37
 1577503266 - Bandit Mk 36
 1577503267 - Mos Ganon Iii
+1578561232 - Crucible Journeyman
 1579021061 - Trax Callum Ii
+1581238067 - Complete The Path
 1581629868 - Legendary Engram
-1584461043 - Eyes Of The Forsaken
+1582680120 - Heliopause Vest
+1585718131 - Panta Rhei
 1586062921 - Stratus 3 1R4
 1586062922 - Stratus 3 0C
 1586062923 - Stratus 3 1 2
+1586701912 - Killing Wind
+1589234007 - Talk To Eris
 1589631280 - Orders Boots
 1589631281 - Justicars Boots
+1590258561 - Armor Supplies Donation
 1590923669 - Hide And Seek 42
 1592588000 - Founders Seal
 1592588001 - Vanguard Honor
@@ -1415,14 +2025,20 @@
 1592588013 - Tip Of The Spear
 1592861599 - Favor Of Osiris
 1594939317 - Exotic Engram
-1597096239 - Bounty Lead
+1596394535 - Prove Yourself In The Crucible
 1598515197 - Legendary Engram
 1599594921 - Mark Of Lost Charge
 1599594922 - Mark Of The Martyred
 1599594923 - Mark Of Fury
 1600609906 - Shield Of The Warlord
 1600609907 - Shield Of The Knight
+1601524312 - Harrowed War Numens Boots
+1601524313 - War Numens Boots
+1601548290 - Polishing Iron
+1602394684 - Hand Of Thunder
 1603229152 - Praedyths Timepiece
+1604125378 - Glass Promontory
+1607427972 - Talk To Cayde 6
 1608816648 - Arihant Type 3
 1608816649 - Arihant Type 4
 1608816650 - Arihant Type 1
@@ -1433,7 +2049,7 @@
 1609120941 - Plasma Donor
 1610212078 - Steel Oracle Z 11
 1610242900 - Her Courtesy
-1610706720 - The Will Of Crota
+1611568501 - Create Orbs Of Light
 1611580929 - Eternal Warrior
 1612751838 - Decoherent Engram
 1614459136 - Sparrow S 11
@@ -1447,15 +2063,30 @@
 1616463036 - Polite Denial 0 1
 1616463038 - Heaven Can Wait
 1616463039 - Backhanded Compliment
-1616903912 - Wanted Pirsis Pallas Bane
 1619609940 - Khepris Sting
-1620123036 - Gauntlets Of The Exile
+1620016732 - Salicin Fen I
+1620016733 - Salicin Fen Ii
+1620016734 - Dujiao Shou I
+1620016735 - Dujiao Shou Ii
+1620341693 - Heavy Iron
+1621282040 - Hakke Gaheris D
 1625442519 - Immanent War Plate
+1628780304 - Crown Prince Sa 3
+1628780305 - Crown Princess Sa 3
+1628780306 - Oligarch Sa 3
+1628780307 - Dowager Sa 3
 1629229483 - Queens Guard Hood
+1629429789 - Team Medic
 1629657407 - Welcome
 1632312788 - Queens Guard Boots
 1632648055 - Encrypted Engram
+1633103010 - A March Of Fire
+1634818465 - Hakke Judith D
 1635735524 - Reforge Weapon
+1638619481 - Talk To Petra
+1641320861 - Settle The Score
+1641517132 - Meticulous Defense
+1644288429 - The True Meaning Of War
 1644984124 - Sparrow S 10V
 1649128456 - Spirit Of Saturn
 1649128457 - Thalors Golden Maul
@@ -1465,12 +2096,37 @@
 1649128461 - Honor Of Cormorant
 1649128462 - Deep Stone Crypt
 1649128463 - Season Of Ages Xii
+1652727536 - Into The Void
+1652727537 - Kill It With Fire
+1652727538 - Completionist
+1652727539 - Font Of Light
+1652727540 - Heavyweight
+1652727541 - Horseshoes And Hand Grenades
+1652727542 - Specialized Rampage
+1652727543 - Primary Precision
+1652727548 - Enemy In Every Corner
+1652727549 - Fast Shooting
+1655273676 - Talk To Variks
+1655273677 - Talk To Variks
+1655273679 - Talk To Variks
 1655860068 - Amplified Geo D6
 1656716862 - Exotic Engram
+1656880294 - Complete A Bounty
+1658458041 - Brute Force
+1658688592 - Worm Gods Boon
+1658688593 - Bond Of The Wormlore
 1662109540 - 77 Wizard
+1665520352 - Ithacan Type 0
+1665520353 - Ithacan Type 1
+1665520354 - Taroudant Type 0
+1665520355 - Taroudant Type 1
+1665520358 - Zhurong Type 0
 1666787408 - Justicars Greaves
 1666787409 - Orders Greaves
-1669907229 - Wanted Mecher Orbiks 11
+1670349057 - Essential Elements
+1673042521 - Matter Engram
+1675284000 - Samsara I
+1675284001 - Bindcaster I
 1675341370 - Ash And Dust
 1676241713 - Low Down P Xiv
 1678813247 - Exotic Engram
@@ -1478,18 +2134,19 @@
 1679707197 - Fieldplate Type 2
 1679707198 - Fieldplate Type 1
 1679707199 - Fieldplate
-1680220646 - Bounty Lead
+1680644515 - Classified
 1681503887 - Encrypted Engram
 1681782009 - Summersong
 1681782010 - Wolfsgrin
 1681782011 - Dragoon
 1682402747 - Hunter Engram
+1682470763 - Legacy Engram
 1683638659 - Broken Truth Lr1
 1685076664 - Raven Sheath
 1685076665 - Raven Sheath I
 1685076666 - Raven Sheath Iii
 1685076667 - Raven Sheath Iv
-1695511241 - Gather Their Faith
+1690514801 - Legacy Engram
 1697279732 - Aos Al Suhail Iv
 1697279733 - Aos Al Suhail Iii
 1697279734 - Aos Al Suhail Ii
@@ -1497,13 +2154,14 @@
 1697358399 - Exalted Hive
 1698410142 - Prime Zealot Greaves
 1698410143 - Mantic Zealot Greaves
-1705927439 - Bonebreaker
-1708275042 - The Elder Cipher
-1708275043 - The Elder Cipher
-1708275044 - The Elder Cipher
-1708275045 - The Elder Cipher
-1708275046 - The Elder Cipher
-1708275047 - The Elder Cipher
+1703777169 - 1000 Yard Stare
+1705510184 - Winged Sun Plate
+1705510185 - Blindsight Plate
+1707223616 - Legacy Engram
+1708029821 - Bound By Shadow
+1711544032 - Talk To Eris
+1712294560 - First Pillar Mark
+1712294561 - Tarlowe Mark
 1715208088 - Mystic Drain
 1715208090 - Cryptic And Ineffable
 1715208091 - Eye Of History
@@ -1512,6 +2170,8 @@
 1717747305 - Rogue 4 5B
 1717747306 - Rogue 4 5D
 1717747307 - Rogue 4 5 2
+1722532281 - Wolfswood Cloak
+1722579380 - Talk To Cayde 6
 1722936864 - Blessing Of The Sentinel
 1722936865 - Blessing Of The Skeptic
 1722936866 - Blessing Of The Ancients
@@ -1530,86 +2190,128 @@
 1724319497 - Raven Sheath
 1724319498 - Raven Sheath V
 1724319499 - Raven Sheath Iii
-1725349703 - Bounty Lead
 1725931423 - Reforge Weapon
+1727788218 - Haliaetus Ii
+1727788219 - Haliaetus I
+1727790272 - Neuroghast Cloak
+1727790273 - Silent Specter
 1728208174 - Encrypted Engram
-1728939731 - Heart Of Crota
 1730663491 - Felwinters Lie
 1730985969 - Reforge Weapon
 1731121152 - Tengu Operant
 1731121153 - Tengu Operant Ii
 1731121154 - Tengu Operant Iv
 1731682653 - Reforge Weapon
+1735953394 - Hold The Line
 1736102875 - Dogged Gage
+1736150516 - Guns Blazing
+1737077657 - Focus Fire
+1737266522 - Special Delivery
+1737266523 - Special Delivery
 1737847390 - Iron Regalia Hood
 1738186005 - Strange Coin
+1741131980 - Quest Item
+1742712674 - Stillpiercer
 1742813176 - Fieldplate Type 1
 1742813177 - Fieldplate
 1742815376 - Affentheater C L A
 1742815377 - Whisper C L A
 1742815378 - Disruptor 5000
 1742815379 - Happy Boomer
+1743149688 - Salicin Fen Ii
+1743149689 - Salicin Fen I
+1743149690 - Dujiao Shou Ii
+1743149691 - Dujiao Shou I
+1744354800 - Talk To Zavala
+1744354801 - Talk To Zavala
+1744354802 - Talk To Zavala
+1744354803 - Talk To Zavala
+1744354805 - Talk To Zavala
 1752411804 - Marshal A
+1753149445 - The Burning Hammer
+1754795744 - Talk To Petra
+1754795745 - Talk To Petra
+1754795747 - Talk To Petra
+1754795748 - Talk To Petra
+1754795749 - Talk To Petra
+1754795751 - Talk To Petra
 1757771819 - Reforge Weapon
 1759332257 - Blacksmith
 1759332260 - Fallen Crown
 1759332261 - Chatterwhite
 1759332262 - Superblack
 1759332263 - Stolen Chalice
-1762533066 - Bounty Lead
 1764683367 - Immanent War
 1765728236 - Legendary Engram
 1765728237 - Decoherent Engram
 1768925824 - The Messenger Adept
 1768925825 - The Messenger
+1770680276 - Azoth Bend I
+1770680277 - Azoth Bend Ii
 1771192336 - Relic Harvest Fallen
+1771374902 - Equip Weapon
 1772111013 - Mirrors Of Chaos
 1772111014 - One True Constant
 1772111015 - Blood Maturity
 1772853454 - Blue Polyphage
+1773079159 - Classified
+1775312682 - Radiant Dance Machines
+1775312683 - Bones Of Eao
 1776632644 - The Cure
 1776632646 - The Unconquerable
 1776632647 - Born Of Sight
+1776755743 - Coded Engram
 1777045417 - Hood Of The Exile
 1777785851 - Reforge Weapon
+1781862296 - Garuda Mark
+1781862297 - Mark Of Wings
+1781862298 - Mark Of Bluster
+1781862299 - Mark Of Thunder
+1781862302 - Old Mans Mark
+1781862303 - Mark Of Mourning
+1782013522 - Eliminator
 1784187307 - Welcome Hunter
+1788314514 - World On Fire
+1793886017 - Azurduy A
+1793886018 - Mos Calamus I
+1793886019 - Mos Scala I
+1793988604 - Classified
+1795792027 - Talk To Banshee 44
 1797491610 - Helium Filaments
 1800424981 - The Trolley Problem
 1801418148 - Firebreak Type 3
 1801418149 - Firebreak Type 2
 1801418150 - Firebreak Type 1
 1801418151 - Firebreak
+1805901368 - Refine Hadium
 1808167785 - Prudence Ii
 1808632556 - S 22 Nomad
 1808632558 - S 20 Nomad
 1808632559 - S 21 Nomad
-1809321886 - Lets Dance
 1809756397 - Highlander Type 2
 1809756398 - Highlander Type 1
 1809756399 - Highlander Type 0
-1810767905 - Husk Reaper
+1811367950 - Winged Sun Vest
+1811367951 - Blindsight Vest
+1813663915 - Embracing The Void
+1817672521 - Enemy Of My Enemy
 1824954739 - Born Spark
+1825456771 - Equip Armor
 1825970520 - Paladins Blazon
 1825970522 - Corsairs Badge
 1825970523 - Sentinels Crest
 1826584459 - Relic Harvest Moon
 1828077147 - Encrypted Engram
-1833346722 - The Unseen
-1833346723 - Bonebreaker
-1833346728 - One Of Us
-1833346729 - Husk Reaper
-1833346730 - Blades Of Crota
-1833346731 - Cut Them Down
-1833346732 - Sleight Of Hand
-1833346733 - Cut To The Quick
-1833346734 - Illuminator
-1833346735 - Deadshot Collector
+1831312580 - Caldera Fr1
+1831312581 - Nox Umber I
+1831312583 - Nox Crocia I
 1835128980 - Prime Zealot Gloves
 1835128981 - Mantic Zealot Gloves
 1836999176 - Logic Singer V
 1836999177 - Logic Singer Iii
 1836999178 - Logic Singer I
 1836999179 - Logic Singer
+1837630290 - Clasher
 1841229490 - Forester 2 1
 1841229491 - Forester 2 1B
 1842029208 - Headhunter
@@ -1617,11 +2319,12 @@
 1844447861 - Dead Orbit
 1846030074 - Greaves Of The Seven
 1846030075 - Iron Regalia Greaves
-1846265001 - Robe Of The Exile
+1846107924 - Harrowed Mouth Of Ur
+1846107925 - Mouth Of Ur
 1847675504 - Shader Data
+1847724946 - F11 Scavenger
 1847790745 - Legendary Engram
-1849039844 - The Kell Of Kells
-1849412429 - Bounty Lead
+1849105108 - Gold Tier
 1850920321 - Calcutta Lr2A
 1852634772 - Vector Oath I
 1852634773 - Vector Oath
@@ -1630,17 +2333,24 @@
 1853561752 - Jackknife 1 1
 1853561753 - Gravebreaker 1 3
 1854428145 - Partys Over
+1855911072 - Kondratyuks Escape
 1857133658 - Btrd 345
+1857274517 - Infinite Lines Mark
 1858643872 - Forcing Function
 1858643876 - Eclypse V Mx2
 1858643877 - Problem 78F
 1858643878 - Surrender A
 1858643879 - Deep Fix T76
-1861082798 - Gone To Ground
+1858659268 - Dujiao Shou I
+1858659269 - Dujiao Shou Ii
+1858659270 - Salicin Fen I
+1858659271 - Salicin Fen Ii
+1860443748 - Hakke Zarinaea D
 1864523264 - Iron Breed Vestments
+1865744636 - Darkblades Spite
 1865745681 - Encoded Engram
 1865771870 - Bones Of Eao
-1871141307 - Cut Them Down
+1866413378 - Iron Companion Gauntlets
 1873492565 - One One Synesthete
 1873618131 - Decoherent Engram
 1880070440 - Emerald Coil
@@ -1653,25 +2363,35 @@
 1883484054 - Grips Of The Hezen Lords
 1883484055 - Gloves Of The Hezen Lords
 1883579372 - Unstoppable
+1884122306 - Suros Ari 45
 1884708913 - Battle Scars
-1889051648 - Wanted Beltrik The Veiled
+1884786393 - Encrypted Engram
+1885259817 - Ikoras Challenge
+1888366519 - Talk To Variks
 1893498008 - Ascendant Energy
+1896803826 - Will Of Crota
 1898281764 - Willbreakers Watch
+1898440947 - Ham Mer It Up
 1898539128 - Weapon Parts
 1898549148 - Reforge Weapon
 1898672999 - Iron Breed Gauntlets
+1898943876 - Live Fire Exercise
+1899850754 - Neuroghast 2 1
+1899850755 - Neuroghast 1 0
 1900267350 - Encrypted Engram
 1903292368 - Mg18A Harms Way
 1904384474 - Armor Core
 1906496742 - Glowhoo
 1906496743 - Cryptographic
 1906768104 - Born Spark
+1909567194 - Staking A Claim
 1910299660 - Reforge Weapon
+1910578247 - Vanguard Heroic Strikes
 1912058677 - Aksor Archon Priest
 1912750330 - The Conduit
+1913346414 - Striking Light
 1914248812 - Iron Regalia Gauntlets
 1916275366 - Spinmetal
-1917888120 - Illuminator
 1918822095 - The Wild Hunt
 1920387932 - Mark Of Discipline
 1920387934 - Mark Of History
@@ -1681,19 +2401,28 @@
 1923651397 - Hood Of The Night Sun
 1923651398 - Bloodstained Hood
 1923651399 - Cloak Of The Skypillar
+1931025805 - Chain Lightning
+1932504637 - Talk To Cayde 6
+1932504638 - Talk To Cayde 6
+1932504639 - Talk To Cayde 6
 1932910919 - Network Keys
 1932990362 - Trax Callum Ii A
 1934789888 - Extropic Cloak
 1934789889 - Cloak Of The Unborn
 1934789891 - Cloak Of The Reefrunners
+1935299157 - Talk To Lakshmi 2
 1937304284 - Electors Gauntlets
+1937645425 - Battuta 1 0
+1937645428 - Brusilov 1 1
+1937645429 - Brusilov 1 0
+1937645430 - Vaquero 1 1
+1937645431 - Vaquero 1 0
 1939369938 - All For One
 1939620532 - Snakeline 4 5
 1939620533 - Snakeline 4 5B
 1939620534 - Snakeline 4 5D
 1939620535 - Snakeline 4 5 2
 1939885265 - Crucible
-1941106241 - Hard Fall
 1941295145 - Exotic Engram
 1941735260 - Fatekiller Hood
 1941735261 - Hood Of The Exodus
@@ -1707,12 +2436,16 @@
 1953638698 - Target Frigoris Exiled Baron
 1955511930 - Other Side Of Nothing
 1955511931 - The Tethering
+1958068313 - Classified
 1959479321 - Target Simiks 3
-1965424864 - Bounty Lead
+1961477886 - Talk To Ikora Rey
+1962124347 - Talk To Shaxx
+1964378188 - Talk To Cayde 6
+1965136573 - Classified
 1966597499 - Relic Hunter
 1966724194 - Patrol The Moon
+1966937312 - Legendary Engram
 1968488792 - Epoch Splinter
-1970748837 - Bounty Lead
 1971098534 - Sojourn Grips
 1971098535 - Exodus Grips
 1971267776 - Objekt 959 Guards
@@ -1725,21 +2458,30 @@
 1974787801 - Raven Sheath Ii
 1974787802 - Raven Sheath I
 1974787803 - Raven Sheath
+1976873024 - Aerial Surgeon
 1977271615 - Eye Of Sol
 1978818869 - Future War Cult Vote
 1984812258 - Iron Breed Boots
 1986053430 - Queens Blessing
-1990142980 - Bounty Lead
+1986458096 - Sublime Engram
+1986458097 - Legendary Engram
+1989007711 - Omolon Uffern Hc4
+1989520068 - Armor Supplies Donation
 1990440986 - Arma Engine Doa
+1994583010 - Talk To Cayde
+1995178080 - In Good Temper
+1995178081 - Take Up Arms
+1995178082 - A Blade Reborn
+1995603074 - Essential Elements
 1995654494 - Exodus Cover
 1995654495 - Sojourn Cover
-1996427854 - Wanted Veliniks The Ravenous
+1996741942 - Talk To Lord Shaxx
 1998842327 - Gheleons Demise
-1999682800 - Bounty Lead
 2001487260 - Lightmail
 2003025779 - Revengeance
 2006498271 - Body Dropper
 2007186000 - Defender
+2008951974 - Immobius
 2009602834 - No Parley
 2011165716 - Cloak Of Atropos
 2011165717 - Cloak Of Tekmor
@@ -1749,21 +2491,48 @@
 2012012866 - Fieldcraft Hood
 2012012867 - Not A Fallen Hood
 2012670844 - Legendary Engram
+2014383501 - The Coming War
+2014802936 - Seal Of The Twin Eagle
+2014802937 - Binary Lazarus
+2014802938 - Harlequin Pendulum
+2014802939 - White Polygon Construct
+2014802940 - Union Of The Consensus
+2014802941 - Spirit Of The Vulture
+2014802942 - Ulan Tans Burial Ring
+2014802943 - The Five Lives Of Albios
+2015352900 - Vanguard Strikes
 2016050971 - Immanent War Vest
+2016212094 - Generous Donation
+2016842206 - Azoth Bend I
+2016842207 - Azoth Bend Ii
 2018079969 - Cx10 Slipper Misfit Schematic
 2020019240 - Gauntlets Of The Seven
 2020019241 - Iron Regalia Gauntlets
+2024569240 - Anomie Msm
+2024569241 - Temporal Msm
+2024569242 - Psi Lento Iii
+2024569243 - Psi Alto Iii
+2026036808 - Efrideets Eye
+2026036809 - Pallas Ring
+2026036812 - Neural Bezoar
+2026036813 - Trinary Star
+2026036814 - Ahamkara Scale
+2026036815 - The Maraid
 2026407600 - Encrypted Engram
 2027496356 - Sinaa Jaguar 2 1
 2027496357 - Sinaa Jaguar 2 1R2
 2027496358 - Sinaa Jaguar 2 1R3
-2031382228 - Bounty Lead
+2028036494 - Path Of Xol
+2028036495 - Harrowed Path Of Xol
+2029266123 - Zavalas Challenge
+2035321670 - Coded Engram
 2039934455 - Encoded Engram
-2041307542 - One Of Us
+2040853435 - Form The Frame
 2041380554 - Robe Of The Exodus
 2041380555 - Wrap Of The Fatekiller
 2042480605 - Encoded Engram
-2043063391 - Heart Of Crota
+2049313364 - Pennant Cloak
+2049313365 - Aspriet Cloak
 2050430656 - Gatewatch Type 1
 2050430657 - Gatewatch
 2050430658 - Gatewatch Type 3
@@ -1772,32 +2541,51 @@
 2050931044 - Super Pox Vlo
 2050931045 - Bad Seed Down
 2053915533 - Encrypted Engram
+2055601061 - Suros Regime
+2055601062 - Monte Carlo
+2055602672 - A Blade Reborn
+2055602674 - In Good Temper
+2055602675 - Take Up Arms
+2057772486 - Crotas Bane
 2059410341 - Lightmail
+2059800526 - Reliable Hardware
 2060120800 - Raku Crucible Type
 2060120801 - Durga Gnt Type 0
-2061277684 - Nycor Reborn
-2061277685 - Watchers Of Crota
-2061277686 - A Perfect Strike
-2061277687 - Moluk Wormwaker
+2060360887 - Kallipolis Bond
+2063415782 - Haliaetus Ii
+2063415783 - Haliaetus I
 2063870188 - The Chosen
 2064330998 - Watchers Grips
 2064330999 - Grips Of The Exile
 2064611450 - New Monarchy Vote
 2067330032 - Glimmer
 2068595857 - Queens Wrath
+2069651833 - Coded Engram
 2069997413 - Encoded Engram
+2072742745 - Salvage Custom Parts
+2074277047 - Heliopause Gloves
 2075993080 - 0A0X Nightmask
 2075993081 - 0A0X Nightmask 1 1
 2075993082 - 0A0X Nightmask 1 2
 2075993083 - 0A0X Nightmask 1 3R1
 2075993084 - 0A0X Nightmask 1 3R2
 2075993085 - 0A0X Nightmask 1 4
+2077802410 - Classified
+2080150144 - Penthesilea C
+2080150145 - Vesosis C
+2080150146 - Vortigern C
+2080150147 - Thalestris C
 2082349108 - Exotic Engram
 2083636246 - Legendary Engram
-2085026830 - Bounty Lead
 2088899560 - Pest Control Matrix
+2090751421 - Classified
 2090883207 - All Hallows Eve
+2093176854 - Matter Engram
+2093303808 - Conviction Ii
+2093308749 - Making A Statement
 2096536021 - Iron Embrace
+2098148065 - Hakke Test A
+2099086864 - Heliopause Grips
 2101552008 - Despot Sa 5
 2101552009 - Sultan Sa 5
 2101552010 - Chamberlain Sa 5
@@ -1806,30 +2594,31 @@
 2101552013 - Duchess Rs 5
 2101552015 - Overlord Sa 5
 2104614482 - Exotic Engram
-2105237976 - Bounty Lead
+2104676473 - Coded Engram
 2105626297 - Aurora Lance
 2106270513 - Unbound Thorn
-2106270514 - Corrupted Thorn
-2106270515 - Corrupted Hand Cannon
-2106270516 - Corrupted Hand Cannon
-2106270517 - Corrupted Hand Cannon
-2106270518 - Depleted Hand Cannon
-2106270519 - Depleted Hand Cannon
+2106270514 - Unbound Thorn
+2106270515 - Unbound Thorn
+2106270516 - Unbound Thorn
+2106270517 - Unbound Thorn
+2106270518 - Unbound Thorn
+2106270519 - Unbound Thorn
 2106863376 - Jewel Of Osiris
 2108457647 - Exotic Engram
+2109563436 - Beyond The Sky
 2109934830 - Lightmail
 2110735268 - Mark Of The Sentry
 2110735269 - Mark Of The Protector
 2110735271 - Mark Of The First Pillar
 2111706071 - Campaign Medals
 2112416087 - Queens Guard Grips
-2113173552 - Bounty Lead
 2113871045 - Holocide Helm
 2113871046 - Watchers Hood
 2113871047 - Hood Of The Exile
 2115569661 - Silimars Wrath
 2117166702 - Dead Light Greaves
 2118236503 - Judgment Vi
+2121113047 - Bretomarts Stand
 2121165344 - Mammoth
 2121165345 - The Rising
 2121165346 - Sheltered Truth
@@ -1840,18 +2629,35 @@
 2121165351 - Abraxas
 2121165352 - Crypto Shift
 2121165353 - Command
+2122538504 - The Age To Come
+2122538505 - Circle Of War
+2122538506 - Light Beyond
+2122538507 - Stormcaller Bond
+2123192368 - Infinite Lines Boots
+2123792901 - Flying Fist
 2124006579 - Exalted Hive
-2125904964 - Light The Dark
+2125388749 - Fused Tomb Stone
+2125621864 - Claw Of Command
+2125621866 - Sootpearl
+2125621867 - Scroll Of Eimin Tin
+2126341023 - Against The Darkness
 2128359538 - All For One
+2129462487 - Mantle Of Sublime Light
 2130143061 - Telthor Unborn
+2134204356 - A Key Awaits
+2134555144 - Dido A
+2134555146 - Antimuon Esc
+2134555147 - Ded Venefici I
 2135112796 - Skorris Revenge
 2136148892 - Queens Guard Grips
 2137413904 - Gwalior Type 1
 2137413905 - Gwalior Type 0
 2138508726 - Legendary Engram
-2139025508 - Seething Mist
-2140165629 - Wanted Mecher Orbiks 11
+2140187700 - Bog Wild 1 0
+2140187701 - Vermilion Stripe 1 0
 2140525525 - Encrypted Engram
+2140646756 - Haliaetus Ii
+2140646757 - Haliaetus I
 2143651400 - Legs Of The Exile
 2143651401 - Watchers Boots
 2144506416 - Hoss Mk 51
@@ -1863,38 +2669,43 @@
 2147998057 - Battlecage Of Kabr
 2148216066 - The Undying
 2149012811 - Vision Of Confluence
+2151805402 - Tech Witch Brooch
+2151805404 - Fused Tomb Stone
+2151805405 - Shattered Tech Witch Brooch
+2151805406 - Wolfship Display
+2151805407 - Galliot Xg 1 Throttle
 2155230380 - Gozen C
 2155230381 - Pompeii Lr3
 2155230382 - Hieracon Lr3
 2155230383 - Trajan C
+2156599460 - Prove Yourself In The Rift
+2159896288 - Dark Places
+2159896293 - Front Lines
+2160081456 - Primes Path
+2162328736 - Talk To Ikora
+2162328738 - Talk To Ikora
+2162328739 - Talk To Ikora
 2162732532 - H_Ld Starwinder
 2162732533 - Aos Cryptid
+2163330950 - Mow Through
 2163453169 - Carte Blanche S 1
 2163496120 - Chroma White
 2163496122 - Nerigal Savant Iii
 2163496123 - Eclipse Maw Vi
-2165314384 - Wanted Repeater Shanks
-2165314385 - Wanted Queenbreaker Captain
-2165314386 - Wanted Wolves Guard
-2165314387 - Wanted Tracer Shanks
-2165314388 - Wanted Wolf Scavengers
-2165314389 - Wanted Twisted Claws
-2165314390 - Wanted Wolf High Servitor
-2165314391 - Wanted Queenbreaker Vandals
-2165314396 - Wanted Ether Runner
-2165314397 - Wanted Wolf Enforcer
 2166095221 - Painted Helios Fr4
 2166095222 - Silvered Eos Fr4
 2166095223 - Primed Nox Revus Iv
+2166473247 - Talk To Zavala
 2166567782 - Decoherent Engram
 2167009337 - Secret Handshake
 2167109420 - Cryptic Dragon
 2167109421 - The Aries Nemesis X4
+2167581794 - Duskrender Type 0
+2167581795 - Murvaux Type 0
 2168530918 - Husk Of The Pit
 2168530919 - Eidolon Ally
+2168614231 - Equip Armor
 2168695918 - Regulus Class 77 Schematic
-2169401086 - Wanted Howling Raiders
-2169401087 - Wanted Silent Fang
 2169615710 - Justicars Mask
 2169615711 - Orders Mask
 2169670078 - Sinaa Jaguar 2 1
@@ -1902,7 +2713,6 @@
 2169782893 - The Waiting Crown
 2169782894 - Orders Casque
 2169782895 - Justicars Casque
-2170349373 - Ritual Of The Forsaken
 2171840884 - Wolf Hunter Bkr
 2171840885 - Coldsnap Bkr
 2171840886 - Kingslayer Bkr
@@ -1913,16 +2723,44 @@
 2172091909 - Tengu Operant Iv
 2172091910 - Tengu Operant
 2172091911 - Tengu Operant I
+2176060967 - Eye Of The Storm
 2176787614 - Pallas Regime
 2176787615 - Vesta Noblese
 2179187848 - Cryptarch
 2180040613 - Efrideets Spear
 2180254632 - Ammo Synthesis
 2180255678 - Queens Guard Grips
-2185769784 - The Unseen
-2194305256 - Will Of Crota
-2195431125 - Wanted Repeater Shanks
-2198284153 - Wanted Kaliks 12
+2184974934 - Hesperos Type 1
+2184974935 - Hesperos Type 0
+2186866175 - Talk To Xander 99 40
+2187405793 - Quest Item
+2188411430 - Distorted Heavy Weapon
+2188411431 - Distorted Heavy Weapon
+2188411432 - Distorted Special Weapon
+2188411433 - Distorted Special Weapon
+2188411434 - Distorted Primary Weapon
+2188411435 - Distorted Primary Weapon
+2188411436 - Scrambled Supply Crate
+2188411437 - Scrambled Supply Crate
+2188411438 - Scrambled Engram
+2188411439 - Scrambled Engram
+2188828888 - Venom Of Ikaheka
+2188828889 - Cosmic Joke
+2188828890 - Strength Of The Pack
+2188828891 - Dead Zone Revolution
+2188828892 - Quantum Phoenix Blue
+2188828893 - Cult Trinary Star
+2188828894 - Cloud Walker Tribute
+2188828895 - Legend Of Six Coyotes
+2192426690 - Child Of The Sun
+2194008684 - Sunsingers Bond
+2194008685 - Voidwalkers Bond
+2194008686 - Bond Of The Queens Guard
+2194008687 - Stormcallers Bond
+2196834469 - Talk To Amanda Holliday
+2199013860 - Suros Pdx 45
+2201079122 - Harrowed Silence Of Aarn
+2201079123 - Silence Of Aarn
 2203774914 - Public Event Completed
 2204090140 - Encrypted Engram
 2204383885 - Future War Cult
@@ -1943,29 +2781,58 @@
 2211817415 - Sigil Of Seven
 2211817416 - Thorium Leaf
 2211817417 - Archivists Seal
+2214944728 - Marquise Rs 1
+2214944729 - Seneschal Rs 1
+2214944731 - Dauphin Rs 1
 2216349036 - Orders Gauntlet
 2216349037 - Monarchs Gauntlet
+2216488163 - Scrambled Engram
+2216488164 - Scrambled Engram
+2216488165 - Scrambled Engram
+2216488166 - Scrambled Engram
+2216488167 - Distorted Boots
+2217280774 - Shinobus Vow
+2217280775 - Sealed Ahamkara Grasps
 2217778941 - Eye Of Sol
-2218312612 - Bounty Lead
 2218769485 - Legendary Engram
+2218811090 - Legendary Engram
+2218811091 - Sublime Engram
 2220354906 - Broken Scholar
 2221175816 - Competitor Match
 2221175817 - Melting Point
 2221235552 - Kellhunters Path
+2221481434 - Lost To Light
 2221985334 - Reforge Weapon
+2222317676 - Siege Of The Warmind
+2222692418 - Hakke Lyudmila D
+2224632548 - Taken Assault Venus
 2224837708 - Cloak Of The Ironsworn
 2224837709 - Nightmask Cloak
 2224837711 - Cloak Of Dredgen Yor
+2225486403 - Infinite Lines Gloves
 2225640336 - Exotic Engram
 2227359164 - Snakeline 4 5R2
 2227359166 - Snakeline 4 5
 2227359167 - Snakeline 4 5 1
+2227573756 - Talk To Cayde 6
+2231204998 - Thin The Pack
+2233265746 - Scrambled Engram
+2233265747 - Distorted Boots
+2233265752 - Scrambled Engram
+2233265753 - Distorted Body Armor
+2233265754 - Distorted Helmet
+2233265755 - Distorted Helmet
+2233265756 - Distorted Gauntlets
+2233265757 - Distorted Gauntlets
+2233265758 - Distorted Body Armor
+2233265759 - Scrambled Engram
 2233757096 - Mark Of The Sojourn
 2233757097 - Mark Of The Exodus
 2233757098 - Mark Of Oblivion
 2234646892 - Prime Target
 2235712584 - Wolfslayers Claw
 2235712585 - Wolfslayers Claw Ii
+2236523808 - Encrypted Engram
 2237496544 - Cloak Of The Unfactorable
 2237496545 - Shattered Vault Cloak
 2238224698 - Tengu Operant Vii
@@ -1975,9 +2842,15 @@
 2238224702 - Tengu Operant Ii
 2238224703 - Tengu Operant I
 2238336264 - Reforge Weapon
+2238915204 - Whispering Sphere
+2238915206 - Hourless Glass
+2238915207 - Transcendent Eye
 2239662500 - Skorris Iron Bond
 2240384168 - Oblivion Plate
 2240384169 - Exodus Plate
+2242715338 - Darkhollow Mantle
+2242715339 - Cloak Of Seven Bones
+2244254708 - Accept The Hunters Cache
 2244945360 - Last Days Of Winter
 2245431200 - Little Light
 2245431201 - Extinction Event
@@ -1989,13 +2862,19 @@
 2245431207 - Aries Ascendant
 2245431210 - Atalantas Hunt
 2245431211 - Gloriole Jump
-2247752557 - The Extermination
+2245649823 - Omolon Test Hc1
 2248632138 - Encoded Engram
+2249468316 - Karst Mg4
+2249468317 - Lacustrine Mg4
+2249468318 - Lunation Csc
+2249468319 - Nihilist Csc
+2252114241 - Complete The Path
 2252263782 - Encoded Engram
 2254037906 - Decoherent Engram
 2254085097 - Exotic Engram
 2254123540 - Spirit Bloom
 2255050172 - Exotic Engram
+2255428852 - Exotic Engram
 2255552808 - Firebreak
 2255552809 - Firebreak Type 2
 2255552810 - Firebreak Type 3
@@ -2020,24 +2899,37 @@
 2267965734 - Omen Of Chaos
 2267965735 - Omen Of Chaos Ii
 2270022935 - Phaeton Class V1 1 Schematic
+2270606081 - Be Brave
 2270949961 - The Worldbreaker
 2272644374 - Crest Of Alpha Lupi
 2272644375 - The Armamentarium
+2275132880 - Transversive Steps
 2278129280 - Final Rest Ii
 2279754802 - Electors Boots
-2280150864 - Atonement
+2279897975 - Encrypted Engram
+2279937629 - Byronic Hero
 2281335239 - Its All In The Head
 2282906672 - Kings Cloak
 2282906673 - Devils Cloak
 2282906674 - Wolves Cloak
-2289614763 - Bounty Lead
+2285604714 - Kill Taken Lieutenants
+2286495145 - Crucible Combat
+2286495146 - Crucible Combat
+2286495147 - Crucible Combat
+2286495148 - Crucible Combat
+2286495149 - Crucible Combat
+2290275373 - Talk To Petra
 2291003580 - Encoded Engram
+2292120580 - Appellant Iii
 2294079672 - Reforge Weapon
-2297821429 - The Extermination
 2299512548 - That Beautiful Glow
 2299512550 - Amethyst Reign 99
 2299512551 - Feral Spark Fr6
-2300073689 - Mark Of The Exile
+2300512279 - A Ranger Lost
+2300914892 - Nightstalker Cloak
+2300914893 - Cloak Of Oblivion
+2300914894 - Chaos Cloak
+2300914895 - Cloak Of The Rising
 2301436072 - Dead Zone Revolution
 2301436073 - Strength Of The Pack
 2301436074 - Cosmic Joke
@@ -2047,90 +2939,121 @@
 2301436078 - Cult Trinary Star
 2301436079 - Quantum Phoenix Blue
 2301880605 - Encrypted Engram
+2302693612 - Harrowed Darkhollow Grasps
+2302693613 - Darkhollow Grasps
 2303881503 - Kellhunters Sight
-2308930545 - Gone To Ground
+2308246469 - Blighted Coven
 2310156732 - Lightmail
-2310197590 - Prime Target
-2310197591 - Face Your Fears
-2312402440 - Bounty Lead
 2313325219 - Body Dropper
-2313506217 - Gone To Ground
 2314015086 - Timors Iron Bond
 2314015087 - Skorris Iron Bond
+2321310309 - The Unseeing Eye
+2322501562 - Omolon Test Rr1
+2324251875 - Speeding Locomotive
 2325622529 - Kestrel Class Cx Schematic
-2325948755 - Bounty Lead
 2326927634 - Sigil Of The Iron Lords
 2326927635 - Scar Of Radegast
 2328256155 - Encrypted Engram
 2330212013 - Regulus Class 55 Schematic
 2335332317 - Sunbreakers
+2335390208 - Infinite Lines Bond
+2335579698 - Another Notch
 2336369064 - Decoherent Engram
 2336369065 - Legendary Engram
+2336452820 - Unfaltering
+2339133244 - Nox Acror Iv
+2339133245 - Eosphoros Fr4
+2339133246 - Badlands Fr4
+2339133247 - Nox Inergia Iv
 2339547504 - Dustwalker
 2339547505 - Ghost Angel
 2339580799 - Bone Circlet
-2344494718 - The Fourth Horseman
+2339777344 - Sublime Light Bond
+2344494718 - The 4Th Horseman
 2344494719 - Lord Of Wolves
-2346389783 - Welcome To The Reef
 2346956472 - Painted Abaddon Sr5
 2346956476 - Primed Diyu Sr5
 2346956477 - Painted Sorg Sr5
 2346956478 - Silvered Kin Sr5
 2346956479 - Primed Midnight Sr5
 2347322828 - One For All
-2349430270 - Wanted Twisted Claws
 2350173678 - Raku Vindicator
 2350173679 - Kali Gnt Scout Rig
 2350647687 - Thrallskin Brace
-2350740134 - Bounty Lead
+2352222874 - Complete The Path
+2352428921 - Coded Engram
 2352707666 - Prestige Iv
 2354573398 - Forged In Fire
-2355223976 - The Second Test
-2355223977 - The First Test Completed
-2355223978 - The First Test
-2355223979 - An Invitation
-2355223981 - The Third Test Completed
-2355223982 - The Third Test
-2355223983 - The Second Test Completed
+2354798778 - Team That Works Together
+2355199022 - Take Them Out
 2355843664 - Chroma Vow Iv
 2355843666 - Chroma Vow
 2355843667 - Chroma Vow Iii
 2358201192 - Knuckleduster
+2358760135 - Bullet Grouping Expert
 2359349830 - Cleansing Light
+2360294836 - Brave Shell
+2360294837 - Dread Explorer Shell
+2360294838 - Questing Shell
+2360294839 - Pursuer Shell
 2360689228 - Emerald Light
 2360689229 - Song Of Dusk
 2360689230 - Curse Of The Hidden
 2361563134 - A 1F19X Ryl
 2361563135 - Proxima Centauri Ii
 2361858758 - Hunger Of Crota
-2361889681 - Gather Their Suffering
 2361908754 - Silent Verdict
 2361908755 - Omit The Legend
 2361908756 - No End Theory
 2361908757 - The Worldbreaker
 2361908758 - Flexible Moral Compass
 2361908759 - Permission To Stomp
+2362052769 - Talk To Lakshmi 2
 2363026060 - Enigma Burn Ii
 2363026061 - Enigma Burn Iv
 2363026062 - Enigma Burn
 2363026063 - Enigma Burn I
 2364978459 - Exotic Engram
+2365222337 - Mine
+2365551691 - Classified
 2368747176 - Exodus Boots
 2368747177 - Sojourn Boots
+2368901172 - Rampage
 2369983328 - Iron Regalia Boots
-2371685566 - Bounty Lead
+2370477002 - Zhurong Type 0
+2370477004 - Ithacan Type 0
+2370477005 - Ithacan Type 1
+2370477006 - Taroudant Type 0
+2370477007 - Taroudant Type 1
+2372257456 - Worm Gods Servant
+2372257457 - The Ascendant
+2372257458 - Kingsbane
+2372257459 - Devourer Of Light
+2372257463 - Of Light And Hunger
+2372598266 - Bide Your Time
+2377279575 - Sealing The Blade
+2377396445 - Legacy Engram
+2377403815 - Breaking Light
+2377939573 - Exotic Engram
 2382054082 - Nycor Reborn
 2385483490 - Patrol The Moon
 2390487994 - Arcadia Class Jumpship
 2390487995 - Arcadia Class Jumpship
+2390510528 - Matter Engram
 2393479518 - Immanent War Robes
 2393912296 - Painted Sammuramat C
 2393912297 - Silvered Boudicca D
 2393912298 - Silvered Caracas Lr4
-2398090872 - The Wakening
-2398090873 - Siege Of The Warmind
+2399969336 - Exotic Engram
+2401597217 - Create Orbs Of Light
+2402082521 - Sagramore A
+2402082522 - Lamorak A
+2402082523 - Chilonis A
+2402750214 - Iron Companion Boots
 2404703914 - Phaeton Class V1 Schematic
+2404937110 - Iron Determination
 2408284646 - Encoded Engram
+2409172216 - Coded Engram
 2411847828 - Oblivion Cover
 2411847830 - Sojourn Cover
 2411847831 - Exodus Cover
@@ -2139,6 +3062,7 @@
 2414380721 - Hustlers Cloak
 2414380722 - Hardcase Cloak
 2414380723 - Grinders Cloak
+2414514954 - Iron Light
 2414978080 - Pompeii Lr5
 2414978081 - Caracas Lr5
 2414978082 - Amina E7
@@ -2148,28 +3072,49 @@
 2414978087 - Saigon Lr5
 2424290514 - Highlander Type 1
 2424290515 - Highlander Type 0
+2425003314 - Escape The Cosmodrome
+2427892303 - Classified
 2428236888 - Bronzed Yamaduta Sr4
 2428236889 - Primed Yamaduta S4
 2429881589 - Iron Breed Boots
 2430154280 - Gwalior Type 1
 2430154281 - Gwalior Type 0
 2430154283 - Gwalior Type 2
+2430804850 - Iron Versatility
+2431446407 - Legendary Engram
 2432311021 - Queens Guard Robes
 2433401248 - Nemesis Plane Vi
 2433401249 - Nemesis Plane V
 2433401250 - Nemesis Plane Ii
 2433401251 - Nemesis Plane
-2433571792 - The Kell Of Kells
 2433855273 - Light The Way
+2433962329 - Suros Dis 47
+2434975048 - Cormorant Line Ii
+2434975049 - Cormorant Line I
+2434975052 - Seraph Ii
+2434975053 - Seraph I
+2434975054 - Seraph Reform Ii
+2434975055 - Seraph Reform I
 2437352648 - Encrypted Engram
 2437702841 - Unfriendly Giant
 2438838359 - Relic Hunter
 2438950138 - Encrypted Engram
+2441474719 - For Future War Cult
 2441976297 - Reforge Weapon
+2442048817 - Talk To Ikora Rey
+2442048820 - Talk To Ikora Rey
 2442483870 - Axiom Coven
 2442483871 - Axiom Coven Ii
 2442510960 - Monolith Bleed Ii
 2442510961 - Symmetry Fang Iii
+2443083323 - Ashravens Flight
+2443341855 - Caydes Challenge
+2443884897 - Mow Through
+2444987010 - Classified
+2446426511 - Talk To Shaxx
+2447265728 - Speak To Ikora Rey
+2447423792 - Hawkmoon
+2447423793 - The Last Word
 2448130207 - Ex10 Spindle Demon Schematic
 2448610768 - Afv2 Octavian Schematic
 2448634621 - Titan Engram
@@ -2180,32 +3125,51 @@
 2451237684 - Eclipse Maw Vi
 2451237685 - Nerigal Savant Iii
 2452507807 - Navcore Order
+2452543987 - Talk To Variks
 2452629279 - Iron Regalia Mask
 2455559914 - Striker
 2456301526 - Legendary Engram
+2457722218 - Heliopause Boots
 2459202187 - Kestrel Class Cx0 Schematic
 2460525318 - Exodus Boots
 2460525319 - Sojourn Boots
+2461251984 - Aspriet 1 0
+2461251985 - Aspriet 1 1
 2462690606 - Orders Greaves
 2462690607 - Justicars Greaves
 2463428390 - Sekrion
 2465557612 - Encrypted Engram
 2469032256 - Forgotten Force
 2469032257 - Song Of The Light
+2469233045 - Elevating Vision
+2469630254 - Omolon Test Fr1
 2470198233 - Vanguard Commendation
+2470901387 - Create Orbs Of Light
+2471188107 - The Sword Of Crota
 2472321204 - The Messenger
 2473254932 - Gwalior Type 2
 2473254933 - Gwalior Type 3
 2473254934 - Gwalior Type 0
 2473254935 - Gwalior Type 1
 2474464179 - Reforge Weapon
+2474897330 - Special Delivery
+2474897331 - Special Delivery
+2474897332 - Special Delivery
+2474897333 - Special Delivery
+2474897334 - Special Delivery
+2474897335 - Special Delivery
+2475603994 - Talk To Ikora Rey
 2475938409 - Exotic Engram
-2476207691 - Bounty Lead
+2476342662 - Suros Tsr 10
 2477121987 - Deathsingers Gaze
+2477223032 - Fist Of Crota
+2479526175 - Dunemarchers
 2480655802 - Decoherent Engram
 2483405678 - Rise Above
+2483888610 - As A Team
 2486746566 - Facade Of The Hezen Lords
 2486746567 - Cowl Of The Hezen Lords
+2487097444 - Classified
 2487805648 - The Order
 2487805649 - The Risen Ones
 2489524183 - Born Spark
@@ -2214,37 +3178,52 @@
 2489698231 - S 32C Phoenix
 2490699203 - New Monarchy
 2492283673 - Encrypted Engram
+2492381581 - Talk To Ikora Rey
 2492776212 - Judgments Honor
 2492776213 - Judgments Grant
+2494219692 - Talk To Ikora Rey
+2495092823 - Classified
+2496477295 - Classified
 2497457952 - Logic Singer Iii
 2497457953 - Logic Singer Iv
 2497457954 - Logic Singer
 2497457955 - Logic Singer I
+2498817570 - Coded Engram
+2502086552 - Metropolitan Shell
+2502086553 - Weathered Shell
+2502086554 - Standard Shell
+2502086555 - Redux Shell
+2502086556 - Ishtar Shell
+2502086557 - Meridian Shell
+2502086558 - Skywatch Shell
+2502086559 - Mare Cognitum Shell
 2504283253 - Target Zydron Gate Lord
 2504856474 - Kabrs Forceful Greaves
 2504856475 - Kabrs Lifegiving Treads
 2504918762 - Singularity S 3
+2508872725 - Verisimilitude
+2508872726 - Our Kingdom
+2508872727 - No Puppet I
 2511884019 - The Visible Hand
+2512340869 - Coded Engram
 2513217716 - Mark Of Fortune
 2513217718 - Mark Of The New Sun
 2513217719 - Mark Of The War Tides
+2515261000 - Small Team Tactics
 2515584761 - Prototype 0 9B
+2518699979 - Legendary Engram
 2520286396 - Watchers Gauntlets
 2520286397 - Gauntlets Of The Exile
-2528213253 - Wanted Repeater Shanks
+2521733486 - Scourge Of Winter
+2522665640 - Gunsmith
+2525494696 - Crucible Embers
 2530134059 - The Calming
-2534138048 - Her Willful Gaze
-2534138049 - Off With Their Heads
-2534138050 - Warrior Of The Reef
-2534138051 - For Her Honor
-2534138052 - No Parley
-2534138053 - Extermination Protocol
-2534138054 - Relic Harvest Fallen
-2534138055 - By Thy Hand
-2534138058 - Last Days Of Winter
-2534138059 - Archon Slayer
+2532529290 - Slay Enemies
+2534352370 - Legendary Marks
 2535110885 - Encoded Engram
 2535794666 - Paskin King Baron
+2536361592 - Harrowed Smite Of Merain
+2536361593 - Smite Of Merain
 2537120984 - Special Delivery
 2537120985 - Special Delivery
 2537120986 - Special Delivery
@@ -2255,31 +3234,52 @@
 2537120991 - Special Delivery
 2537653124 - Exodus Grips
 2537653125 - Sojourn Grips
+2537786353 - Trial Run
 2540318313 - Rustburner 1 5
 2540333768 - Queens Guard Gauntlets
+2543642595 - Killing Wind
+2544134634 - Battuta 1 0
+2544134636 - Vaquero 1 0
+2544134637 - Vaquero 1 1
+2544134638 - Brusilov 1 0
+2544134639 - Brusilov 1 1
 2545240988 - Astrolord Vest
 2545240989 - Vest Of No Tomorrow
+2545611811 - Hakke Test A
 2547914731 - Potential Bond
+2549035182 - Harrowed Darkhollow Treads
+2549035183 - Darkhollow Treads
 2549676700 - Ancestral Demise
 2549676702 - Computable Secrets
 2549676703 - The Waking Dreams
-2551007564 - Wanted Queenbreaker Vandals
 2551875383 - Token Of Identity
 2554227537 - Focused Aggression
-2555155662 - The Wakening
+2557404321 - The Worlds Grave
+2557404323 - The Dark Beyond
+2557404327 - Chamber Of Night
 2557913516 - Encrypted Engram
 2558361306 - Legs Of The Exile
 2558361307 - Watchers Boots
 2558819340 - Legendary Engram
 2559980950 - Iron Regalia Greaves
+2560764544 - Challenge The Court Stolen Rune
+2560764545 - Challenge The Court Reciprocal Rune
+2560764547 - Challenge The Court Antiquated Rune
+2561402280 - Sulfur Burnish
+2561402281 - Electric Aquarius
+2561402282 - Suros Minimalist
+2561402283 - Nebula Glow
+2561402286 - The Old Guard
 2563222798 - Psi Umbra I
 2563304568 - Crypt Dweller Sr1
 2564278177 - Queens Guard Vest
+2564323623 - The Elder Cipher
 2565106636 - Tracker 1 0C
 2565106637 - Tracker 1 0 3
 2565106638 - Tracker 1 0 2
 2565106639 - Tracker 1 0
 2566597498 - Iron Breed Mask
+2567161436 - Depose The Court
 2569248000 - Xerxes E1
 2569248001 - Xerxes E
 2569248003 - Genghis E1
@@ -2288,6 +3288,7 @@
 2569248006 - Red River Mk 40
 2569248007 - Tamerlane E1
 2570093123 - Hunters Cache
+2571571578 - Talk To Executor Hideo
 2572647188 - Raku Fulcrum Type 0
 2572647189 - Raku Fulcrum Type 1
 2572647190 - Raku Fulcrum Type 2
@@ -2297,17 +3298,43 @@
 2580679412 - Inertia Engine
 2580679413 - Cosmic Truths
 2580679414 - The Transcendent Mind
+2580843728 - Chandragupta A
+2580843730 - Ascalon Lr1
+2580843731 - Suros Jll 19
 2582896251 - Encrypted Engram
 2583054521 - Psi Umbra I
 2587834577 - Simiks 3
+2588028998 - Waiting On Tex
+2588028999 - Expanded Vocabulary
+2588797997 - Talk To Cayde 6
+2589150230 - Split Shifter Pro
+2589634535 - Talk To The Speaker
 2591213943 - Ruin Wings
 2591286232 - Decoherent Engram
+2591986547 - Dread Patrol
+2592481517 - Hakke Arminius D
+2593945388 - Moriaen D
+2593945389 - Suros Pri 44
+2593945390 - Psi Alba Iv
+2593945391 - Occulate Msc
 2595094464 - Vanth Orcus 0A0X
 2595094465 - Istanu Gnt Razor
+2595349100 - Suros Tyr 14
+2595349102 - Frontier Ar1
+2595349103 - Quagmire Ar1
+2598567916 - Azoth Bend I
+2598567917 - Azoth Bend Ii
 2599394508 - Hide And Seek 42
 2599638040 - Queens Guard Boots
+2601444956 - Suros Tsa 10
+2601444957 - Hakke Test A
+2602145129 - Golden Bull Mask
 2604842869 - Reforge Weapon
 2604951151 - Queens Guard Plate
+2605131543 - Classified
+2605172194 - Talk To Master Rahool
+2605593768 - Return To Shaxx
+2605732467 - Matter Engram
 2608626608 - In The Zone
 2608782124 - Mark Of Sacrifice
 2608782125 - Bastion Mark
@@ -2316,6 +3343,7 @@
 2609120349 - Murmur
 2609687617 - Exotic Armor Shard
 2610276738 - Pulse Rifle Telemetry
+2610733630 - Talk To Ikora
 2610874522 - Raku Vindicator
 2610874523 - Kali Gnt Scout Rig
 2611607750 - Vanth Orcus 0A0X
@@ -2326,31 +3354,43 @@
 2614565484 - The Frenzy
 2615561154 - Merciful
 2615561155 - Merciless
-2616298844 - Bounty Lead
+2617011382 - Ticket To Fight
 2619045214 - Jackknife 2 1
 2619045215 - Gravebreaker 2 2
+2620224196 - Stolen Rune
+2620256212 - Solar Flayer Mantle
+2620256213 - Void Flayer Mantle
+2620256214 - Cloak Of Taniks
+2620256215 - Arc Flayer Mantle
+2621223986 - Organized Play
+2625436438 - Matter Engram
 2626781468 - Cloak Of Ragged Fortune
 2626781469 - Mavericks Cloak
 2626781471 - Cloak Of Reverence
+2627301785 - Heliopause Mask
 2628359849 - Gold Tier
 2628864753 - Encoded Engram
-2630957610 - Bounty Lead
 2631109179 - Reforge Weapon
 2632514122 - Commando Type 0
 2632514123 - Spearhead Type 0
 2636895916 - Orders Boots
 2636895917 - Justicars Boots
+2637166205 - Sealing The Blade
 2638638252 - Silimars Iron Sash
 2639568462 - Spinmetal
 2639568475 - Spinmetal
+2639689178 - Long Far Gone
+2639777407 - Suros Jlb 47
+2639994641 - Classified
 2641082539 - An Iron Grip
 2641544716 - Exotic Engram
 2642511908 - Justicars Grip
 2642511909 - Orders Grip
 2642620856 - Exotic Engram
+2644283293 - Classified
+2644303887 - Encrypted Engram
 2644665689 - Ammo Synthesis
-2645490523 - Embers Of The Lesser
-2649226925 - Wanted Skoriks Archon Slayer
+2651271602 - Jabberhakke D
 2651512648 - Toutatis Type 1
 2651512649 - Toutatis Type 0
 2651512650 - Toutatis Type 3
@@ -2358,34 +3398,67 @@
 2651512652 - Toutatis Type 5
 2651512653 - Toutatis Type 4
 2653094058 - Tengoku Fr2A
+2654484743 - Bullet Grouping
+2655612993 - Encrypted Engram
 2656589561 - Her Eyes
 2657648894 - Low Grade Humility
 2657648895 - 20 20 Amr7
+2659960491 - Terra Bide
+2659960492 - Solo Clade I
+2659960493 - Solo Clade
+2659960494 - Aura Purge I
+2659960495 - Aura Purge
 2660262758 - Reforge Weapon
+2661471738 - Crest Of Alpha Lupi
+2661471739 - The Armamentarium
 2662103142 - Kellhunters Rally
 2666021725 - Stopping Power
-2666169654 - Unwavering Light
-2666721605 - Bounty Lead
+2666891171 - Antinomy Xvi
 2666902822 - Makeshift Scarf
 2668404053 - Decoherent Engram
+2668903792 - Talk To Cayde 6
+2668903793 - Talk To Cayde 6
+2668903794 - Talk To Cayde 6
+2668903795 - Talk To Cayde 6
+2668903798 - Talk To Cayde 6
 2670848871 - The Culling
+2671377472 - Legacy Engram
+2672095118 - Talk To Eva Lavante
+2672986950 - Sublime Engram
+2672986951 - Legendary Engram
 2674689579 - Prohibitive Mind
 2675543790 - No Tomorrow
 2675543791 - The Chaos Constant
-2676904015 - Dried Crimson
+2676353744 - The Circle Glide
 2677740542 - Istanu Gnt Razor
 2677740543 - Vanth Orcus 0A0X
 2681212685 - No Land Beyond
-2683072228 - Wanted Pirsis Pallas Bane
+2683405943 - Classified
+2686650662 - Infinitesimal
+2686650663 - Laurea Prima
 2688781040 - Cold Mantis 2 4 0
 2688781041 - Cold Mantis 2 3 2
 2688781044 - Cold Mantis 2 1R1
 2688781045 - Cold Mantis 2 1
 2688781046 - Cold Mantis 2 3 0
 2688781047 - Cold Mantis 2 2
+2690214942 - Caydes Stash
 2690789680 - Encrypted Engram
-2693653374 - Unwavering Light
+2691519024 - Turquoise Shell
+2691519025 - Bold Red Shell
+2691519026 - Winter Sky Shell
+2691519027 - Verdant Shell
+2691519028 - Purple Spine Shell
+2691519029 - Blue Spine Shell
+2691519030 - Pale Dawn Shell
+2691519031 - Amethyst Shell
+2693340180 - The Ruling House
 2695084041 - Birth Of History
+2698915936 - Special Ammo Donation
+2702267948 - Takenome Ranger 1 1
+2702267949 - Takanome Ranger 1 0
+2702267950 - Sinaa Lamprey 1 1
+2702267951 - Sinaa Lamprey 1 0
 2703148238 - Mars Target
 2704512801 - Made Of Shakespeare
 2704512802 - Always Shoot The Messenger
@@ -2393,26 +3466,26 @@
 2705396158 - Valkyrie O5X Schematic
 2706182711 - Welcome Titan
 2707597085 - Relic Harvest Mars
+2707944700 - Maria Mg3
+2707944701 - Rift Valley Mg3
+2707944702 - Aether Csm
+2707944703 - Phenomena Csm
+2709988006 - Motes Of Light Donation
+2710347042 - Matter Engram
+2710493215 - Honing The Edge
+2710887070 - Early Days
+2711523785 - The Dreadnaught
 2714214735 - Final Rest Ii
 2716750484 - Orders Hood
 2716750485 - Justicars Hood
+2717943896 - Suros Tsr 10
+2719627214 - Talk To Banshee 44
 2723905880 - Quite Content Damsel
 2725008756 - Exotic Engram
 2725323203 - Reforge Weapon
 2726256225 - Admonisher Iii
 2726939675 - Archon Slayer
-2728647382 - Exacting Measures
-2728647383 - The Chaos And The Calm
-2728647384 - Rise Above
-2728647385 - Focused Aggression
-2728647386 - Iron Wrath
-2728647387 - An Iron Grip
-2728647388 - Hard Forged
-2728647389 - Iron Embrace
-2728647390 - Of Iron Made
-2728647391 - A Shared Fate
 2729377859 - Legendary Engram
-2729996723 - Deadshot Collector
 2733667410 - Decoherent Engram
 2734040256 - Enigma Burn Ii
 2734040257 - Enigma Burn
@@ -2421,24 +3494,32 @@
 2737361463 - Reforge Weapon
 2740106760 - Astrolord Greaves
 2740106761 - Greaves Of No Tomorrow
+2740543084 - Talk To Eris
 2741119693 - Encoded Engram
 2741248240 - Astrolord Plate
 2741248241 - Plate Of No Tomorrow
 2742656960 - Decoherent Engram
 2743150333 - Exotic Engram
+2743154321 - Hitchhiker Fr4
+2747259661 - Iron Companion Mask
+2748310062 - The Inward Lamp Adept
+2748310063 - The Inward Lamp
+2748609458 - Fabian Strategy
+2749014711 - Skyburners Security Pass
 2749083446 - Andromeda
 2751204699 - Generalist Shell
-2752518846 - The Shadow Thief
+2754424714 - Classified
+2756606348 - Future War Cult
 2756821693 - Nemesis Plane Iv
 2756821694 - Nemesis Plane Ii
 2756821695 - Nemesis Plane
 2756939880 - Queens Blessing
-2757011961 - Siege Of The Warmind
 2757977316 - Mark Of Contention
 2757977317 - Impervious Mark
 2759537491 - Exotic Engram
 2762611443 - Encrypted Engram
 2763938995 - Servant Of Aksor
+2763954473 - Talk To Ikora
 2764161076 - Butcher Sa 3
 2764161077 - Breaker Sa 3
 2764161078 - Jester Sa 3
@@ -2456,6 +3537,7 @@
 2765927266 - Rustburner 1 5
 2765927267 - Rustburner 1 5 1
 2766196989 - Decoherent Engram
+2769068567 - Cover Fire
 2769368826 - Reforge Weapon
 2771018500 - Skull Of Dire Ahamkara
 2771018501 - Apotheosis Veil
@@ -2470,7 +3552,12 @@
 2773297359 - Exotic Engram
 2774518801 - Decoherent Engram
 2775854838 - Silimars Wrath
+2777211369 - Talk To Amanda
 2777724579 - Queens Guard Gloves
+2778128366 - Astrocyte Verse
+2778128367 - The Stag
+2781253736 - Suros Jlb 47
+2781253737 - Suros Jlb 42
 2781423896 - Scalpel Wing Iii
 2781423897 - Scalpel Wing Iv
 2781423898 - Scalpel Wing
@@ -2479,33 +3566,75 @@
 2783310710 - Helm Of No Tomorrow
 2783310711 - Astrolord Helm
 2785395614 - Cloak Of The Exile
+2786410488 - Meet With New Monarchy
+2788242114 - Knifework
+2788773718 - Talk To Banshee 44
+2788773719 - Talk To Banshee 44
+2789471988 - Visigoth Type 1
+2789471989 - Visigoth Type 0
+2789471990 - Mycenae Type 1
+2789471991 - Mycenae Type 0
 2789825272 - Arms Requisition
+2790109140 - Herja D
+2790109141 - Lyudmila D
+2790109142 - Suros Pdx 41
+2790109143 - Suros Pdx 45
 2791483204 - Komarov 3 1
 2791483205 - Komarov 3 0
 2791483206 - Komarov 3 0B
 2791483207 - Komarov 3 1 2
 2791580573 - Cabal Command
-2792031105 - Bounty Lead
-2792212757 - Urn Of Sacrifice
+2792373024 - A Touch Of Flame
 2797907388 - Dusk Tread Vi
 2797907389 - Viper Spine Iv
 2799840186 - A Challenged Claim
 2800055196 - Molniya Type 0
 2800055197 - Holdfast Type 1
+2801714428 - Jasper Carcanet
+2801714429 - Thrallskin Drum
+2801714430 - Fist Of Eight Moons
+2804855770 - Equip Weapon
+2808030208 - Ded Laurea Iv
+2808030209 - Ded Hexia Iv
+2808030210 - Cuchulainn D
+2808030211 - Arcana Esc
+2808364178 - Truth
 2809229973 - Necrochasm
+2810003152 - Aura Purge I
+2810003153 - Aura Purge
+2810003154 - Solo Clade I
+2810003155 - Solo Clade
+2810003157 - Terra Bide
 2810413641 - Encrypted Engram
+2810461546 - Press The Advantage
 2810850918 - Iron Regalia Sleeves
 2811159553 - Immanent War Gauntlets
-2813488218 - Bounty Lead
 2813952136 - Ursus Tactical
 2813952137 - Commando Custom
+2815148216 - Parasitic Optic
+2815148217 - Unerring Compass
+2815148218 - Two Sided Coin
+2815148219 - The Pahanin Errata
+2815148220 - Butterfly Code
+2815148221 - Coyotes Luck
 2815927676 - Acolyte Rung
+2818035831 - Matter Engram
 2819086528 - Rogue 4 5R2
 2819086530 - Rogue 4 5
 2819086531 - Rogue 4 5 1
+2819887338 - Aspriet 1 0
+2819887339 - Aspriet 1 1
+2820418552 - Mark Of The Circle
+2820418553 - Mark Of The Executor
+2820418554 - Mark Of The Sunforged
+2820418555 - Mark Of Oblivion
+2824252974 - Longespee A
+2824252975 - Suros Prr 11
+2824910999 - Carving A Path
 2826588309 - Sahara Ar3
 2826588310 - Shingen C
 2826588311 - Cydonia Ar3
+2827917456 - Erupting Light
 2832172418 - The Undying
 2834348866 - Purifier Vii
 2834869470 - Encoded Engram
@@ -2520,47 +3649,65 @@
 2841398349 - Black Suros Adm 94
 2841398350 - Black Suros Ppg 96
 2841398351 - Primed Suros Jjj 76
+2843928135 - Devouring Maw
 2846692979 - Jewel Of Osiris
+2847252438 - Fallen S A B E R
 2847788648 - Robe Of The Exile
 2847788649 - Watchers Robe
+2847820538 - Crucible Journeyman
 2847834040 - The Bigger They Are
 2852860612 - Holdfast Type 3
 2852860613 - Molniya Type 2
 2853608729 - Osiris Coin
 2853794413 - Jolders Hammer
+2854740184 - Sr 1 Swiftriver
+2854740186 - S 34 Ravensteel
+2854740187 - Sr 0 Swiftriver
+2855976311 - Sr 0 Swiftriver Upgrade
 2857094808 - Reforge Weapon
 2858888526 - Encoded Engram
 2862024724 - Illyrian Type 2
 2862024725 - Illyrian Type 3
 2862024726 - Illyrian Type 0
 2862024727 - Illyrian Type 1
+2862544759 - Mauuals Maulers
 2863346864 - Cloak Of The Shadowjacks
 2863346865 - Cloak Of Hidden Agendas
 2863346867 - Cloak Of The Shadowsmiths
+2864951718 - Talk To Ikora Rey
+2868202202 - Talk To Ikora
+2868202203 - Talk To Ikora
+2868514656 - Press The Advantage
+2869151424 - Terra Clasp
+2869151428 - Bond Of Emptying
+2869151429 - Bond Of Preparation
+2869151430 - Bond Of The Uprooted
+2869151431 - Orphan Branch
+2869186762 - Not Like The Others
+2873148414 - Special Ammo Donation
 2873305506 - Reforge Weapon
-2874376948 - Relic Harvest Venus
-2874376949 - Relic Harvest Mars
-2874376952 - Target Sekrion
-2874376953 - Walking Tall
-2874376954 - Relic Harvest Cosmodrome
-2874376955 - Relic Harvest Moon
-2874376956 - Target Sepiks Prime
-2874376957 - Target Aksor Archon Priest
-2874376958 - Target Valus Taaurc
-2874376959 - Target Phogoth
+2874472095 - Prayer Of Nepal
+2874781390 - Escape The Cosmodrome
 2876457941 - Reforge Weapon
+2878029263 - Point
 2878290940 - Forester 2 1 1
 2878290941 - Forester 2 1R2
 2878290942 - Forester 2 1
 2878290943 - Forester 2 1C
 2881462909 - Cabal Command
 2882093969 - Spinmetal
+2882684152 - Crest Of Alpha Lupi
+2882684153 - Lucky Raspberry
 2884887211 - Kellslayers Helm
 2885301621 - Heavy Metal
 2885593814 - Reforge Weapon
 2887180060 - Logic Singer I
 2887180061 - Logic Singer
 2887180063 - Logic Singer Ii
+2887763140 - Ros Neve Iv
+2887763141 - Morass Ar4
+2887763142 - Izdubar D
+2887763143 - Suros Wer 45
 2887970516 - Kellslayers Greaves
 2888350168 - Gatewatch
 2888350169 - Gatewatch Type 2
@@ -2568,13 +3715,26 @@
 2888350171 - Gatewatch Type 4
 2888366191 - Reforge Weapon
 2888663705 - Crucible Request
-2893491288 - Patrol Venus
-2893491289 - Patrol Mars
+2889021030 - Stormcallers Gift
+2889940663 - Spark Of Light
+2895242732 - Armsday Alloys
+2895588144 - Special Delivery
+2895588145 - Special Delivery
+2895588146 - Special Delivery
+2895588147 - Special Delivery
+2895588151 - Special Delivery
 2895647525 - A Perfect Strike
+2895967264 - Encrypted Engram
+2897238917 - Finnalas Peril
+2898542650 - Alchemists Raiment
 2898679054 - Justicars Boots
 2898679055 - Orders Boots
 2898884242 - Hood Of The Seven
 2898884243 - Iron Regalia Hood
+2900708616 - Takanome Rangers Hood
+2900708617 - Ayane Takanomes Cloak
+2900708618 - Pilgrims Cloak
+2900708619 - Cloak Of Keen Eyes
 2900778140 - Nox Cantor Iii
 2900778141 - Prost Fr3
 2900778142 - Nox Revus Iii
@@ -2582,37 +3742,67 @@
 2902070748 - Iron Regalia Boots
 2902070749 - Legs Of The Seven
 2904517731 - Axiomatic Beads
+2905391640 - Talk To The Speaker
+2905391641 - Talk To The Speaker
+2905391642 - Talk To The Speaker
+2905391643 - Talk To The Speaker
 2905588836 - Reforge Weapon
-2908648977 - Bounty Lead
+2906158273 - Antiquated Rune
 2909298159 - For Her Honor
 2910404660 - Focused Light
 2911036427 - Astral Horizon
+2912007389 - Ceres Lost Bmj 46
+2918358302 - Doom Of Chelchis
+2918358303 - Harrowed Doom Of Chelchis
+2918778136 - Dreadnaught Pugilist
+2918778137 - Light From Darkness
+2918778138 - Dreadnaught Headhunter
+2918778139 - Take The Fight To Them
+2918778141 - Fishing For Worms
+2918778142 - Scouring The Dreadnaught
+2918778143 - Like Beacons In The Dark
 2921354857 - Judgments Chance
-2922928712 - Shine A Light
+2922774756 - Legendary Engram
+2926140267 - Attack Of Opportunity
 2926741504 - Relic Harvest Cosmodrome
 2927156752 - Claws Of Ahamkara
-2927291122 - The Kell Of Kells
+2927531558 - Complete The Path
 2927739790 - Unbelievably Old Cloak
 2927739791 - All My Victims Cloak
+2929837733 - Heavy Telemetry
+2931051629 - Suros Pdx 41
 2931644902 - Reforge Weapon
+2932120460 - Nimble Bullets
 2932369636 - Legendary Engram
 2932369637 - Decoherent Engram
 2934039641 - Reforge Weapon
 2935267644 - Queens Guard Greaves
 2936370154 - Born Spark
 2937600841 - The Chosen
-2939444303 - Gloves Of The Exile
+2937851017 - Indomitable Light
 2942878483 - Reforge Weapon
 2943183714 - Eye Of Sol
+2944772268 - Haliaetus I
+2944772269 - Haliaetus Ii
+2948141800 - Taken Chronoshards
 2949605650 - Arctic Proxy
 2949605651 - Substance 321
-2951467985 - Eyes Of Crota
+2950887984 - Journey Hood
+2950887985 - Trailblazers Hood
+2950887986 - Buckaroos Cloak
+2950887987 - Vaqueros Cloak
+2950887989 - Rihla Mantle
+2954371221 - New Monarchy
+2955493530 - Probe Defense
+2956501217 - Talk To Ikora
 2956790198 - Argus Deimatic 1 1 2
 2956790199 - Argus Deimatic 1 1 0
-2961947064 - Bounty Lead
+2956939769 - Not My Runner
+2959003546 - Winged Sun Greaves
+2959003547 - Blindsight Greaves
 2962205747 - Lightmail
+2962471954 - Suros Tsa 10
 2962927168 - Bladedancer
-2965893889 - Gone To Ground
 2966036516 - Extropy Morph
 2966036517 - Talion Grace
 2967489698 - Peccadillos Grace
@@ -2620,32 +3810,18 @@
 2968043274 - Legendary Engram
 2968113226 - Sojourn Vest
 2968113227 - Exodus Vest
-2971823879 - Gone To Ground
-2973261568 - Lets Dance
-2973261569 - Boneshaker
-2973261570 - Light The Dark
-2973261571 - Purifier
-2973261572 - The Cleansing
-2973261573 - Chase The Dark
-2973261574 - Atonement
-2973261575 - Out Of Sight
-2973261576 - Unwavering Light
-2973261577 - Hard Fall
+2969918256 - Take Up Arms
+2969918257 - In Good Temper
+2969918259 - A Blade Reborn
+2972840724 - End Over End
 2973507642 - Ns66 Cloud Errant Schematic
 2977140758 - Vanguard
-2977379440 - Cleansing Light
-2977379441 - Battle Scars
-2977379442 - Vex Minds
-2977379443 - Exalted Hive
-2977379444 - Fallen Leaders
-2977379445 - Cabal Command
-2977379446 - One For All
-2977379447 - Its All In The Head
-2977379454 - Knuckleduster
-2977379455 - Body Dropper
 2983166272 - Encoded Engram
 2983550025 - Back Scratcher
+2983809938 - Talk To Zavala
+2983809943 - Talk To Zavala
 2985384660 - Vex Minds
+2987696849 - Full Auto
 2988284296 - Sinaa Jaguar 2 1 1
 2988284297 - Sinaa Jaguar 2 1R2
 2988284298 - Sinaa Jaguar 2 1
@@ -2654,54 +3830,55 @@
 2988844633 - Stratus 3 0
 2988844634 - Stratus 3 0B
 2988844635 - Stratus 3 1 2
+2989466904 - Aspriet 1 1
+2989466905 - Aspriet 1 0
+2989526608 - Blue Marble
+2989526609 - Tristesse
+2989526610 - Autumn Splendor
+2989526611 - Atlantean 5055
+2989526615 - Chrysanthemum
+2990836740 - Salvage Custom Parts
+2990910135 - Omolon Tuonela Sr4
 2990972208 - Weapon Core
+2992401432 - Coded Engram
+2992782156 - Choleric Dragon Srt 49
 2993357536 - One For All
-2994157026 - Target Primus Shaaull
-2994157027 - Target Merok Eir Prince
-2994157032 - Predator And Prey
-2994157033 - Overcharge
-2994157034 - Unstoppable
-2994157035 - Target Banuk Ur Prince
-2994157036 - Target Sardok Eye Of Oryx
-2994157037 - Target Zydron Gate Lord
-2994157038 - The Bigger They Are
-2994157039 - The Harder They Fall
 2994845057 - An Insurmountable Skullfort
 2994845058 - Helm Of Inmost Light
 2994845059 - Helm Of Saint 14
+2996283228 - Classified
+2996634294 - Classified
 2997490066 - Reforge Weapon
 3000237758 - Reforge Weapon
-3003263714 - Bounty Lead
+3000587530 - Talk To Zavala
 3003379076 - Code Fire
 3003379077 - Code Fire I
 3003379078 - Code Fire Ii
 3003379079 - Code Fire Iv
 3003914814 - Do Gooder V
 3003914815 - For The People
-3003929495 - Cut Them Down
+3004954978 - Valorous Light
 3009953622 - Deathsingers Mantle
-3010934612 - Patrol The Moon
-3010934613 - Patrol Cosmodrome
-3010934616 - Target Bracus Thaaurn
-3010934617 - Target Simiks 3
-3010934618 - Target Divisive Mind
-3010934619 - Target Prohibitive Mind
-3010934620 - Target Frigoris Exiled Baron
-3010934621 - Target Telthor Unborn
-3010934622 - Target Grayliks Winter Baron
-3010934623 - Target Corrective Mind
+3012398148 - Telesto
 3013056390 - Legendary Engram
 3013375920 - Immanent War Helm
 3014527285 - Type Ii Powerplant
+3017365245 - Talk To Zavala
 3017621392 - Sun Of Osiris
 3017621393 - Moon Of Osiris
 3017621394 - Emperor Sigil
 3017621395 - Prince Sigil
 3017621399 - Eye Of Osiris
+3018319225 - Talk To Cayde
+3018319228 - Talk To Cayde
+3018319229 - Talk To Cayde
+3018319230 - Talk To Cayde
+3018319231 - Talk To Cayde
 3018556316 - Encoded Engram
-3025272569 - Gather Their Suffering
+3026483582 - Skyburners Command Beacon
 3026648396 - Carnivore Match
 3026648397 - Sanction Custom
+3027281848 - Target Rich Environment
 3028248173 - Reforge Weapon
 3028978726 - The Infinite Theorem
 3030375599 - Encrypted Engram
@@ -2710,23 +3887,24 @@
 3034624891 - Immanent War Hood
 3036793303 - Reforge Weapon
 3036931873 - Rocket Launcher Telemetry
-3037713167 - Deadshot Collector
 3038642864 - Mark Of The Chosen
 3038642865 - Mark Of The Watcher
 3038642866 - Mark Of Resolve
 3039700177 - Reforge Weapon
+3042333086 - Midhas Reckoning
+3042333087 - Harrowed Midhas Reckoning
 3042657750 - Flexible Moral Compass
 3043619338 - Sun Current
 3043619339 - Draught Of Nectar
-3043792808 - Darkness Infused Weapon Frame
-3043792809 - Black Market Coupon
+3043792808 - Sated Pulse Rifle
+3043792809 - Sated Pulse Rifle
 3043792810 - Sated Pulse Rifle
-3043792811 - Darkness Infused Pulse Rifle
-3043792812 - Tolands Journal Fragmented
-3043792813 - Tolands Journal Fragmented
-3043792814 - Tolands Journal Decrypted
-3043792815 - Tolands Journal Encrypted
-3045509425 - Wanted Kaliks 12
+3043792811 - Sated Pulse Rifle
+3043792812 - Sated Pulse Rifle
+3043792813 - Sated Pulse Rifle
+3043792814 - Sated Pulse Rifle
+3043792815 - Sated Pulse Rifle
+3046789768 - Knock Knock
 3049947896 - Toutatis Type 2
 3049947898 - Toutatis Type 0
 3049947899 - Toutatis Type 1
@@ -2736,13 +3914,21 @@
 3050371110 - Cover Of The Exile
 3050371111 - Watchers Cover
 3050633443 - Nothing Manacles
-3053676891 - Bounty Lead
+3050748367 - Infinite Lines Mask
+3052681344 - Imago Loop
+3053827344 - Stone Tier
+3053827345 - Bronze Tier
 3055194406 - Decoherent Engram
+3055446324 - Acd 0 Feedback Fence
+3055446326 - No Backup Plans
+3055446327 - Ruin Wings
+3056359296 - Debt Unpaid
+3056359297 - Mercurial Dawn
+3056359299 - Anahata
 3057488396 - Upgraded S 30C
 3057488397 - Upgraded S 30C
 3057488398 - Upgraded S 30C
 3057488399 - Upgraded S 30C
-3057602537 - Gather Their Faith
 3058199040 - Chroma Vow I
 3058199041 - Chroma Vow
 3058199042 - Chroma Vow Iv
@@ -2752,8 +3938,13 @@
 3060686470 - The Nowhere
 3060686471 - The Hanged Man
 3063953653 - Sv7 War Runner
+3068424913 - Ironwreath D
+3068857625 - Remnants Of Darkness
+3069074202 - Heavy Ammo Donation
 3070117758 - Beta Veteran
+3072256885 - Scholar Shell
 3072387149 - Exotic Engram
+3072438880 - Accept The Titans Cache
 3072717881 - Exotic Engram
 3074713346 - Atheons Epilogue
 3074762908 - Suros Adm 50
@@ -2767,6 +3958,7 @@
 3077117500 - Dead Light Wrap
 3077260836 - Jackolyte
 3077260837 - Flight Of Shadows
+3078796280 - Infinite Lines Plate
 3079274954 - Dead Light Mark
 3083393861 - Legendary Engram
 3085976880 - Mitternacht Sr3
@@ -2781,6 +3973,11 @@
 3093674676 - Wolves Leash Ii
 3093674677 - Wolves Leash
 3096129877 - The Swarm
+3098063583 - Hunt The Archon
+3098274656 - Antandre D
+3098274657 - Llefelys D
+3098274658 - Pryderi D
+3098274659 - Rustam D
 3098456198 - Queens Guard Mask
 3098619932 - Heart Of The Justicar
 3098619933 - Heart Of The Order
@@ -2790,33 +3987,46 @@
 3101195665 - Rogue 4 5
 3101195666 - Rogue 4 5D
 3101195667 - Rogue 4 5B
+3101893862 - Heliopause Hood
 3102889189 - Legendary Engram
 3103835493 - Light Beyond
 3103835494 - Willful Exodus
 3103835495 - Death Of Fate
 3104387070 - The Dreamwaker
 3105162850 - Hangar Assignment
+3105284987 - Shields Up
 3106741559 - Queens Guard Mask
 3107416515 - Encoded Engram
 3108826268 - Watchers Plate
 3108826269 - Plate Of The Exile
 3109440508 - Iron Wrath
 3109888176 - Etheric Light
+3110743028 - Winning Team
+3111562428 - Erupting Void
 3111808084 - Exodus Plate
 3111808085 - Oblivion Plate
+3112754417 - Sunbreakers Gift
+3117625147 - Talk To Petra
 3118679308 - Ice Breaker
 3118679309 - Patience And Time
 3119401296 - Decoherent Engram
 3119401297 - Legendary Engram
+3123084422 - Salvage Custom Parts
 3123248244 - Headhunter
 3125395949 - Dead Light Gauntlets
+3126461428 - The Right Word
+3126461430 - Weapon Skills
 3129437672 - Heart Of The Order
 3129437673 - Heart Of The Justicar
-3131217054 - Shard Of The Fists Blade
-3131710817 - The Hunt For Skolas
+3130529946 - Kallipolis Gloves
 3131901126 - Sapphire Wire
+3132582128 - Talk To Zavala
+3133875731 - Settle The Score
+3134344707 - Zeptocyte Cores
 3136694630 - Cryptarch
-3138589659 - Wanted Wolf High Servitor
+3137282654 - Coded Engram
+3137849143 - Talk To Variks
+3138652762 - Clash For The Future
 3138709701 - Komarov 3 1R4
 3138709702 - Komarov 3 0C
 3138709703 - Komarov 3 1 2
@@ -2829,11 +4039,14 @@
 3140383649 - Vanir Type 1
 3141342998 - Duke Mk 10
 3146968821 - A Perfect Strike
+3147628700 - A Ranger Found
 3148626578 - Deathsingers Grip
+3149602403 - Legacy Engram
 3150134468 - Immanent War Legs
 3153232297 - Valedictorian 9 44
 3153834917 - Queens Guard Gloves
 3156636743 - Relic Harvest Moon
+3157586064 - Motes Of Light Donation
 3158406136 - Prost Fr2
 3158406137 - Nox Cantor Ii
 3158406138 - Solas Fr2
@@ -2841,6 +4054,7 @@
 3158544698 - Decoherent Engram
 3158544699 - Legendary Engram
 3158907636 - Nemesis Plane
+3159180324 - Point And Shoot
 3159615086 - Glimmer
 3161248318 - Jolders Iron Sash
 3161248319 - Radegasts Iron Sash
@@ -2849,36 +4063,54 @@
 3164616404 - Thorn
 3164616405 - The Last Word
 3164616407 - Hawkmoon
+3164836592 - Wormspore
+3164836593 - Hadium Flake
 3165211305 - Reforge Weapon
 3167958228 - Deacon Rs 2
 3167958229 - Jester Sa 2
 3167958230 - Breaker Sa 2
 3167958231 - Butcher Sa 2
 3170350942 - Exotic Engram
+3173771686 - Create Orbs Of Light
 3174860684 - Last Days Of Winter
 3175910843 - Legendary Engram
+3176299288 - Vena Cava
+3176299289 - Bone Marrow
+3176299291 - Ascendant Plane
+3176903680 - Harrowed War Numens Chest
+3176903681 - War Numens Chest
 3178753420 - Monitor Type 2
 3178753421 - Armada Type 3
-3183760021 - Bounty Lead
+3182882068 - The Villainy
 3184164376 - Sanction Six
 3184164377 - Fear Eater
-3188079900 - Atonement
+3185282317 - Ballistic Trauma
+3186326215 - Talk To Amanda
 3190393226 - Reforge Weapon
 3191797830 - Super Good Advice
 3191797831 - Thunderlord
 3193054488 - Vindicator Xi
-3193862941 - Urn Of Sacrifice
+3194833577 - The Vertigo
 3195303140 - The Scholar
 3196174880 - Reforge Weapon
+3199275830 - This Is Dead Orbit Territory
+3200655054 - Building A Wall
+3202328104 - Salicin Fen I
+3202328105 - Salicin Fen Ii
+3202328106 - Dujiao Shou I
+3202328107 - Dujiao Shou Ii
 3204263040 - Crucible Commendation
 3204412654 - Target Bracus Thaaurn
+3204707698 - Ballistic Scalpel
 3204986282 - Astrolord Grips
 3204986283 - Grips Of No Tomorrow
 3205043112 - Sahara Ar2
 3205043114 - Cydonia Ar2
 3205043115 - Galahad B
 3205131156 - Decoherent Engram
+3205576263 - The Promethean Code
 3206722242 - Regulus Class 44B Schematic
+3206937312 - Comitatus
 3208101036 - Cloak Of The Sojourn
 3208101037 - Cloak Of The Exodus
 3208101038 - Cloak Of Oblivion
@@ -2887,21 +4119,45 @@
 3209304404 - Red Eclipse Cloak
 3209304405 - Lead Scouts Cloak
 3211362635 - Encrypted Engram
+3211511318 - Matter Engram
+3216211416 - Talk To Ikora
+3216211417 - Talk To Ikora
+3216211418 - Talk To Ikora
+3216211419 - Talk To Ikora
+3216211420 - Talk To Ikora
 3217020298 - Ax10 Slipper Misfit Schematic
 3217318818 - Queens Guard Greaves
 3219178354 - Viper Spine Iii
 3219178355 - Dusk Tread Vii
-3219669415 - Infusion Of Light
+3219669415 - Spark Of Light
 3222439399 - Crusader I
-3223221099 - Siege Of The Warmind
+3223874427 - Specialist
+3224255040 - Mycenae Type 1
+3224255041 - Mycenae Type 0
+3224255042 - Visigoth Type 1
+3224255043 - Visigoth Type 0
 3224339315 - The Wild Hunt
+3225579179 - Talk To Zavala
+3225579180 - Talk To Zavala
+3225579181 - Talk To Zavala
+3225579182 - Talk To Zavala
+3225579183 - Talk To Zavala
+3227022823 - Hereafter
 3228272952 - Reforge Weapon
-3230156982 - Wanted Wolf Enforcer
-3230292554 - Bounty Lead
-3230871177 - Husk Reaper
+3230875739 - Talk To Ikora Rey
+3232045548 - Encrypted Engram
+3237195272 - Kallipolis Mark
 3237446165 - Decoherent Engram
 3237629504 - Unity Clade
 3237629505 - Apex Harmonic
+3239308436 - Practical Shooting
+3241742998 - Charged Agonarch Rune
+3241810624 - Corsairs Revenge 1 0
+3241810625 - Corsairs Revenge 2 0
+3241810628 - Wolf Pelt Weave Zed
+3241810629 - Wolf Pelt Weave 1 0
+3241810630 - Wolf Pelt Weave 2 0
+3241810631 - Wolf Pelt Weave 3 0
 3242866270 - Relic Iron
 3244859508 - Jolders Hammer
 3248063011 - Target Phogoth
@@ -2909,37 +4165,50 @@
 3248387081 - Agema Type 0
 3248387082 - Agema Type 3
 3248387083 - Agema Type 2
+3248996429 - Talk To Petra
 3249842264 - Encoded Engram
 3252749793 - Exotic Engram
+3253299356 - Suros Fire
+3253299357 - Be Brave
+3253299358 - Insula Thesauraria
+3254227166 - Encrypted Engram
+3254477075 - Guns Blazing
 3255249793 - Pristine Golden Age Ammunition Module
-3256377586 - Wanted Skoriks Archon Slayer
-3256377587 - Wanted Weksis The Meek
 3256728851 - Reforge Weapon
 3257809441 - Queens Favor
-3258121580 - Paskin King Baron
-3258121581 - A Perfect Strike
-3258121582 - Skolas Wolf Kell
-3258121583 - Liksor Wolf Blade
 3259091099 - Red Hand Ix
 3259203440 - Exotic Engram
 3260179340 - Xibalba Sr5
 3260179341 - Thanatos Sr5
 3260179342 - Acheron Sr5
 3260179343 - Naraka Sr5
-3262435309 - Chase The Dark
-3266228772 - The Unseen
+3262538145 - Talk To Amanda
+3262574748 - Crash Landing
+3263188420 - Complete The Path
+3263634253 - Kallipolis Greaves
+3265454157 - Quest Item
 3267664568 - Boots Of The Hezen Lords
 3267664569 - Tread Of The Hezen Lords
 3269301481 - Crotas End
 3269564995 - Encrypted Engram
-3271324782 - Bounty Lead
 3272257839 - Pull The Pin
 3275079860 - Iron Regalia Plate
+3275294460 - Suros Ari 41
+3275294461 - Suros Ari 45
+3275294462 - Arminius D
+3275294463 - Zarinaea D
+3276383360 - Welcome To The Reef
+3276587468 - Special Delivery
+3276587469 - Special Delivery
+3276587470 - Special Delivery
+3276587471 - Special Delivery
 3280714642 - Dustwalker
 3280714643 - Ghost Angel
+3281087637 - Classified
 3282979744 - Calcutta Lr1
 3284887365 - Immanent War Grips
-3286850231 - Wanted Wolf High Servitor
+3287962537 - New Monarchy
+3289039603 - Targets Eliminated
 3289353666 - Psi Umbra Ii
 3291474916 - Judgments Tribute
 3292938984 - Target Valus Taaurc
@@ -2950,6 +4219,8 @@
 3295270252 - Cold Mantis 2 2B
 3295270254 - Cold Mantis
 3295270255 - Cold Mantis 2 1B
+3295304108 - For New Monarchy
+3295428002 - Drawn From The Light
 3297682448 - 0A0X Nightmask
 3297682449 - 0A0X Nightmask 1 1
 3297682450 - 0A0X Nightmask 1 2
@@ -2965,30 +4236,38 @@
 3298760663 - Harlequin Pendulum
 3300361770 - Crown Of The Sovereign
 3300361771 - Queens Guard Crest
-3302043228 - Wanted Beltrik The Veiled
+3301316570 - Talk To Banshee 44
+3301316571 - Talk To Banshee 44
+3308815084 - Talk To Shaxx
 3311034942 - Special Delivery
 3311468799 - Revengeance
 3316745440 - Rogue 4 5
 3316745441 - Rogue 4 5 2
 3318334351 - Sg Scattercast
 3318581105 - Subtle Nudge Dn7
+3322979578 - Diluvian 10 4X
 3327140886 - Exiles Curse
+3327265296 - Iron Journeyman
 3328408176 - Decoherent Engram
 3329309434 - Astral Horizon
 3329664607 - Special Requisition
+3335833364 - Nightstalkers Cloak
+3335833365 - Cloak Of The Sixth Reign
+3335833366 - Gunslingers Cloak
+3335833367 - Bladedancers Cloak
 3338086100 - Exodus Grips
 3338086101 - Fatekiller Grips
+3339677238 - Talk To Eris
+3340894601 - Focused
 3341070118 - Mars Target
-3344000560 - No Riding Zone
-3344000561 - Partys Over
-3344000562 - Thats How I Roll
-3344000563 - Revengeance
-3344000564 - The Undying
-3344000565 - Stopping Power
-3344000566 - Target Practice
-3344000567 - Electrocutioner
-3345445314 - Wanted Saviks Queenbreaker
+3342415802 - Winged Sun Sleeves
+3342415803 - Blindsight Sleeves
+3345857499 - Essential Elements
 3346044483 - For Her Honor
+3346445208 - Trax Onus Iii
+3346445209 - Trax Devotio Iii
+3346445210 - Parallax Psm
+3346445211 - Radial Psm
 3346519200 - Bond Of Unknowing
 3346519202 - Bond Of The Universal
 3346519203 - Bond Of Polarity
@@ -2999,7 +4278,6 @@
 3349269945 - Axiom Coven Iv
 3349269946 - Axiom Coven Ii
 3349269947 - Axiom Coven
-3350570605 - Wanted Skoriks Archon Slayer
 3354628604 - Decoherent Engram
 3354628605 - Legendary Engram
 3355701753 - The Waiting Crown
@@ -3016,6 +4294,7 @@
 3359564871 - The Gone
 3362160257 - Queens Favor
 3362576764 - Armor Of Vows
+3363817052 - Talk To Zavala
 3366017012 - Loop Of Night
 3366017013 - Eternal Light
 3366017015 - Twist Of Fate
@@ -3023,18 +4302,24 @@
 3367786035 - Million Million
 3367833896 - Kabrs Wrath
 3367833897 - Kabrs Might
+3369699106 - Talk To Zavala
 3370271340 - Astrolord Cover
 3370271341 - Cover Of No Tomorrows
+3370648877 - More Bullets
+3371478409 - Special Telemetry
 3371737519 - Dead Light Greaves
-3372101679 - Purifier
 3373442919 - An Iron Grip
+3375120178 - Ballistic Scalpel Expert
 3376481440 - Preacher Mk 20
 3378827888 - The Fulcrum
+3379130487 - Coded Engram
+3380876004 - Competitive Shell
 3383355340 - Sojourn Cover
 3383355341 - Exodus Cover
 3384077431 - Ldr 5001
 3385520596 - Justicars Casque
 3385520597 - Orders Casque
+3387217851 - Team Extraction
 3387472392 - Watchers Grips
 3387472393 - Grips Of The Exile
 3389644921 - Hood Of The Sojourn
@@ -3045,36 +4330,37 @@
 3390448405 - Judgment Cast
 3390448406 - Kingswind
 3390448407 - Devilswept
+3391868928 - Wolves Gambit
+3392485744 - Diligent
 3393641174 - Nemesis Plane
-3394333316 - All For One
-3394333317 - Death Or Glory
-3394333320 - Dominion
-3394333321 - Light The Way
-3394333322 - Stay Golden
-3394333323 - Reclamation
-3394333324 - Ash And Dust
-3394333325 - Longshot
-3394333326 - Headhunter
-3394333327 - Pull The Pin
 3394456880 - Cloak Of The Unflinching
 3394456882 - Cloak Of The Cosmonaut
 3394456883 - Cloak Of The Apsides
 3397982326 - Medallion Of Iron
-3399255907 - 347 Vesta Dynasty
+3399123888 - On The Fist Of A Sunbreaker
+3399822332 - Iron Companion Sleeves
 3400379859 - Pull The Pin
 3402998204 - Preacher Mk 11
 3406567649 - Electors Mask
 3406592744 - Reforge Weapon
 3407403201 - Light The Way
+3407607557 - Sublime Light Mark
 3408183842 - Echo 33
 3408183844 - Cold Current
 3408183845 - Crackerjack Beta
 3408183846 - Dead Air 09F3
 3408183847 - Lump Distribution
+3408284650 - Visit Amanda
+3409557093 - Early Days
 3410875392 - Dead Light Cover
+3411273396 - Talk To Cayde 6
 3411635686 - Dusk Tread Iii
 3411635687 - Viper Spine Vi
 3411657287 - Moluk Wormwaker
+3414643692 - Sinaa Lamprey 1 1
+3414643693 - Sinaa Lamprey 1 0
+3414643694 - Takanome Ranger 1 1
+3414643695 - Takanome Ranger 1 0
 3415036749 - Painted Apollo Msc
 3415036750 - Painted Neptune Msc
 3415036751 - Silvered Procyon Msc
@@ -3083,17 +4369,25 @@
 3417386385 - Ns66 High Water Schematic
 3420129286 - The Fear
 3421300463 - Encoded Engram
+3422358368 - Slay Enemies
 3424247734 - Blessing Of The Knight
 3424247735 - Blessing Of Worlds
-3426556613 - Sullen Heart
-3427265658 - Wanted Grayor Wolf Assassin
+3425428806 - Deployer
+3431564410 - Terra Bide
+3431564412 - Solo Clade
+3431564413 - Solo Clade I
+3431564414 - Aura Purge
+3431564415 - Aura Purge I
+3433529836 - Talk To Eris
 3434428340 - Silvered Hushwind D
 3434428341 - Bronzed Miyamoto D
 3434428342 - Painted Suros Cgb 47
+3435604749 - Classified
 3441383072 - Eris Morn
 3441383073 - Blade Of Crota
 3441383074 - Sigil Of Night
 3441383075 - Dark Harvest
+3441463739 - Encrypted Engram
 3442434851 - Cosmodrome Target
 3444386682 - Sk5 Type Null
 3446457162 - Resupply Codes
@@ -3102,8 +4396,16 @@
 3449421287 - Wearable Collider
 3450219366 - Boots Of No Tomorrow
 3450219367 - Astrolord Boots
+3450244507 - Talk To Arach Jalaal
 3451716861 - Iron Regalia Great Helm
+3452625744 - Haakons Hatchet
+3452931616 - Encrypted Engram
+3454898995 - Matter Engram
 3455371673 - Obsidian Mind
+3456159816 - Talk To Cayde 6
+3456159818 - Talk To Cayde 6
+3456159819 - Talk To Cayde 6
+3458354265 - Heliopause Legs
 3458668152 - The Infinite Theorem
 3458901840 - Bane Of Dark Gods
 3458901841 - Light In The Abyss
@@ -3113,19 +4415,28 @@
 3459698544 - Gloves Of No Tomorrow
 3459698545 - Astrolord Gloves
 3463607706 - Two To The Morgue
+3465849241 - Weapon Supplies Donation
 3466020032 - Vanguard Mentor Missive
 3466020033 - Vanguard Mentor Missive
 3466020034 - Vanguard Mentor Missive
+3467781184 - Team That Grenades Together
+3468224294 - Silver Tier
 3470167972 - Iron Regalia Mask
 3470167973 - Mask Of The Iron Lords
 3471211332 - Justicars Boots
 3471211333 - Orders Boots
+3471865172 - Darkhollow Mask
+3471865173 - Harrowed Darkhollow Mask
+3472112597 - Thesan Fr4
+3472922136 - Talk To Zavala
+3472922137 - Talk To Zavala
+3472922139 - Talk To Zavala
 3473700532 - The Chaos Constant
 3473700533 - No Tomorrow
 3473700535 - Circle Of War
 3474238047 - Tuned Drive
-3475768130 - Wanted Saviks Queenbreaker
 3475947461 - Laughing Behind Your Back
+3476166867 - The Vanity
 3477470986 - Iron Regalia Vest
 3477644876 - A Perfect Strike
 3478790848 - Hopscotch Pilgrim
@@ -3141,29 +4452,55 @@
 3486170339 - Painted Artemisia D
 3487083158 - Exotic Engram
 3487337162 - Red Hand Ix
+3488003837 - Talk To Eris
+3488197366 - Iron Gauntlet
 3490486524 - Fate Of All Fools
 3490486525 - Mida Multi Tool
 3490519608 - Skolas Wolf Kell
+3491886956 - Tuonela Sr4
+3491886957 - Cocytus Sr4
+3491886958 - Suros Dis 47
+3491886959 - Suros Dis 43
+3494405080 - Legendary Engram
+3497087277 - Colovances Duty
+3497374572 - Sublime Engram
+3497374573 - Legendary Engram
 3501164583 - Queens Guard Boots
-3501864097 - Wanted Howling Raiders
 3503197783 - By Thy Hand
+3503303762 - Take Them All
 3505154500 - Fatekiller Boots
 3505154501 - Exodus Boots
-3511266349 - Chase The Dark
 3512676572 - Exotic Engram
 3512812348 - Exotic Engram
-3513944561 - Legs Of The Exile
 3514582328 - Reforge Weapon
 3515924747 - Decoherent Engram
+3515978626 - Blindsight Gloves
+3515978627 - Winged Sun Gloves
 3516613398 - Arighans Blossom
+3517497022 - Making An Impact
+3521761516 - Retrieve Your Ship
+3523549178 - Talk To Cayde 6
 3523581236 - Carnivore Match
 3523581237 - Sanction Custom
-3523896958 - The Will Of Crota
 3524149558 - The Teilhard War
 3526049002 - Broken Scholar
+3526169430 - Quick Drops
+3526169431 - Deathless
+3526169432 - Hive Hunting
+3526169433 - Hunting The Exalted
+3526169434 - Aim For The Juicebox
+3526169435 - Heavy Duty Models
+3526169436 - Eliksni Hunting
+3526169437 - House Breaking
+3526169438 - Armor Breaker
+3526169439 - Elite Breaker
+3527282683 - Bound By Fire
 3530998732 - Snakeline 4 5
 3530998733 - Snakeline 4 5 2
+3536592559 - Tormods Bellows
+3542867423 - Kingslayer Shell
 3544127854 - Prototype 0 9B
+3545551038 - Extrasolar Rr4
 3547540843 - Silimars Wrath
 3549968172 - Deathsingers Herald
 3550220456 - Tengu Operant Vi
@@ -3172,24 +4509,46 @@
 3550220459 - Tengu Operant Ii
 3550615265 - Back Scratcher
 3551403306 - The Comedian
-3552786318 - Bounty Lead
+3555000255 - Call Lightning
 3555771260 - Another Nitc
 3555771261 - Badger Ccl
+3556663880 - Barons Ambition
+3560158448 - Seraph Reform I
+3560158449 - Seraph Reform Ii
+3560158450 - Seraph I
+3560158451 - Seraph Ii
+3560158454 - Cormorant Line I
+3560158455 - Cormorant Line Ii
 3563669392 - Ns22 Cloud Errant Schematic
+3566605996 - Curse Of The Hidden
+3566605998 - Emerald Light
+3566605999 - Song Of Dusk
+3572302284 - Neuroghast 2 1
+3572302285 - Neuroghast 1 0
 3572811729 - Patrol Mars
-3572997464 - Bounty Lead
-3574380086 - Lets Dance
+3574778420 - Purifier Robes
+3574778421 - Starfire Protocol
+3574778422 - Voidfang Vestments
+3574778423 - Heart Of The Praxic Fire
 3575059040 - Greaves Of No Tomorrow
 3575059041 - Astrolord Greaves
+3576948764 - Stand Alone
 3577254054 - The Glasshouse
-3577445804 - Gather Their Fury
-3577445805 - Gather Their Dust
 3577482760 - Rainmaster V4
 3577482761 - Foresight 3
 3577482762 - Gladius 77
 3577482763 - Wyestar X9
 3577482765 - Pulwar V Ace
+3582243848 - The Dealbreaker
+3582243849 - Antipodal Hindsight
 3582249030 - Timurs Lash
+3582489754 - Test Your Blade
+3582489755 - Blade Of Day
+3587053588 - Talk To Eris
+3592133162 - On The Marsh
+3592133163 - End Unsung
+3592189220 - Legendary Engram
+3592189221 - Sublime Engram
 3592821730 - Up The Ante
 3595608716 - Komarov 3 1
 3595608717 - Komarov 3 1 2
@@ -3197,40 +4556,52 @@
 3595608719 - Komarov 3 1R4
 3598189791 - The Climb
 3598349135 - The Harder They Fall
+3598383276 - Duskrender Type 0
+3598383277 - Murvaux Type 0
 3598716818 - Bond Of The Queens Guard
-3599032933 - Cut To The Quick
 3600118413 - Reforge Weapon
 3601700809 - Decoherent Engram
+3602776614 - Erupting Light
+3604489454 - Persistence
 3604975945 - Decoherent Engram
 3607162270 - Forged In Fire
+3607447067 - Heliopause Helm
+3609425984 - Talk To The Cryptarch
 3614963323 - Reforge Weapon
 3615265777 - Swordbreaker
 3615941478 - Exodus Grips
 3615941479 - Sojourn Grips
-3617280201 - Bounty Lead
 3619191797 - Legendary Engram
 3619364337 - Exotic Engram
 3619862808 - Mark Of The Risen
 3620910776 - Kellbreakers Mind
+3622631010 - Matter Engram
 3624494957 - Reforge Weapon
+3624799032 - Eagle Eyed
 3625835502 - Her Right Hand
 3625835503 - Her Vengeance
-3626568292 - Bond Of The Exile
+3629543168 - Uzume Rr4
+3629543169 - Eirene Rr4
+3629543170 - Tamar D
+3629543171 - Aoife Rua D
 3629909016 - Warrior Of The Reef
-3630366947 - An Unknown Patron
+3630246230 - Classified
 3632113863 - Immanent War Boots
 3632619276 - Silken Codex
 3637940698 - Watchers Boots
 3637940699 - Boots Of The Exile
 3638286479 - Exotic Engram
+3638352211 - Relic Crystal
 3638834591 - Exotic Engram
 3639055985 - Decoherent Engram
 3639188760 - Painted Mos Ardus V
 3639188761 - Primed Big Sky Mk 48
+3639752816 - Talk To Zavala
 3641510344 - Stratus 3 1
 3641510345 - Stratus 3 1 2
 3641510346 - Stratus 3 1 3
 3641510347 - Stratus 3 1R4
+3643257913 - Legacy Engram
 3644912834 - Void Philosopher
 3644912835 - Obsidian Sonnet
 3644912836 - Zephyr Rig
@@ -3244,9 +4615,18 @@
 3645734430 - Legendary Engram
 3645734431 - Decoherent Engram
 3646124539 - Banuk Ur Prince
+3646422942 - Hard To Kill
+3647353665 - Its Progress
+3648580078 - The Sunless Cell
+3648970733 - Equip Weapon
 3649303951 - Spirit Bloom
 3649303962 - Spirit Bloom
-3655230121 - Wanted Ether Runner
+3651865916 - Talk To Zavala
+3653819064 - Aspriet 1 0
+3653819065 - Aspriet 1 1
+3654604872 - Sunscorched Lens
+3654604873 - Wings Of Apris Fol
+3654604875 - Echo Of Honor
 3656150980 - Kellbreaker
 3656150982 - Firm Decree
 3656150983 - Judgments Right Hand
@@ -3255,16 +4635,16 @@
 3658030514 - No Parley
 3658182170 - Sunsinger
 3660153609 - Kellbreakers Gloves
+3661085176 - Bottle The Arc
 3661659402 - Kellhunters Blood
 3662528364 - Controversial Remains
 3662528365 - The Before Time
 3662528367 - Paradox And Truth
+3663987921 - Trials Journeyman
 3665240232 - S 22 Cavalier
 3665240234 - S 20 Cavalier
 3665240235 - S 21 Cavalier
 3667595457 - Her Mercy
-3669471518 - Hood Of The Exile
-3669595932 - Bounty Lead
 3671454768 - Polar Oak
 3671454769 - 18327496 64703388
 3671454770 - Jester Apogee
@@ -3276,29 +4656,47 @@
 3671454776 - Thunderdevil
 3671454777 - Broadsword
 3672462926 - Target Sekrion
-3676334474 - Wanted Grayor Wolf Assassin
+3674551668 - Cepheid Esm
+3674551669 - Baryonic Esm
+3674551670 - Ded Regnum Iii
+3674551671 - Ded Alia Iii
+3675783241 - The Chaperone
 3676456340 - Mos Ganon Ii
 3676456341 - Bandit Mk 24
 3676456342 - Searcher Mk 20
 3676456343 - Maverick Mk 20
+3676798823 - Summoners Circle
 3677262715 - Its All In The Head
 3677348580 - Gwalior Type 3
 3677348581 - Gwalior Type 2
 3677348582 - Gwalior Type 1
 3677348583 - Gwalior Type 0
-3679978037 - Cut To The Quick
+3677466369 - The Ash Factory
+3677466371 - The Hothead
+3681890047 - Talk To Petra
 3685385595 - Marshal A0
+3685603871 - Top Score
+3687705333 - Burden Of Proof Xi
 3688410950 - Decoherent Engram
 3688410951 - Legendary Engram
-3690013168 - Blades Of Crota
+3688594188 - Boolean Gemini
+3688594190 - The Jade Rabbit
 3691267894 - Fear Eater
 3691267895 - Sanction Six
 3691380023 - Mercy Of Osiris
 3691429474 - Legendary Engram
+3691883232 - Queen Mother Sa 4
+3691883233 - Suros Bwn 48
+3691883234 - Dauphine Sa 4
+3691883235 - Minstrel Ra 4
 3692650467 - Relic Iron
 3692650486 - Relic Iron
 3692984192 - Reforge Weapon
+3693442494 - Talk To Banshee 44
+3693442495 - Talk To Banshee 44
 3695068318 - Praedyths Revenge
+3696771712 - Returning Victor
+3697385309 - Classified
 3698237992 - Decoherent Engram
 3703598456 - Ev 31 Nightbird
 3703598457 - Ev 30 Tumbler
@@ -3320,7 +4718,10 @@
 3711300948 - Monitor Type 2
 3711300949 - Armada Type 3
 3711843883 - Eon Trespass
+3713180109 - Specialist
+3713253709 - Talk To Shaxx
 3714727917 - Exotic Engram
+3720528789 - Prove Yourself Through Energy Bursts
 3720762084 - Valus Taaurc
 3720866500 - Beowulf
 3720866501 - Cicero
@@ -3329,63 +4730,97 @@
 3722233944 - Forester 2 1
 3722233945 - Forester 2 1R2
 3722233946 - Forester 2 1R3
+3722494237 - Heavy Ammo Donation
+3723059940 - Heliopause Greaves
 3723203568 - Gatewatch
 3723203569 - Gatewatch Type 2
-3727100515 - Bonebreaker
-3729407090 - Wanted Weksis The Meek
 3729730126 - Thought Lantern
 3729730127 - Incandescent Mind
 3730263108 - Watchers Greaves
 3730263109 - Greaves Of The Exile
 3731902851 - Dead Orbit
-3732403734 - Wanted Silent Fang
+3732086513 - A Gunslingers Best Friend
 3732631646 - Wrap Of The Fatekiller
 3732631647 - Robe Of The Exodus
-3734004343 - A Dubious Task
+3734004343 - Invective Charged
 3734099729 - Reforge Weapon
+3735063466 - Individual Achievement
 3735556917 - Encoded Engram
 3738854614 - H_Ld Starwinder
 3738854615 - Aos Cryptid
 3740934760 - Cast In Blood
 3740934761 - Noyb Mark
 3740934763 - Mark Of The Supreme
+3742197772 - Classified
+3742408829 - Quest Item
+3743564359 - Omolon Uzume Rr4
 3744470365 - Exotic Engram
+3746968992 - Lightbringer
 3747674784 - The Good Doctor
 3747674785 - Big Rig Xxl
+3748431732 - Crushing Victory
 3753095826 - Rosegold
 3753095827 - Prism Dancer
 3753761958 - Immanent War Mark
 3755056085 - Encoded Engram
+3755547917 - Infinite Lines Robes
 3757708758 - Welcome Warlock
+3760618696 - Speak To Banshee 44
+3760618697 - Speak To Banshee 44
+3760618698 - Speak To Banshee 44
+3760618699 - Speak To Banshee 44
 3762079184 - The Waiting Crown
 3762079186 - Justicars Hood
 3762079187 - Orders Hood
 3762921122 - The Calming
+3763238208 - Shining Light
+3763238209 - Fast Striker
+3763238210 - Sunbreak Challenge
+3763238211 - Captivating Light
+3763238212 - A Kells Hand
+3763238213 - Call Lightning
+3763238214 - Quick Drops
+3763238215 - Deathless
+3763238222 - Invincible
+3763238223 - Exploding Light
 3763914720 - Mangala Skin 1 3C
 3763914721 - Mangala Skin 1 3
 3763914723 - Mangala Skin 1 3D
 3766951943 - Silver Tier
 3772051159 - The Last Rebellion
+3774437926 - Classified
+3775512100 - Visigoth Type 0
+3775512101 - Visigoth Type 1
+3775512102 - Mycenae Type 0
+3775512103 - Mycenae Type 1
 3776757066 - Legs Of No Tomorrow
 3776757067 - Astrolord Boots
 3776902104 - Predawne
 3776902105 - Middaye
 3776902106 - Sunsetting
-3777073777 - Bounty Lead
 3781026694 - Crucible
 3782639334 - Durga Gnt Type 0
 3782639335 - Raku Crucible Type
 3783295803 - Ether Seeds
+3783835109 - The Variable
 3786747679 - Willbreakers Greaves
 3788133589 - Reforge Weapon
 3790886867 - Makeshift Scarf
+3791128832 - Take The Wanted
+3791128833 - Take The Wanted
+3791128834 - Take The Wanted
+3791128835 - Take The Wanted
+3791128838 - Take The Wanted
+3791128839 - Take The Wanted
 3791678474 - Plate Of No Tomorrow
 3791678475 - Astrolord Plate
 3793369594 - Prototype 0 9C
 3793887746 - Durga Gnt Type 0
 3793887747 - Raku Crucible Type
-3794205242 - Wanted Queenbreaker Captain
 3794349783 - Rope To Heaven
+3796791137 - Talk To Zavala
+3797169074 - Legendary Engram
+3797169075 - Sublime Engram
 3800763760 - Gheleons Demise
 3802439656 - Exodus Helm
 3802439657 - Oblivion Helm
@@ -3396,7 +4831,16 @@
 3804879989 - Forester 2 1 1
 3804879990 - Forester 2 1B
 3804879991 - Forester 2 1
+3807039688 - Skyburners Obol
+3807039689 - Wei Nings Cong
+3807039690 - Iglatho Cyu
+3807039691 - Cyclopean Enigma
+3807039694 - Scales Of Eao
+3807039695 - Vell Tarlowes Vigil
 3807770941 - Hezen Vengeance
+3808257329 - High And Flighty
+3808257330 - Mind Bleacher
+3808257331 - Sidereal Rumba
 3811211198 - Decoherent Engram
 3811211199 - Legendary Engram
 3812003298 - The Fangs Of Nyx
@@ -3404,19 +4848,19 @@
 3812790141 - Enigma Burn Ii
 3812790142 - Enigma Burn I
 3812790143 - Enigma Burn
+3813031408 - Dead Orbit Rifter
 3813849664 - Graven Codex
 3813849666 - Dead Ghost
 3813849669 - Shard Of The Shrine
 3813849671 - Blade Shards
-3814734936 - Light The Dark
+3815792479 - Kallipolis Boots
 3816200701 - Relic Harvest Mars
 3817461164 - Mangala Skin 1 3 3
 3817461165 - Mangala Skin 1 3R4
 3817461166 - Mangala Skin 1 3
 3817461167 - Mangala Skin 1 3C
-3818488070 - The Wakening
 3819034277 - Darkness Infused Weapon Frame
-3822166580 - Bounty Lead
+3820351995 - Nl Shadow 701X
 3824439360 - Valka Sr2
 3824439361 - Jigoku Sr2 Sl
 3824439362 - Jigoku Sr2
@@ -3433,8 +4877,16 @@
 3832716445 - Watchers Cloak
 3833808556 - Prime Zealot Cuirass
 3833808557 - Mantic Zealot Cuirass
+3835719300 - Cordova Hc3
+3835719301 - Kaifeng Hc3
+3835719302 - Mos Morsus Iii
+3835719303 - Mos Aria Iii
 3841705359 - Pacifier X
+3841866576 - The Next Big Thing
+3841951818 - Wolfswood Bond
+3842845801 - Moldering Shard
 3845518585 - Encoded Engram
+3848584870 - Darkblade Helm
 3848790130 - Cloak Of The Sojourn
 3848790131 - Cloak Of The Exodus
 3848816463 - Target Merok Eir Prince
@@ -3443,25 +4895,48 @@
 3851742138 - Encoded Engram
 3852109822 - Mark Of The Queens Guard
 3854010358 - Her Willful Gaze
+3858317451 - Fiscal Persuasion
+3858527625 - Healthy Balance
 3861368361 - Reforge Weapon
 3861425978 - Plasteel Plating
 3862831855 - Reforge Weapon
 3863146768 - Bronzed Thutmose D
+3863303220 - The Taken War
 3863421728 - Gloves Of The Exile
 3863421729 - Watchers Gloves
+3863768569 - Havoc Pigeon
 3865341762 - Cover Of No Tomorrows
 3865341763 - Astrolord Cover
+3868397590 - Two For The Road
 3868401372 - Encrypted Engram
+3870705330 - Outbound Signal
+3871542676 - Takanome Ranger 1 0
+3871542677 - Takanome Ranger 1 1
+3871542678 - Sinaa Lamprey 1 0
+3871542679 - Sinaa Lamprey 1 1
 3872678739 - Decoherent Engram
+3872841536 - Helm Of Krolok
 3872865688 - Watchers Boots
 3872865689 - Boots Of The Exile
 3873575357 - Patrol Cosmodrome
 3874319225 - Walking Tall
 3874415404 - Reforge Weapon
-3874590012 - A Challenged Claim
-3874590013 - Heavy Metal
 3878440319 - Sawtooth Oscillator
+3880752750 - Cant Stop
+3881084288 - Key Of Eir
+3881084289 - Key Of Ur
+3881084290 - Key Of Xol
+3881084291 - Key Of Yuul
+3881084292 - Key Of Akka
+3881084293 - Key Of Gnashing Teeth
+3881084294 - Key Of The Spawn
+3881084295 - Key Of Maggots
+3881084296 - Key Of Wyrding
 3881784492 - Pax Totalus Epr8
+3883201936 - Uffern Hc4
+3883201937 - Kumakatok Hc4
+3883201938 - Judith D
+3883201939 - Gaheris D
 3885369928 - Raku Fulcrum Type 4
 3885369929 - Raku Fulcrum Type 5
 3885369932 - Raku Fulcrum Type 0
@@ -3475,324 +4950,51 @@
 3889340165 - Axiom Coven Ii
 3889340166 - Axiom Coven Iv
 3889836230 - Decoherent Engram
+3890828180 - Paradox
+3891917281 - Talk To Cayde 6
 3892023023 - Fatebringer
+3894302355 - Coded Engram
 3894791157 - Vector Oath Vi
 3894791158 - Vector Oath Ii
 3894791159 - Vector Oath
-3895654017 - Tolands Legacy
+3895654017 - Sated Pulse Rifle
 3896118552 - Chroma Vow
 3896118553 - Chroma Vow I
 3896118554 - Chroma Vow Iii
 3896118555 - Chroma Vow Iv
+3896319299 - Legacy Engram
+3899618397 - Quest Item
+3900220874 - A Lay Of The Land
+3904035636 - Planetary Csc
+3904035637 - Qua Roris I
+3904035639 - Qua Brecan I
+3904536202 - Nirwens Mercy
 3904617893 - Decoherent Engram
 3906170148 - Legendary Engram
 3906170149 - Decoherent Engram
 3906535130 - Prudence Ii
-3907144815 - Eyes Of The Forsaken
-3910078217 - Wanted Howling Raiders
+3906812150 - Encrypted Engram
+3907475891 - Iron Companion Helm
+3907799186 - Harrowed Darkhollow Chiton
+3907799187 - Darkhollow Chiton
+3909571011 - Brute Force
+3909801117 - Legacy Engram
+3910559228 - Iron Companion Greaves
 3910621915 - Kellbreakers Path
+3911319537 - Singularity Specialist
 3911978215 - The Chaos And The Calm
-3914985799 - A Light In The Dark
+3914729417 - Team That Works Together
+3914985799 - Unbound Thorn
+3919765140 - Harrowed Defiance Of Yasmin
+3919765141 - Defiance Of Yasmin
 3919932809 - Mark Of The Executor
 3919932810 - Mark Of The Order
 3919932811 - Mark Of The Rising
 3920950905 - Queens Guard Boots
+3921595523 - Twilight Garrison
 3921902621 - Watchers Of Crota
+3923076868 - When The Smoke Clears
 3923782257 - Queens Guard Helm
-3925354447 - Welcome To The Reef
 3925560456 - Toutatis Type 0
 3925560457 - Toutatis Type 1
 3925560458 - Toutatis Type 2
-3925560459 - Toutatis Type 3
-3925959747 - Eyes Of The Forsaken
-3926983632 - Broken Truth Lr1
-3927086139 - Electrocutioner
-3927585417 - Duke Mk 10
-3928923417 - Regulus Class 66C Schematic
-3931594823 - Accept Invitation
-3935261130 - A Challenged Claim
-3936283169 - Wanted Ether Runner
-3941430338 - Legendary Engram
-3942481540 - Mark Of The Exodus
-3942481541 - Mark Of The Sojourn
-3946336760 - Astrolord Hood
-3946336761 - Hood Of No Tomorrow
-3946336763 - Cultists Hood
-3947396344 - Radegasts Fury
-3948831042 - Special Delivery
-3950413311 - Outrageous Fortune
-3953050482 - Moon Target
-3953073226 - Mark Of The Rising
-3953073227 - Mark Of The Order
-3955061687 - S 99 Dawnchaser
-3960893080 - Wanted Tracer Shanks
-3960996304 - Split Shifter Pro
-3960996305 - Snakebite Surgeon
-3962634928 - Durga Gnt Type 0
-3962634929 - Raku Crucible Type
-3963800865 - Hydrus
-3964606704 - Frumious Cloak
-3964606706 - Brawlers Cloak
-3964606707 - Cloak Of Perception
-3965514077 - Ritual Of The Forsaken
-3966668628 - Orders Mask
-3966668629 - Justicars Mask
-3968437225 - Skorris Revenge
-3972824857 - Patrol Mars
-3974515892 - Her Right Hand
-3975149217 - Encrypted Engram
-3975657851 - Reforge Weapon
-3980063840 - Octopus Cloak
-3980063842 - Cloak Of The Leopard
-3980063843 - Cloak Of The Mantis
-3982555097 - Venation Iii
-3987301062 - Astrolord Gauntlets
-3987301063 - Gauntlets Of No Tomorrow
-3989748008 - Imperieuse Helm
-3989748010 - Helm Of The Exile
-3989748011 - Watchers Helm
-3992691386 - Legendary Engram
-3995309170 - Watchers Gauntlets
-3995309171 - Gauntlets Of The Exile
-3996986648 - Queens Guard Helm
-3998486898 - Vest Of The Exile
-3999537132 - Queens Guard Hood
-4002149792 - Locus Watcher Ii
-4002149793 - Locus Watcher I
-4002149794 - Locus Watcher Iv
-4002149795 - Locus Watcher Iii
-4002149796 - Locus Watcher Vi
-4002149797 - Locus Watcher V
-4007053294 - Kellslayers Cuirass
-4007080987 - Encoded Engram
-4007228880 - Cloak Of No Tomorrow
-4007228881 - Astrolord Cloak
-4007228882 - Chaos Cloak
-4010100433 - Reforge Weapon
-4010915805 - Exotic Engram
-4011682973 - Patrol Cosmodrome
-4013007887 - Kellbreakers Cloak
-4015926630 - Gauntlets Of No Tomorrow
-4015926631 - Astrolord Gauntlets
-4016028184 - Kali Gnt Scout Rig
-4016028185 - Raku Vindicator
-4021554004 - Mark Of The Six Fronts
-4021554005 - Mark Of The Pilgrim Guard
-4021554007 - Mark Of The Bulwarks
-4022895248 - Reforge Weapon
-4023683318 - Reforge Weapon
-4026257891 - Wolves Bane
-4029703096 - Agema Type 2
-4029703098 - Agema Type 0
-4029703099 - Agema Type 1
-4029879832 - Legendary Engram
-4030362776 - Warlock Engram
-4033743764 - Fortuna Burn
-4033743765 - The Queens Web
-4034100438 - Predator And Prey
-4040430040 - The Devil You Dont
-4042984492 - Firebreak Type 3
-4042984493 - Firebreak Type 4
-4042984494 - Firebreak
-4042984495 - Firebreak Type 2
-4043676359 - Future War Cult
-4045141764 - Warrior Of The Reef
-4045258580 - Reforge Weapon
-4045656577 - Born Spark
-4046873053 - The Calling
-4062024497 - Mark Of The Risen
-4068236668 - Code Fire
-4068236669 - Code Fire I
-4068236670 - Code Fire Iv
-4068960035 - Exotic Engram
-4074407152 - Illyrian Type 0
-4074407153 - Illyrian Type 1
-4074407154 - Illyrian Type 2
-4075571038 - Trax Callum I
-4076245414 - The Wakening
-4077210168 - Cloak Of No Tomorrow
-4077210169 - Astrolord Cloak
-4079606240 - Robe Of The Hezen Lords
-4079606241 - Cuirass Of The Hezen Lords
-4083199281 - Walking Tall
-4083649582 - Dead Orbit
-4084969250 - Exotic Engram
-4085335778 - Royal Amethyst
-4086430879 - The Cure
-4086448332 - Dynamo Cloak
-4086448334 - Night Rain Cloak
-4086448335 - Rustworn Cloak
-4086742594 - Fallen Leaders
-4088331935 - Bounty Lead
-4089012876 - Mask Of Immanent War
-4091910568 - Sargon C
-4091910569 - Darius C
-4091910570 - Tamerlane C3
-4091910571 - Xerxes C
-4094449895 - Target Prohibitive Mind
-4095773253 - Cassiopeia
-4098195080 - Monolith Bleed Iii
-4098195081 - Symmetry Fang Ii
-4100063449 - Cloak Of The Sixth Reign
-4103768246 - Encoded Engram
-4106244623 - Electors Robe
-4108354702 - Exotic Engram
-4108852559 - Decoherent Engram
-4111350117 - Abydos Common
-4111350118 - Amduat Ink
-4111350119 - Aarus Passage
-4112903824 - Amalthea
-4112903825 - Nefertiti Ak
-4112903826 - Themisto
-4112903827 - Cleopatra Ak
-4114288667 - Mantle Of Gheleon
-4118365682 - Encrypted Engram
-4118890948 - Royal Amethyst
-4122642360 - Phaeton Class V3 1 Schematic
-4124258980 - Psi Volo Iii
-4124258981 - Suros Jps 32
-4124258982 - Pulsar Msm
-4124258983 - Psi Tempus Iii
-4130545914 - Reforge Weapon
-4132383826 - No Backup Plans
-4132466614 - Dominion
-4136763184 - Eye Of Osiris
-4136763188 - Prince Sigil
-4136763189 - Emperor Sigil
-4136763190 - Moon Of Osiris
-4136763191 - Sun Of Osiris
-4140563398 - Encrypted Engram
-4141295010 - Kestrel Class Ex
-4141295011 - Phaeton Class V1 1
-4141295016 - Phaeton Class V3
-4141295017 - Regulus Class 55
-4141295018 - Phaeton Class V1
-4141295019 - Phaeton Class V2
-4141295020 - Kestrel Class Ax
-4141295021 - Kestrel Class Cx
-4141295022 - Regulus Class 77
-4141295023 - Regulus Class 99
-4141399030 - Symmetry Fang Vi
-4141399031 - Monolith Bleed Iv
-4141501356 - Shotgun Telemetry
-4143281036 - Decoherent Engram
-4143660886 - Exotic Engram
-4144530906 - Target Sardok Eye Of Oryx
-4144666151 - Abyss Defiant
-4146057409 - Dont Touch Me
-4147620530 - Epitaph 2261
-4151458533 - Against All Odds
-4151831794 - Sanction Custom
-4151831795 - Carnivore Match
-4151852820 - Shake The Pillars
-4152094144 - Reforge Weapon
-4154571343 - Bounty Lead
-4155670896 - Formerly Penitent
-4155670897 - Sudazomba 3
-4155670898 - Bff 2 0
-4155670899 - Spirit Of Alliance
-4158955585 - Crypt Dweller Sr1
-4159298074 - Oblivion Greaves
-4159298075 - Exodus Greaves
-4159731660 - Auto Rifle Telemetry
-4159905410 - The Fermi Solution
-4160874107 - Encoded Engram
-4162366750 - Bounty Lead
-4164749891 - A Shared Fate
-4169223815 - Royal Amethyst
-4171787962 - Mark Of The Exile
-4176376071 - Reforge Weapon
-4176796019 - Spirit Bloom
-4183608783 - Her Right Hand
-4186410520 - Expansion
-4186410521 - Light Unknown
-4186410522 - Variable Flow
-4186652640 - Cx10 Spindle Demon Schematic
-4187038137 - Creations Wind
-4187038138 - Phantom Wisdom
-4187038139 - Trained Chaos
-4187254944 - Aos Al Suhail Ii
-4187254945 - Aos Al Suhail I
-4187254946 - Aos Al Suhail Iv
-4187254947 - Aos Al Suhail Iii
-4187254948 - Aos Al Suhail Vi
-4187254949 - Aos Al Suhail V
-4187908024 - Dark Heart Fragments
-4187908025 - Vex Carapace
-4187908026 - Ceremonial Blade
-4187908028 - Warmind Cell
-4187908030 - Deployment Orders
-4187910267 - Exotic Engram
-4188894836 - Violator Xii
-4189018494 - Lrv3 Javelin Schematic
-4189969194 - Future War Cult
-4197359024 - Manifold Seeker I
-4197359025 - Manifold Seeker Ii
-4198044325 - Target Aksor Archon Priest
-4203554249 - Mark Of The Duskborn
-4203554250 - Mark Of The Hidden
-4203554251 - Mark Of The Spawn
-4204366032 - Locus Watcher I
-4204366033 - Locus Watcher Ii
-4204366034 - Locus Watcher Iii
-4204366035 - Locus Watcher Iv
-4204366036 - Locus Watcher V
-4204366037 - Locus Watcher Vi
-4204877210 - Queens Guard Gloves
-4205889715 - Prototype 0 9B
-4212421084 - Relic Harvest Fallen
-4218415947 - Infusion Of Light
-4221724486 - Rise Above
-4225380148 - Reforge Weapon
-4228432442 - Orders Gloves
-4228432443 - Justicars Gloves
-4228593543 - Electrocutioner
-4230902152 - Of Iron Made
-4233409820 - Uppercut Payload
-4233409821 - Wastelander V2V
-4233409823 - The Ash Factory
-4236675160 - Legendary Engram
-4239364924 - Vesta Noblese
-4244487160 - Electors Grip
-4248210736 - Default Shader
-4248486431 - Exotic Engram
-4249590861 - Cloak Of Repair
-4249631281 - 13098V Incognito
-4251892203 - Exodus Plan Rs 1
-4252504452 - Fang Of Ir Yut
-4253790216 - Shroud Of Flies
-4254137624 - Afv2 Octavian
-4254137625 - Afv3 Octavian
-4254137628 - Lrv1 Javelin
-4254137629 - Lrv2 Javelin
-4254137630 - Lrv3 Javelin
-4254137631 - Afv1 Octavian
-4254370668 - In The Zone
-4255331526 - Bracus Thaaurn
-4261020560 - Gone To Ground
-4265265106 - 55A Allfate
-4270124520 - The Risen Ones
-4270124521 - The Order
-4270124522 - The Age To Come
-4271971060 - Bronzed Nox Volo V
-4279147592 - Agema Type 0
-4279147593 - Agema Type 1
-4279284444 - Argus Deimatic 1 3
-4279284445 - Argus Deimatic 1 3R1
-4280506273 - Boneshaker
-4282434168 - Primus Shaaull
-4282910890 - Reforge Weapon
-4284082280 - Special Delivery
-4284082281 - Special Delivery
-4284082282 - Special Delivery
-4284082283 - Special Delivery
-4284082284 - Special Delivery
-4284082285 - Special Delivery
-4284082286 - Special Delivery
-4284082287 - Special Delivery
-4288153648 - Unstoppable
-4290015127 - Out Of Sight
-4291084538 - Encoded Engram
-4292535404 - Exodus Greaves
-4292535405 - Oblivion Greaves
-4294567508 - Dead Light Helm
