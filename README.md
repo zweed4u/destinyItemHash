@@ -17,10 +17,11 @@ Item search is via substring so "gja" returns:
 
 ==================================================
 Recently, Bungie has required an API Key header to view their '/Manifest/*' path. I migrated to urllib2 to allow header addition in the request. Image download is still available publicly without any headers so I stuck with urllib to download.   
--UPDATE-  
+#UPDATE
 API Key is no longer needed in the request. API Key will still be implemented to ensure proper functionality.  
 On the fly API Key generating maybe something to come in the future.  
-
+##TTK - 2.0! (Where is the new stuff?!)
+With the Taken King finally released, many new items have been hashed and indexed. The current text file catalogged all hashes available as of September 14th, 2015. To ensure the your hash catalog is synchronous with the current up to date database - remove all instances of 'itemHashCatalog.txt' from the local directory and run. The script will write the current catalog to file and continue the program with this table as the reference.  
 
 
 Contact me with any questions: @ZWeed4U
