@@ -112,12 +112,24 @@ data = json.loads(resp.read())
 itemInfoDict = data.values()[4]
 
 #Text class here for prettiness
-print "Name: "+itemInfoDict[u'data'][u'inventoryItem'][u'itemName']
-print "Description: "+itemInfoDict[u'data'][u'inventoryItem'][u'itemDescription']
-print "Type of weapon: "+itemInfoDict[u'data'][u'inventoryItem'][u'itemTypeName']
-print "Tier: " +itemInfoDict[u'data'][u'inventoryItem'][u'tierTypeName']
+class color:
+		PURPLE = '\033[95m'
+		CYAN = '\033[96m'
+		DARKCYAN = '\033[36m'
+		BLUE = '\033[94m'
+		GREEN = '\033[92m'
+		YELLOW = '\033[93m'
+		RED = '\033[91m'
+		BOLD = '\033[1m'
+		UNDERLINE = '\033[4m'
+		END = '\033[0m'
+
+print color.UNDERLINE+color.BOLD+"Name:"+color.END+" "+itemInfoDict[u'data'][u'inventoryItem'][u'itemName']
+print color.UNDERLINE+color.BOLD+"Description:"+color.END+" "+itemInfoDict[u'data'][u'inventoryItem'][u'itemDescription']
+print color.UNDERLINE+color.BOLD+"Type of weapon:"+color.END+" "+itemInfoDict[u'data'][u'inventoryItem'][u'itemTypeName']
+print color.UNDERLINE+color.BOLD+"Tier:"+color.END +" "+itemInfoDict[u'data'][u'inventoryItem'][u'tierTypeName']
 iconUrl='http://www.bungie.net'+itemInfoDict[u'data'][u'inventoryItem'][u'icon']
-print "Icon: "+iconUrl
+print color.UNDERLINE+color.BOLD+"Icon:"+color.END+" "+iconUrl
 
 print "\nSaving icon to "+os.path.dirname(os.path.realpath(__file__))+"/icons/" +itemName.split('\n')[0]+".jpg\n"
 

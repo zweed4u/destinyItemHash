@@ -1455,6 +1455,8 @@
 1173766590 - Doctrine Of Passing
 1173766591 - Doctrine Of Passing Adept
 1176774397 - Watchers Of Crota
+1177550374 - Bad Juju
+1177550375 - Red Death
 1181701428 - Reforge Weapon
 1183877541 - Reforge Weapon
 1184912345 - Talk To Zavala
@@ -4996,5 +4998,3 @@
 3923076868 - When The Smoke Clears
 3923782257 - Queens Guard Helm
 3925560456 - Toutatis Type 0
-3925560457 - Toutatis Type 1
-3925560458 - Toutatis Type 2
